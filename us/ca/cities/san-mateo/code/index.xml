@@ -3,8 +3,8 @@
   <heading>City of San Mateo Municipal Code</heading>
   <meta>
     <effective>0001-01-02</effective>
-    <recency through="2018-03-05">
-      <doc id="City of San Mateo, Cal., Ord. No. 2018-2" type="ordinance"/>
+    <recency through="2018-05-16">
+      <doc id="City of San Mateo, Cal., Ord. No. 2018-3" type="ordinance"/>
     </recency>
   </meta>
   <xi:include href="./1.xml"/>
