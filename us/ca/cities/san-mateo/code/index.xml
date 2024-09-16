@@ -9,8 +9,8 @@
         <volume start="17"/>
       </volumes>
     </print>
-    <recency through="2023-12-20">
-      <doc id="City of San Mateo, Cal., Ord. No. 2023-11" type="ordinance"/>
+    <recency through="2024-01-03">
+      <doc id="City of San Mateo, Cal., Ord. No. 2023-13" type="ordinance"/>
     </recency>
   </meta>
   <xi:include href="./1.xml"/>
