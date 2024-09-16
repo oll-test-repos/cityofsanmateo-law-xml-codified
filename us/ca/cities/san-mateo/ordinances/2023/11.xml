@@ -37,7 +37,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="23.54.025">Section 23.54.025 of the San Mateo Municipal Code</cite> is added to read as follows:</text>
     <include>
       <section>
-        <codify:insert path="23.54" after="23.54.020" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.54.025" codified:citation="Section 23.54.025" codified:display="New"/>
+        <codify:insert path="23.54" after="23.54.020" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.54.025"/>
         <num>23.54.025</num>
         <heading>Secured Building Access for Emergency Personnel</heading>
         <text>Where access to commercial or multi-tenant buildings is restricted because of secured entry points, the Police Chief or their designee is authorized to specify and require the installation and maintenance of an emergency access system, for when immediate police access is necessary for life-saving or emergency purposes. A police emergency access system installed and maintained under this section is in addition to the requirements of other adopted codes, including the California Fire Code.</text>
@@ -49,7 +49,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="23.54.035">Section 23.54.035 of the San Mateo Municipal Code</cite> is added to read as follows:</text>
     <include>
       <section>
-        <codify:insert path="23.54" after="23.54.030" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.54.035" codified:citation="Section 23.54.035" codified:display="New"/>
+        <codify:insert path="23.54" after="23.54.030" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.54.035"/>
         <num>23.54.035</num>
         <heading>Video Surveillance Systems</heading>
         <text>Commercial and multi-tenant buildings shall have installed and maintain a recording video surveillance system with cameras placed to view publicly accessible exterior grounds contiguous to that property. Additional cameras and camera technologies may be installed by a property owner, and additional cameras and camera technologies may be required based on project-specific conditions including, but not limited to, project size, and location as determined by the Chief of Police or their designee. A video surveillance system installed under this section shall be approved by the Chief of Police or their designee.</text>
