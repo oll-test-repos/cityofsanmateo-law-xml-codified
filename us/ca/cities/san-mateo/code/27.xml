@@ -12028,21 +12028,21 @@
     </section>
     <section>
       <num>27.64.100</num>
-      <heading>PARKING ASSESSMENT AND SPECIAL DISTRICTS.</heading>
+      <heading>PARKING ASSESSMENT AND SPECIAL DISTRICTS</heading>
       <para>
         <num>(a)</num>
         <text>Downtown Specific Planning Area—Central Parking and Improvement District (CPID).</text>
         <para>
           <num>(1)</num>
-          <text>Minimum Parking Requirements. Where a parcel of real property is located within the Central Parking and Improvement District, new projects to be located on said parcel shall meet the off-street parking requirements as follows:</text>
+          <text>Minimum Parking Requirements. Where a parcel of real property is located within the Central Parking and Improvement District, new projects to be located on said parcel shall either fund a City-commissioned project-specific parking demand study to determine the number of required parking spaces or meet the off-street parking requirements set forth below:</text>
           <text>
             <table>
               <caption>MINIMUM PARKING STALLS REQUIRED<br/>STALLS PER 1,000 GROSS SQUARE FEET OF FLOOR AREA EXCEPT WHERE OTHERWISE INDICATED</caption>
               <thead>
                 <tr>
                   <th>Use</th>
-                  <th>Employee/Resident</th>
-                  <th>Visitor/Customer</th>
+                  <th>Employee/​Resident</th>
+                  <th>Visitor/​Customer</th>
                   <th>Total</th>
                 </tr>
               </thead>
@@ -12143,13 +12143,13 @@
                   <td>0.5</td>
                   <td>1.9</td>
                 </tr>
+                <tr>
+                  <td>(H) Other Uses</td>
+                  <td colspan="3">All uses not specified above shall provide the off-street parking facilities as specified in Sections <cite path="27.64.160">27.64.160</cite> through <cite path="27.64.270">27.64.270</cite>.</td>
+                </tr>
               </tbody>
             </table>
           </text>
-          <para>
-            <num proof="done">(H)</num>
-            <text>Other Uses. All uses not specified above shall provide the off-street parking facilities as specified in Sections <cite path="27.64.160">27.64.160</cite> through <cite path="27.64.270">27.64.270</cite>.</text>
-          </para>
         </para>
         <para>
           <num>(2)</num>
@@ -12222,13 +12222,29 @@
               <text>The parcel is located on a corner site which has a minimum lot area of 22,000 square feet or one-half the land area of the block in which the use is located, whichever is less.</text>
             </para>
           </para>
+          <para>
+            <num>(D)</num>
+            <text>Projects within the Limited Parking Zone may pay the City's parking in lieu fee for any required parking not provided on site.</text>
+          </para>
         </para>
         <para>
           <num>(5)</num>
-          <text>Parking Expansion Zone. Parking provided in addition to the minimum parking requirements may be leased to the CPID on a long term basis as public parking in accordance with a current CPID resolution.</text>
+          <text>Projects within the City's Central Parking Improvement District and outside of the Limited Parking Zone must satisfy a minimum of 25% of the project's required parking through provision of on-site parking.  However, in order to prevent parking shortages in public parking facilities or neighboring residential zones, projects within the City's Central Parking Improvement District and outside of the Limited Parking Zone must satisfy a minimum of 50% of the project's required parking through provision of on-site parking when:</text>
+          <para>
+            <num>(A)</num>
+            <text>Public off-street parking occupancy within one-quarter mile of the proposed project location exceeds 85% at peak periods based on a parking study; or</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>The proposed project location is adjacent to areas zoned R-1, R-2, R-3, R-4, or R-5.</text>
+          </para>
         </para>
         <para>
           <num>(6)</num>
+          <text>Parking Expansion Zone. Parking provided in addition to the minimum parking requirements may be leased to the CPID on a long term basis as public parking in accordance with a current CPID resolution.</text>
+        </para>
+        <para>
+          <num>(7)</num>
           <text>Employee and Resident Parking.</text>
           <para>
             <num>(A)</num>
@@ -12277,15 +12293,18 @@
                 </table>
               </text>
             </para>
-            <aftertext>A reduction in the employee parking requirement may be granted equal to the percentage difference between the lower employee density demonstrated by the applicant and the employee density standards delineated above.</aftertext>
+            <para>
+              <num>(ii)</num>
+              <text>A reduction in the employee parking requirement may be granted equal to the percentage difference between the lower employee density demonstrated by the applicant and the employee density standards delineated above.</text>
+            </para>
           </para>
         </para>
         <para>
-          <num>(7)</num>
+          <num>(8)</num>
           <text>Visitor and Customer Parking. New projects within the CPID may utilize the spaces provided by the CPID for the visitor and customer parking requirement, subject to assessment as defined by a current CPID resolution and availability of spaces.</text>
         </para>
         <para>
-          <num>(8)</num>
+          <num>(9)</num>
           <text>Loss of Metered Parking. New projects which result in the loss of on-street metered CPID parking spaces shall compensate the CPID for the loss of metered parking by one (1) of the following:</text>
           <para>
             <num>(A)</num>
@@ -12314,6 +12333,7 @@
         <text>Hillsdale Station Area. Where a parcel of real property is located within the Hillsdale Station Area Plan boundary, off-street parking is subject to the Station Area Parking Requirements listed in the Plan. In addition, all new development on such properties must prepare a Trip Reduction and Parking Management Plan as detailed in the Hillsdale Station Area Plan, including, but not limited to, Table 6-1, Station Area Parking Requirements.</text>
       </para>
       <annotations>
+        <annotation type="Applicability">Subsection (a)(5) of this section applies only to projects without a submitted planning application on May 6, 2020.</annotation>
         <annotation type="History">prior code § 151.03(C)</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1969-26" path="§2" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1973-8" path="§1" type="History"/>
@@ -12330,6 +12350,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1993-17" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-7" path="§32" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2011-5" path="§7" type="History"/>
+        <annotation app="2020-05-06" doc="City of San Mateo, Cal., Ord. No. 2020-4" eff="2020-05-06" path="§1" type="History"/>
       </annotations>
     </section>
     <section>
