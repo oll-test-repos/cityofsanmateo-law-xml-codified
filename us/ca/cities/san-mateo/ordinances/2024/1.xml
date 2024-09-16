@@ -40,7 +40,7 @@
     <num>1</num>
     <text><cite doc="City of San Mateo, Cal., Code" path="23.54.005|(b)">Subsection (b) of Section 23.54.005 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <para>
-      <codify:replace path="23.54.005|(b)" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.54.005|(b)" codified:citation="Section 23.54.005" codified:display="Amend"/>
+      <codify:replace path="23.54.005|(b)" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.54.005|(b)"/>
       <num>(b)</num>
       <text>To apply crime prevention through environmental design and safety technologies.</text>
     </para>
@@ -49,7 +49,7 @@
     <num>2</num>
     <text><cite doc="City of San Mateo, Cal., Code" path="5.44.050|(q)">Subsection (q) of Section 5.44.050 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <para>
-      <codify:replace path="5.44.050|(q)" codified:doc="City of San Mateo, Cal., Code" codified:path="|5.44.050|(q)" codified:citation="Section 5.44.050" codified:display="Amend"/>
+      <codify:replace path="5.44.050|(q)" codified:doc="City of San Mateo, Cal., Code" codified:path="|5.44.050|(q)"/>
       <num>(q)</num>
       <text>Minimum lighting consisting of at least one artificial light of not less than 450 lumens shall be provided and shall be operating in each room or enclosure where massage services are being performed on clients, and in all areas where clients are present.</text>
     </para>
@@ -58,7 +58,7 @@
     <num>3</num>
     <text><cite doc="City of San Mateo, Cal., Code" path="23.54.020">Section 23.54.020 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <text>All new buildings with a top plate height of 55 feet or more shall provide a location on the building for installation of City radio communications equipment, including antennas and their supporting equipment. An electrical supply source shall be provided by the permittee at the antenna/equipment location, and reasonable access shall be provided by the permittee and/or building owner to City staff and/or City contractors for installation of necessary telephone lines and for purposes of installation, maintenance, adjustment and repair of the antenna/equipment. This access and location agreement shall be recorded in terms that convey the intent and meaning of this condition in the form approved by the City Attorney.</text>
-    <codify:replace path="23.54.020|text" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.54.020" codified:citation="Section 23.54.020" codified:display="Amend">
+    <codify:replace path="23.54.020|text" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.54.020">
       <text>All new buildings with a top plate height of 55 feet or more shall provide a location on the building for installation of City radio communications equipment, including antennas and their supporting equipment. An electrical supply source shall be provided by the permittee at the antenna/equipment location, and reasonable access shall be provided by the permittee and/or building owner to City staff and/or City contractors for installation of necessary telephone lines and for purposes of installation, maintenance, adjustment and repair of the antenna/equipment. This access and location agreement shall be recorded in terms that convey the intent and meaning of this condition in the form approved by the City Attorney.</text>
     </codify:replace>
   </section>
