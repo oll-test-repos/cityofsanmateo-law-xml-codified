@@ -45,7 +45,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="2.29.010">Section 2.29.010 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace doc="City of San Mateo, Cal., Code" path="2.29.010" codified:doc="City of San Mateo, Cal., Code" codified:path="|2.29.010" codified:citation="Section 2.29.010" codified:display="Amend"/>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="2.29.010" codified:doc="City of San Mateo, Cal., Code" codified:path="|2.29.010"/>
         <num>2.29.010</num>
         <heading>Organization.</heading>
         <text>The senior advisory commission of the City shall consist of no more than five members appointed by the Council. Members shall be persons who display an interest in and appreciation of senior affairs.</text>
@@ -58,7 +58,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="2.29.020">Section 2.29.020 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace doc="City of San Mateo, Cal., Code" path="2.29.020" codified:doc="City of San Mateo, Cal., Code" codified:path="|2.29.020" codified:citation="Section 2.29.020" codified:display="Amend"/>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="2.29.020" codified:doc="City of San Mateo, Cal., Code" codified:path="|2.29.020"/>
         <num>2.29.020</num>
         <heading>Meetings.</heading>
         <text>Regular meetings will take place on the second Monday of every other month at 4 PM.</text>
@@ -70,7 +70,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="2.29.030">Section 2.29.030 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace doc="City of San Mateo, Cal., Code" path="2.29.030" codified:doc="City of San Mateo, Cal., Code" codified:path="|2.29.030" codified:citation="Section 2.29.030" codified:display="Amend"/>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="2.29.030" codified:doc="City of San Mateo, Cal., Code" codified:path="|2.29.030"/>
         <num>2.29.030</num>
         <heading>Powers – Duties.</heading>
         <text>It shall be the objective of the senior advisory commission, as an advisory body to the Council, to encourage, foster, and facilitate programs for the enhancement of all matters relating to the social, economic, and personal well-being of the senior population.</text>
