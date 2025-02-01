@@ -54,7 +54,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="27.06.020">Section 27.06.020 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="27.06.020" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.06.020" codified:citation="Section 27.06.020" codified:display="Amend"/>
+        <codify:replace path="27.06.020" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.06.020"/>
         <num>27.06.020</num>
         <heading>ZONING ADMINISTRATOR—POWERS AND DUTIES.</heading>
         <text>The Zoning Administrator shall enforce the provisions of <cite doc="City of San Mateo, Cal., Code" path="27">this Title</cite>, and shall:</text>
@@ -202,7 +202,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="27.06.040">Section 27.06.040 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="27.06.040" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.06.040" codified:citation="Section 27.06.040" codified:display="Amend"/>
+        <codify:replace path="27.06.040" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.06.040"/>
         <num>27.06.040</num>
         <heading>PLANNING COMMISSION—JURISDICTION.</heading>
         <para>
@@ -277,7 +277,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="27.08.030">Section 27.08.030 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="27.08.030" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.08.030" codified:citation="Section 27.08.030" codified:display="Amend"/>
+        <codify:replace path="27.08.030" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.08.030"/>
         <num>27.08.030</num>
         <heading>SITE PLAN AND ARCHITECTURAL REVIEW (SPAR).</heading>
         <para>
@@ -320,7 +320,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="27.21.030">Section 27.21.030 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="27.21.030" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.21.030" codified:citation="Section 27.21.030" codified:display="Amend"/>
+        <codify:replace path="27.21.030" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.21.030"/>
         <num>27.21.030</num>
         <heading>Rules of Procedure</heading>
         <text>Except as otherwise outlined below, the applicable rules of procedure contained in <cite doc="City of San Mateo, Cal., Code" path="27.08">Chapter 27.08</cite> shall apply to all SB 9 planning applications. Where there is a conflict, standards in <cite doc="City of San Mateo, Cal., Code" path="27.21">this Chapter</cite> shall prevail.</text>
@@ -404,7 +404,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="27.39.120">Section 27.39.120 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="27.39.120" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.39.120" codified:citation="Section 27.39.120" codified:display="Amend"/>
+        <codify:replace path="27.39.120" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.39.120"/>
         <num>27.39.120</num>
         <heading>RESIDENTIAL DEVELOPMENT STANDARDS.</heading>
         <text>In this district, residential uses shall be permitted as part of mixed-use developments, subject to the City's Objective Design Standards as adopted by resolution of the City Council and requirements of <cite doc="City of San Mateo, Cal., Code" path="27.38.130">Section 27.38.130</cite>.</text>
