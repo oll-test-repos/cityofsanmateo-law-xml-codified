@@ -3512,48 +3512,49 @@
         <text>Land use categories are defined as follows:</text>
         <para>
           <num>(1)</num>
-          <text>"Single Family Residential" use includes a single family dwelling and a small community care facility with six or fewer residents.</text>
+          <text>Hotel, which includes facilities used for the overnight lodging of guests.</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>"Multi-family Residential" use means a secondary unit, duplex, town house, apartment, condominium, mobile home, multiple family dwelling, and community care facility with more than six residents.</text>
+          <text>Industrial, which includes but is not limited to, facilities used for the manufacturing, processing, or storage of goods.</text>
         </para>
         <para>
           <num>(3)</num>
-          <text>"Senior Citizen Housing" use means multi-family housing permitted as a special use in a Senior Citizen Overlay District and meeting the use criteria under <cite path="27.61.040">Section 27.61.040</cite> of this code.</text>
+          <text>Institution, which includes but is not limited to, religious, governmental, educational, and cultural uses.</text>
         </para>
         <para>
           <num>(4)</num>
-          <text>"Commercial" use means all retail, office, and service commercial uses. Office uses include facilities primarily used for professional (legal, engineering, accounting), financial, insurance, real estate, and other office-related uses which do not provide primarily walk-in services to the public. Retail/Services uses include facilities primarily used for the sale of retail goods and/or personal services, including all retail sales outlets, facilities for the on-site sale of food and/or beverages, and personal services such as laundries, cleaners, copy stores, hairdressers, etc. Service Commercial uses include facilities primarily used for providing business or auto-related services to the public such as auto repair shops, contractor storage and offices and miscellaneous repair services.</text>
+          <text>Multi-family residential, which includes but is not limited to, a secondary unit, duplex, townhouse, apartment, condominium, mobile home, multiple family dwelling, and community care facility with more than six residents.</text>
         </para>
         <para>
           <num>(5)</num>
-          <text>"Manufacturing/Warehouse" use means facilities used for the manufacture, processing, or storage of goods.</text>
+          <text>Office, which includes but is not limited to, facilities primarily used for professional (legal, engineering, accounting), financial, insurance, real estate, and other office-related uses which do not provide primarily walk-in services to the public.</text>
         </para>
         <para>
           <num>(6)</num>
-          <text>"Hotel" use means facilities used for the overnight lodging of guests.</text>
+          <text>Retail, which includes but is not limited to, facilities primarily used for the sale of retail goods or personal services, including all retail sales outlets, facilities for the on-site sale of food or beverages, and personal services such as laundries, cleaners, copy stores, and hairdressers.</text>
         </para>
         <para>
           <num>(7)</num>
-          <text>"Hospital" use means hospitals and other medical facilities with overnight patient capacity including skilled nursing and intermediate care facilities.</text>
+          <text>Single Family Residential, which includes but is not limited to, a single-family dwelling and a small community care facility with six or fewer residents.</text>
         </para>
         <para>
           <num>(8)</num>
-          <text>"Entertainment/Commercial Recreation" use means theatres, bowling alleys, health and sports clubs, and museums.</text>
-        </para>
-        <para>
-          <num>(9)</num>
-          <text>"Churches and Places of Public Assembly" use means church sanctuaries and related facilities, labor union halls, social clubs, fraternal organization facilities, and other places of public assembly.</text>
-        </para>
-        <para>
-          <num>(10)</num>
-          <text>Other uses. The zoning administrator shall determine the appropriate land use category for any use not set forth in 1) through 11 above, based on similarity of use, and peak hour trip characteristics of the use as indicated in the most current edition of the International Transportation Engineering Manual.</text>
+          <text>Other uses. The zoning administrator shall determine the appropriate land use category for any use not set forth above, based on similarity of use and peak hour trip characteristics of the use as indicated in the most current edition of the International Transportation Engineering Manual.</text>
         </para>
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1990-21" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-7" path="§11" type="History"/>
+        <annotation app="2022-01-14" doc="City of San Mateo, Cal., Ord. No. 2021-24" eff="2022-01-14" path="§6|(1)" type="History"/>
+        <annotation app="2022-01-14" doc="City of San Mateo, Cal., Ord. No. 2021-24" eff="2022-01-14" path="§6|(2)" type="History"/>
+        <annotation app="2022-01-14" doc="City of San Mateo, Cal., Ord. No. 2021-24" eff="2022-01-14" path="§6|(3)" type="History"/>
+        <annotation app="2022-01-14" doc="City of San Mateo, Cal., Ord. No. 2021-24" eff="2022-01-14" path="§6|(4)" type="History"/>
+        <annotation app="2022-01-14" doc="City of San Mateo, Cal., Ord. No. 2021-24" eff="2022-01-14" path="§6|(5)" type="History"/>
+        <annotation app="2022-01-14" doc="City of San Mateo, Cal., Ord. No. 2021-24" eff="2022-01-14" path="§6|(6)" type="History"/>
+        <annotation app="2022-01-14" doc="City of San Mateo, Cal., Ord. No. 2021-24" eff="2022-01-14" path="§6|(7)" type="History"/>
+        <annotation app="2022-01-14" doc="City of San Mateo, Cal., Ord. No. 2021-24" eff="2022-01-14" path="§6|(8)" type="History"/>
+        <annotation app="2022-01-14" doc="City of San Mateo, Cal., Ord. No. 2021-24" eff="2022-01-14" path="§6" type="History"/>
       </annotations>
     </section>
     <section>
