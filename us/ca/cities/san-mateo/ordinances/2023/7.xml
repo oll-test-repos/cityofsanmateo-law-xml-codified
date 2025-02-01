@@ -45,7 +45,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="7.41.005">Section 7.41.005 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="7.41">Chapter 7.41</cite> as follows:</text>
     <include>
       <section>
-        <codify:insert path="7.41" before="7.41.010" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.41.005" codified:citation="Section 7.41.005" codified:display="New"/>
+        <codify:insert path="7.41" before="7.41.010" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.41.005"/>
         <num>7.41.005</num>
         <heading>Definitions.</heading>
         <para>
@@ -184,7 +184,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="7.41.010" proof="needed">Section 7.41.010 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="7.41.010" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.41.010" codified:citation="Section 7.41.010" codified:display="Amend"/>
+        <codify:replace path="7.41.010" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.41.010"/>
         <num>7.41.010</num>
         <heading>Requirement for a Permit.</heading>
         <para>
@@ -215,7 +215,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="7.41.015">Section 7.41.015 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="7.41">Chapter 7.41</cite> as follows:</text>
     <include>
       <section>
-        <codify:insert path="7.41" after="7.41.010" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.41.015" codified:citation="Section 7.41.015" codified:display="New"/>
+        <codify:insert path="7.41" after="7.41.010" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.41.015"/>
         <num>7.41.015</num>
         <heading>Permit Conveys a Limited, Conditional Privilege.</heading>
         <text>Nothing in <cite doc="City of San Mateo, Cal., Code" path="7.41" proof="needed">this Chapter</cite> shall be construed to grant any Person or entity obtaining and maintaining a Permit any status or right other than the limited, conditional privilege to Sell Tobacco Products and act as a Tobacco Retailer at the location in the County identified on the face of the Permit for the period of time shown on the Permit. All Permits are issued subject to the County's right to amend <cite doc="City of San Mateo, Cal., Code" path="7.41" proof="needed">this Chapter</cite> from time to time, and Retailers shall comply with all provisions of <cite doc="City of San Mateo, Cal., Code" path="7.41">this Chapter</cite>, as amended.</text>
@@ -227,7 +227,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="7.41.020">Section 7.41.020 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="7.41.020" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.41.020" codified:citation="Section 7.41.020" codified:display="Amend"/>
+        <codify:replace path="7.41.020" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.41.020"/>
         <num>7.41.020</num>
         <heading>Application, Issuance and Renewal Procedure.</heading>
         <para>
@@ -270,7 +270,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="7.41.030">Section 7.41.030 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="7.41.030" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.41.030" codified:citation="Section 7.41.030" codified:display="Amend"/>
+        <codify:replace path="7.41.030" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.41.030"/>
         <num>7.41.030</num>
         <heading>Display of Permit.</heading>
         <text>Upon receipt of an application for a Tobacco Retailer's Permit in compliance with the requirements of <cite doc="City of San Mateo, Cal., Code" path="7.41">this Chapter</cite>, the Director or designee may issue a Permit which, if issued, must be prominently displayed in a publicly visible location at the location where Tobacco Product Sales are conducted and permitted.</text>
@@ -282,7 +282,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="7.41.031">Section 7.41.031 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="7.41">Chapter 7.41</cite> as follows:</text>
     <include>
       <section>
-        <codify:insert path="7.41" after="7.41.030" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.41.031" codified:citation="Section 7.41.031" codified:display="New"/>
+        <codify:insert path="7.41" after="7.41.030" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.41.031"/>
         <num>7.41.031</num>
         <heading>Prohibitions Regarding Coupons, Discounts, Pharmacies, Flavored Tobacco, and Electronic Smoking Devices.</heading>
         <para>
@@ -325,7 +325,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="7.41.032">Section 7.41.032 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="7.41">Chapter 7.41</cite> as follows:</text>
     <include>
       <section>
-        <codify:insert path="7.41" after="7.41.031" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.41.032" codified:citation="Section 7.41.032" codified:display="New"/>
+        <codify:insert path="7.41" after="7.41.031" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.41.032"/>
         <num>7.41.032</num>
         <heading>Packaging and Labeling.</heading>
         <text>No Tobacco Retailer or other Person shall Sell or offer for Sale any Tobacco Product to any Consumer unless the Tobacco Product (1) is Sold in the original manufacturer's Packaging intended for Sale to Consumers; (2) conforms to all applicable federal Labeling requirements; and (3) conforms to all applicable child-resistant packaging requirements.</text>
@@ -337,7 +337,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="7.41.033">Section 7.41.033 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="7.41">Chapter 7.41</cite> as follows:</text>
     <include>
       <section>
-        <codify:insert path="7.41" after="7.41.032" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.41.033" codified:citation="Section 7.41.033" codified:display="New"/>
+        <codify:insert path="7.41" after="7.41.032" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.41.033"/>
         <num>7.41.033</num>
         <heading>Self-Service Displays Prohibited; On-site, In-Person Sales Required.</heading>
         <para>
@@ -356,7 +356,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="7.41.034">Section 7.41.034 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="7.41">Chapter 7.41</cite> as follows:</text>
     <include>
       <section>
-        <codify:insert path="7.41" after="7.41.033" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.41.034" codified:citation="Section 7.41.034" codified:display="New"/>
+        <codify:insert path="7.41" after="7.41.033" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.41.034"/>
         <num>7.41.034</num>
         <heading>Notice of Minimum Age for Purchase of Tobacco Products</heading>
         <text>Tobacco Retailers shall post conspicuously, at each point of purchase, a notice stating that Selling Tobacco Products to anyone under 21 years of age is illegal and subject to penalties. The form and content of such notice shall be subject to the approval of the Director.</text>
@@ -368,7 +368,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="7.41.035">Section 7.41.035 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="7.41" proof="needed">Chapter 7.41</cite> as follows:</text>
     <include>
       <section>
-        <codify:insert path="7.41" after="7.41.034" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.41.035" codified:citation="Section 7.41.035" codified:display="New"/>
+        <codify:insert path="7.41" after="7.41.034" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.41.035"/>
         <num>7.41.035</num>
         <heading>Positive Identification Required.</heading>
         <text>No Tobacco Retailer or other Person shall Sell or offer to Sell a Tobacco Product to another Person without first verifying by means of government-issued photographic identification that the recipient is at least the minimum legal sales age required under state law to purchase a Tobacco Product.</text>
@@ -380,7 +380,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="7.41.036">Section 7.41.036 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="7.41">Chapter 7.41</cite> as follows:</text>
     <include>
       <section>
-        <codify:insert path="7.41" after="7.41.035" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.41.036" codified:citation="Section 7.41.036" codified:display="New"/>
+        <codify:insert path="7.41" after="7.41.035" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.41.036"/>
         <num>7.41.036</num>
         <heading>Minimum Age for Individuals Selling Tobacco Products.</heading>
         <text>No Tobacco Retailer shall allow, at its Retail location, any individual who is younger than 21 years of age to Sell or offer to Sell Tobacco Products.</text>
@@ -392,7 +392,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="7.41.037">Section 7.41.037 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="7.41">Chapter 7.41</cite> as follows:</text>
     <include>
       <section>
-        <codify:insert path="7.41" after="7.41.036" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.41.037" codified:citation="Section 7.41.037" codified:display="New"/>
+        <codify:insert path="7.41" after="7.41.036" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.41.037"/>
         <num>7.41.037</num>
         <heading>Display or Offers to Sell Tobacco Products Without Tobacco Retailer Permit Prohibited</heading>
         <para>
@@ -415,7 +415,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="7.41.038">Section 7.41.038 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="7.41">Chapter 7.41</cite> as follows:</text>
     <include>
       <section>
-        <codify:insert path="7.41" after="7.41.037" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.41.038" codified:citation="Section 7.41.038" codified:display="New"/>
+        <codify:insert path="7.41" after="7.41.037" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.41.038"/>
         <num>7.41.038</num>
         <heading>Limits on Eligibility for a Permit.</heading>
         <para>
@@ -450,7 +450,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="7.41.040" proof="needed">Section 7.41.040 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="7.41.040" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.41.040" codified:citation="Section 7.41.040" codified:display="Amend"/>
+        <codify:replace path="7.41.040" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.41.040"/>
         <num>7.41.040</num>
         <heading>Fees for Permit</heading>
         <text>Tobacco retailers shall pay all applicable fees at the rates set forth in <cite doc="City of San Mateo, Cal., Code" path="5.64.070">Section 5.64.070</cite> of the San Mateo County Code.  Fees shall be used by the Director to administer and enforce <cite doc="City of San Mateo, Cal., Code" path="7.41">this chapter</cite>.</text>
@@ -462,7 +462,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="7.41.050">Section 7.41.050 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="7.41.050" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.41.050" codified:citation="Section 7.41.050" codified:display="Amend"/>
+        <codify:replace path="7.41.050" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.41.050"/>
         <num>7.41.050</num>
         <heading>Permit is Nontransferable.</heading>
         <para>
@@ -489,7 +489,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="7.41.060">Section 7.41.060 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="7.41.060" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.41.060" codified:citation="Section 7.41.060" codified:display="Amend"/>
+        <codify:replace path="7.41.060" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.41.060"/>
         <num>7.41.060</num>
         <heading>Enforcement.</heading>
         <para>
@@ -512,7 +512,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="7.41.065">Section 7.41.065 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="7.41">Chapter 7.41</cite> as follows:</text>
     <include>
       <section>
-        <codify:insert path="7.41" after="7.41.060" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.41.065" codified:citation="Section 7.41.065" codified:display="New"/>
+        <codify:insert path="7.41" after="7.41.060" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.41.065"/>
         <num>7.41.065</num>
         <heading>Public Nuisance.</heading>
         <text>Any violation of <cite doc="City of San Mateo, Cal., Code" path="7.41">this Chapter</cite> is hereby declared a public nuisance, subject to all applicable civil, administrative, and criminal remedies and penalties according to the provisions and procedures of contained in the San Mateo County Code and state law, including but not limited to, an action for abatement or injunctive relief.</text>
@@ -524,7 +524,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="7.41.068">Section 7.41.068 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="7.41">Chapter 7.41</cite> as follows:</text>
     <include>
       <section>
-        <codify:insert path="7.41" after="7.41.065" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.41.068" codified:citation="Section 7.41.068" codified:display="New"/>
+        <codify:insert path="7.41" after="7.41.065" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.41.068"/>
         <num>7.41.068</num>
         <heading>Compliance Monitoring.</heading>
         <para>
@@ -547,7 +547,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="7.41.070">Section 7.41.070 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="7.41.070" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.41.070" codified:citation="Section 7.41.070" codified:display="Amend"/>
+        <codify:replace path="7.41.070" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.41.070"/>
         <num>7.41.070</num>
         <heading>Suspension or Revocation of Permit.</heading>
         <para>
@@ -622,7 +622,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="7.41.080">Section 7.41.080 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="7.41.080" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.41.080" codified:citation="Section 7.41.080" codified:display="Amend"/>
+        <codify:replace path="7.41.080" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.41.080"/>
         <num>7.41.080</num>
         <heading>Administrative Fine.</heading>
         <para>
@@ -661,7 +661,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="7.41.090">Section 7.41.090 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="7.41.090" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.41.090" codified:citation="Section 7.41.090" codified:display="Amend"/>
+        <codify:replace path="7.41.090" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.41.090"/>
         <num>7.41.090</num>
         <heading>Authorization of Enforcement by San Mateo County Personnel.</heading>
         <text>The County of San Mateo, its officers, employees and agents are hereby authorized to administer and enforce <cite doc="City of San Mateo, Cal., Code" path="7.41">this chapter</cite> on behalf of the City, within the jurisdictional boundaries of this city. Such enforcement authority includes, but is not limited to, the collection of fees and fines expending such revenue in the enforcement of the tobacco retailer requirements, holding hearings, suspending permits and issuing administrative fines.</text>
