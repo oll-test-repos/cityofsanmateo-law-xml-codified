@@ -37,7 +37,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="2.80.055">Section 2.80.055 of the San Mateo Municipal Code</cite> is added to read as follows:</text>
     <include>
       <section>
-        <codify:insert path="2.80" after="2.80.050" codified:doc="City of San Mateo, Cal., Code" codified:path="|2.80.055" codified:citation="Section 2.80.055" codified:display="New"/>
+        <codify:insert path="2.80" after="2.80.050" codified:doc="City of San Mateo, Cal., Code" codified:path="|2.80.055"/>
         <num>2.80.055</num>
         <heading>VOLUNTARY EXPENDITURE LIMIT.</heading>
         <para>
@@ -132,7 +132,7 @@
         <heading>DEFINITIONS.</heading>
         <text>As used in <cite doc="City of San Mateo, Cal., Code" path="2.80">this chapter</cite>, the words and phrases shall be defined in the same manner as they are defined in the Political Reform Act of 1974 (including any amendments thereto) as found in <cite doc="Cal. Gov't Code" path="§81000">California Government Code Section 81000</cite> et seq., unless defined otherwise in this section. For the purposes of <cite doc="City of San Mateo, Cal., Code" path="2.80">this chapter</cite>, the terms below are defined as follows:</text>
         <para>
-          <codify:replace path="2.80.020|(a)" codified:doc="City of San Mateo, Cal., Code" codified:path="|2.80.020|(a)" codified:citation="Section 2.80.020" codified:display="Amend"/>
+          <codify:replace path="2.80.020|(a)" codified:doc="City of San Mateo, Cal., Code" codified:path="|2.80.020|(a)"/>
           <num>(a)</num>
           <text>"Candidate" means any individual listed on the ballot for election to any City office, or who otherwise has taken affirmative action to seek election to City office, or who receives a contribution or makes an expenditure, or who gives his or her consent for any other person to receive a contribution or make an expenditure with the purpose of bringing about his or her election to any City office.</text>
         </para>
@@ -148,12 +148,12 @@
         <num>2.80.030</num>
         <heading>LIMITATIONS ON CONTRIBUTIONS.</heading>
         <para>
-          <codify:replace path="2.80.030|(a)" codified:doc="City of San Mateo, Cal., Code" codified:path="|2.80.030|(a)" codified:citation="Section 2.80.030" codified:display="Amend"/>
+          <codify:replace path="2.80.030|(a)" codified:doc="City of San Mateo, Cal., Code" codified:path="|2.80.030|(a)"/>
           <num>(a)</num>
           <text>For any particular election, no individual shall make, and no candidate, candidate committee treasurer or other person acting on behalf of a candidate committee shall solicit or accept from any individual any contribution which will cause the total amount contributed by such individual to exceed $500.00.</text>
         </para>
         <para>
-          <codify:replace path="2.80.030|(b)" codified:doc="City of San Mateo, Cal., Code" codified:path="|2.80.030|(b)" codified:citation="Section 2.80.030" codified:display="Amend"/>
+          <codify:replace path="2.80.030|(b)" codified:doc="City of San Mateo, Cal., Code" codified:path="|2.80.030|(b)"/>
           <num>(b)</num>
           <text>For any particular election, no organization shall make, and no candidate, candidate committee treasurer or other person acting on behalf of a candidate committee shall solicit or accept from any organization any contribution which will cause the total amount contributed by such organization to exceed $1,000.00.</text>
         </para>
@@ -170,7 +170,7 @@
         <heading>AGGREGATION OF CONTRIBUTIONS.</heading>
         <text>[Subsections (a) – (d) remain unchanged]</text>
         <para>
-          <codify:insert path="2.80.045" codified:doc="City of San Mateo, Cal., Code" codified:path="|2.80.045|(e)" codified:citation="Section 2.80.045" codified:display="Amend"/>
+          <codify:insert path="2.80.045" codified:doc="City of San Mateo, Cal., Code" codified:path="|2.80.045|(e)"/>
           <num>(e)</num>
           <text>Aggregated contributions under this section shall be subject to the $1000 contribution limit.</text>
         </para>
@@ -182,7 +182,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="2.80.050">Section 2.80.050 of the San Mateo Municipal Code</cite> is amended to read as follows:</text>
     <include>
       <section>
-        <codify:replace path="2.80.050" codified:doc="City of San Mateo, Cal., Code" codified:path="|2.80.050" codified:citation="Section 2.80.050" codified:display="Amend"/>
+        <codify:replace path="2.80.050" codified:doc="City of San Mateo, Cal., Code" codified:path="|2.80.050"/>
         <num>2.80.050</num>
         <heading>CANDIDATE CAMPAIGNS ONLY.</heading>
         <text>The provisions of this chapter apply to election campaigns for candidates only. The provisions of this chapter do not apply to any ballot measure, referendum or initiative election.</text>
