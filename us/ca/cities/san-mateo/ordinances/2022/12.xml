@@ -49,7 +49,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="1.10.060">Section 1.10.060 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="1.10.060" codified:doc="City of San Mateo, Cal., Code" codified:path="|1.10.060" codified:citation="Section 1.10.060" codified:display="Amend"/>
+        <codify:replace path="1.10.060" codified:doc="City of San Mateo, Cal., Code" codified:path="|1.10.060"/>
         <num>1.10.060</num>
         <heading>APPEAL OF ADMINISTRATIVE CITATION.</heading>
         <para>
@@ -113,7 +113,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="2.21.010">Section 2.21.010 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="2.21.010" codified:doc="City of San Mateo, Cal., Code" codified:path="|2.21.010" codified:citation="Section 2.21.010" codified:display="Amend"/>
+        <codify:replace path="2.21.010" codified:doc="City of San Mateo, Cal., Code" codified:path="|2.21.010"/>
         <num>2.21.010</num>
         <heading>ORGANIZATION.</heading>
         <text>The Community Relations Commission of the City shall consist of no more than five members appointed by the Council. In making appointments, the Council shall insure that the persons appointed are representative of the neighborhoods and ethnic communities to be served by the Commission as hereinafter provided.</text>
@@ -126,7 +126,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="2.21.020" proof="needed">Section 2.21.020 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="2.21.020" codified:doc="City of San Mateo, Cal., Code" codified:path="|2.21.020" codified:citation="Section 2.21.020" codified:display="Amend"/>
+        <codify:replace path="2.21.020" codified:doc="City of San Mateo, Cal., Code" codified:path="|2.21.020"/>
         <num>2.21.020</num>
         <heading>MEETINGS.</heading>
         <text>The Community Relations Commission shall elect a chair and vice-chair to serve at the pleasure of the Commission. The Commission may adopt reasonable rules and regulations for the conduct of its business. A regular time and place of meetings shall be established and adhered to in the manner of holding public meetings for legislative bodies in the state. All meetings shall be open to the public unless by law otherwise provided.</text>
@@ -138,7 +138,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="2.21.030">Section 2.21.030 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="2.21.030" codified:doc="City of San Mateo, Cal., Code" codified:path="|2.21.030" codified:citation="Section 2.21.030" codified:display="Amend"/>
+        <codify:replace path="2.21.030" codified:doc="City of San Mateo, Cal., Code" codified:path="|2.21.030"/>
         <num>2.21.030</num>
         <heading>POWERS—DUTIES.</heading>
         <text>The Community Relations Commission shall have the following powers and duties:</text>
@@ -183,7 +183,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="2.21.050" proof="needed">Section 2.21.050 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="2.21.050" codified:doc="City of San Mateo, Cal., Code" codified:path="|2.21.050" codified:citation="Section 2.21.050" codified:display="Amend"/>
+        <codify:replace path="2.21.050" codified:doc="City of San Mateo, Cal., Code" codified:path="|2.21.050"/>
         <num>2.21.050</num>
         <heading>APPEALS.</heading>
         <text>Decisions of the Community Relations Commission regarding violations of the San Mateo Municipal Code and public nuisances may be appealed to the City Council as set forth in this Code.</text>
