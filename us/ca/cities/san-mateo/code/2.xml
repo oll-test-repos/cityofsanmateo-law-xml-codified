@@ -1860,7 +1860,7 @@
     </section>
     <section>
       <num>2.80.020</num>
-      <heading>DEFINITIONS.</heading>
+      <heading>Definitions.</heading>
       <text>As used in <cite path="2.80">this chapter</cite>, the words and phrases shall be defined in the same manner as they are defined in the Political Reform Act of 1974 (including any amendments thereto) as found in <cite doc="Cal. Gov't Code" path="§81000">California Government Code Section 81000</cite> et seq., unless defined otherwise in this section. For the purposes of <cite path="2.80">this chapter</cite>, the terms below are defined as follows:</text>
       <para>
         <num>(a)</num>
@@ -1872,8 +1872,8 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>"Contribution" means a payment, a forgiveness of a loan, a payment of a loan by a third party, or an enforceable promise to make a payment except to the extent full and adequate consideration is received unless it is clear from the surrounding circumstances that it is not made for political purposes. Except as provided herein, "contribution" includes an expenditure made at the behest of a candidate or candidate committee unless full and adequate consideration is received for making the expenditure.</text>
-        <text>The term "contribution" does not include a payment made by the occupant of a home or business for costs related to any meeting or fund raising event held in the occupant's home or business; or volunteer personal or professional services or the donation of goods by any individual if the services or goods are donated without any understanding or agreement that they shall be directly or indirectly repaid to him or her.</text>
+        <text>"Contribution" means a payment, a forgiveness of a loan, a payment of a loan by a third party, or an enforceable promise to make a payment except to the extent full and adequate consideration is received unless it is clear from the surrounding circumstances that it is not made for political purposes. Except as provided herein, "contribution" includes (1) an expenditure made at the behest of a candidate or candidate committee unless full and adequate consideration is received for making the expenditure, and (2) any goods or services received by or behested by a candidate or candidate committee at no charge or at a discount from the fair market value, unless the discount is given in the regular course of business to members of the public.</text>
+        <text>The term "contribution" does not include a payment made by the occupant of a home or business for costs related to any meeting or fund raising event held in the occupant's home or business; or volunteer personal or professional services if the services are donated without any understanding or agreement that they shall be directly or indirectly repaid to him or her.</text>
       </para>
       <para>
         <num>(d)</num>
@@ -1886,6 +1886,7 @@
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2005-1" path="§1" type="History"/>
         <annotation app="2018-07-04" doc="City of San Mateo, Cal., Ord. No. 2018-4" eff="2018-07-04" path="§1" type="History" display="false"/>
+        <annotation app="2022-01-01" doc="City of San Mateo, Cal., Ord. No. 2021-23" eff="2022-01-01" path="§1" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1923,12 +1924,45 @@
       </annotations>
     </section>
     <section>
+      <num>2.80.045</num>
+      <heading>Aggregation of Contributions.</heading>
+      <para>
+        <num>(a)</num>
+        <text>To determine when contributions are aggregated under <cite path="2.80">this chapter</cite>, "majority owned" means ownership of more than 50 percent<strong>.</strong></text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>If an individual directs or controls an organization's contributions, the organization's contributions shall be aggregated with contributions made by both of the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>That individual.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Any other organization whose contributions that individual directs or controls.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>If two or more organizations make contributions that are directed or controlled by a majority of the same persons, the contributions of those entities shall be aggregated.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Contributions made by organizations that are majority owned by a person shall be aggregated with the contributions of the majority owner and all other organizations majority owned by that person, unless those organizations act independently in their contribution-making decisions.</text>
+      </para>
+      <annotations>
+        <annotation app="2018-07-04" doc="City of San Mateo, Cal., Ord. No. 2018-4" eff="2018-07-04" path="§1" type="History" display="false"/>
+        <annotation app="2022-01-01" doc="City of San Mateo, Cal., Ord. No. 2021-23" eff="2022-01-01" path="§2" type="History"/>
+      </annotations>
+    </section>
+    <section>
       <num>2.80.050</num>
-      <heading>CANDIDATE CAMPAIGNS ONLY.</heading>
-      <text>The provisions of <cite path="2.80">this chapter</cite> apply to election campaigns for candidates only. The provisions of <cite path="2.80">this chapter</cite> do not apply to any referendum or initiative election.</text>
+      <heading>Candidate Campaigns Only.</heading>
+      <text>The provisions of <cite path="2.80">this chapter</cite> apply to election campaigns for candidates only. The provisions of <cite path="2.80">this chapter</cite> do not apply to any ballot measure, referendum or initiative election.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2005-1" path="§1" type="History"/>
         <annotation app="2018-07-04" doc="City of San Mateo, Cal., Ord. No. 2018-4" eff="2018-07-04" path="§1" type="History" display="false"/>
+        <annotation app="2022-01-01" doc="City of San Mateo, Cal., Ord. No. 2021-23" eff="2022-01-01" path="§3" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1952,12 +1986,19 @@
     </section>
     <section>
       <num>2.80.080</num>
-      <heading>POST ELECTION REVIEW.</heading>
-      <text>No later than three (3) months after the certification of the results of a City election at which a City Council member is elected, the City Clerk shall calendar for City Council consideration a review of the provisions of <cite path="2.80">this chapter</cite>. The purpose of such review is to allow the City Council to consider the ongoing appropriateness of the provisions of <cite path="2.80">this chapter</cite>, including, but not limited to, the amount of the contribution and loan limits established in Sections <cite path="2.80.030">2.80.030</cite> and <cite path="2.80.040">2.80.040</cite>.</text>
-      <text>Notwithstanding any other provision of this code, the City Clerk's failure to calendar this review within the time period specified shall not subject the City Clerk to any criminal or civil penalty.</text>
+      <heading>Post Election Review.</heading>
+      <para>
+        <num>(a)</num>
+        <text>No later than three (3) months after the certification of the results of a City election at which a City Council member is elected, the City Clerk shall calendar for City Council consideration a review of the provisions of <cite path="2.80">this chapter</cite>. The purpose of such review is to allow the City Council to consider the ongoing appropriateness of the provisions of <cite path="2.80">this chapter</cite>, including, but not limited to, the amount of the contribution and loan limits established in Sections <cite path="2.80.030">2.80.030</cite> and <cite path="2.80.040">2.80.040</cite>.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Notwithstanding any other provision of this code, the City Clerk's failure to calendar this review within the time period specified shall not subject the City Clerk to any criminal or civil penalty.</text>
+      </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2005-1" path="§1" type="History"/>
         <annotation app="2018-07-04" doc="City of San Mateo, Cal., Ord. No. 2018-4" eff="2018-07-04" path="§1" type="History" display="false"/>
+        <annotation app="2022-01-01" doc="City of San Mateo, Cal., Ord. No. 2021-23" eff="2022-01-01" path="§4" type="History"/>
       </annotations>
     </section>
     <section>
