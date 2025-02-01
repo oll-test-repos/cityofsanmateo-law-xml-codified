@@ -46,7 +46,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="27.02.060">Section 27.02.060 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="27.02.060" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.02.060" codified:citation="Section 27.02.060" codified:display="Amend"/>
+        <codify:replace path="27.02.060" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.02.060"/>
         <num>27.02.060</num>
         <heading>Height Limitations and Exceptions.</heading>
         <para>
@@ -97,7 +97,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="27.02.140">Section 27.02.140 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="27.02.140" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.02.140" codified:citation="Section 27.02.140" codified:display="Amend"/>
+        <codify:replace path="27.02.140" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.02.140"/>
         <num>27.02.140</num>
         <heading>Exceptions.</heading>
         <text>The following uses in subsection (a) are exempted by <cite doc="City of San Mateo, Cal., Code" path="27">this Title</cite> and allowed in any district. In addition, City projects that meet the criteria in subsection (b) below are also exempt:</text>
@@ -129,7 +129,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="27.06.020">Section 27.06.020 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="27.06.020" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.06.020" codified:citation="Section 27.06.020" codified:display="Amend"/>
+        <codify:replace path="27.06.020" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.06.020"/>
         <num>27.06.020</num>
         <heading>ZONING ADMINISTRATOR—POWERS AND DUTIES.</heading>
         <text>The Zoning Administrator shall enforce the provisions of <cite doc="City of San Mateo, Cal., Code" path="27">this Title</cite>, and shall:</text>
@@ -269,7 +269,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="27.06.050">Section 27.06.050 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="27.06.050" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.06.050" codified:citation="Section 27.06.050" codified:display="Amend"/>
+        <codify:replace path="27.06.050" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.06.050"/>
         <num>27.06.050</num>
         <heading>COUNCIL CONSIDERATION AND DETERMINATION.</heading>
         <text>The Council shall take final action on:</text>
@@ -325,7 +325,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="27.08.080">Section 27.08.080 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="27.08.080" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.08.080" codified:citation="Section 27.08.080" codified:display="Amend"/>
+        <codify:replace path="27.08.080" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.08.080"/>
         <num>27.08.080</num>
         <heading>PLANNING APPLICATION MODIFICATIONS.</heading>
         <text>An applicant may request modifications to a previously approved planning application prior to or during construction. Examples of such modifications include alteration to an approved building or structure, change in configuration of site improvements, or modification or deletion of conditions of approval. For previously approved Special Use Permits, an applicant may also request a change of use after a project has been completed. A modification shall not automatically extend the approval expiration date beyond that of the original planning application.</text>
