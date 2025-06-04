@@ -289,11 +289,12 @@
     </section>
     <section>
       <num>27.02.170</num>
-      <heading>CONSISTENCY WITH GENERAL PLAN.</heading>
-      <text>In their review of planning applications, each approval body involved shall consider whether the planning application is in conformance with the San Mateo City General Plan. This shall specifically include those areas where the general plan does not permit high-rise structures, regardless of the underlying zoning.</text>
+      <heading>Consistency with General Plan.</heading>
+      <text>In their review of planning applications, each approval body involved shall consider whether the planning application is in conformance with the San Mateo City General Plan.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1978-18" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1981-14" path="§2" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-04" eff="2025-05-07" path="§1" type="History"/>
       </annotations>
     </section>
     <section>
@@ -386,10 +387,11 @@
     </section>
     <section>
       <num>27.02.220</num>
-      <heading>CONSISTENCY WITH GENERAL PLAN INITIATIVE, MEASURE H (NOVEMBER 1991 ELECTION).</heading>
-      <text>The provisions of Ordinance No. 1992-2, adopted on January 22, 1992, are promulgated to implement Measure H, the General Plan Initiative. The interpretation of such ordinance and subsequent ordinances implementing Measure H shall be governed by Measure H in the event of ambiguity or clerical errors in such ordinances.</text>
+      <heading>Consistency With Measure T, General Plan Ballot Measure (November 2024 Election).</heading>
+      <text>The provisions of Ordinance No. 2024-10, approved by the voters on November 5, 2024, as Measure T, and effective on December 19, 2024, allows for the full implementation of the Land Use Element in General Plan 2040. In case of conflict or inconsistency between <cite path="27">Title 27</cite> of the Municipal Code (Zoning Code) and the General Plan 2040, the uses, densities, intensities and heights specified in Table LU-1 (Land Use Designations) in the Land Use Element and associated with the Land Use Map shall control.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1992-2" path="§35" type="History"/>
+        <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-04" eff="2025-05-07" path="§2" type="History"/>
       </annotations>
     </section>
   </container>
