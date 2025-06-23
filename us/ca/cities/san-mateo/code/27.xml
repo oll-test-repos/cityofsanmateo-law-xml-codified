@@ -18109,4 +18109,80 @@
       </annotations>
     </section>
   </container>
+  <container>
+    <prefix>Chapter</prefix>
+    <num>27.94</num>
+    <heading>Housing Opportunities Overlay District (H)</heading>
+    <annotation app="2024-08-14" doc="City of San Mateo, Cal., Ord. No. 2024-4" eff="2024-08-14" path="" type="History"/>
+    <section>
+      <num>27.94.005</num>
+      <heading>Purpose</heading>
+      <text>The purpose of the Housing Opportunities Overlay District (H) is to establish by-right residential uses on sites identiﬁed to accommodate a portion of the housing need for lower income housing in the General Plan Housing Element, pursuant to <cite doc="Cal. Gov't Code">Government Code</cite> Sections 65583.2(c) and (i). <cite path="27.94">This chapter</cite> establishes minimum development requirements and procedures for reviewing and approval of the by-right residential development uses.</text>
+      <annotations>
+        <annotation app="2024-08-14" doc="City of San Mateo, Cal., Ord. No. 2024-4" eff="2024-08-14" path="" type="History"/>
+        <annotation app="2024-08-14" doc="City of San Mateo, Cal., Ord. No. 2024-4" eff="2024-08-14" path="§2" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>27.94.010</num>
+      <heading>By-Right Residential Use Eligibility</heading>
+      <text>The following housing development projects are eligible for by-right approval. Housing development projects that are ineligible for by-right approval shall be subject to the requirements for residential development in the underlying zoning district.</text>
+      <para>
+        <num>(a)</num>
+        <text>Pursuant to <cite doc="Cal. Gov't Code" path="§65583.2|(c)">Government Code Section 65583.2(c)</cite> and (h), housing development projects in which at least 20 percent of the units proposed are affordable to lower income households, as defined in <cite doc="Cal. Health &amp; Safety Code" path="§50079.5">Health and Safety Code Section 50079.5</cite>, and is a household whose income is equal to or less than eighty percent of the area median income, as published by the California Department of Housing and Community Development. The housing development project shall be allowed at the density allowed in the underlying zoning district and shall be allowed a minimum density of at least 30 dwelling units per acre. A "housing development project" shall have the same meaning as defined in <cite doc="Cal. Gov't Code" path="§65589.5|(h)|(2)">Government Code Section 65589.5(h)(2)</cite>.</text>
+      </para>
+      <annotations>
+        <annotation app="2024-08-14" doc="City of San Mateo, Cal., Ord. No. 2024-4" eff="2024-08-14" path="" type="History"/>
+        <annotation app="2024-08-14" doc="City of San Mateo, Cal., Ord. No. 2024-4" eff="2024-08-14" path="§2" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>27.94.020</num>
+      <heading>By-Right Residential Use Requirements</heading>
+      <para>
+        <num>(a)</num>
+        <text>Site plan and architectural review approval is required under <cite path="27.08">Chapter 27.08</cite>, Rules of Procedure. The Zoning Administrator shall be the approval authority for projects proposed pursuant to <cite path="27.94">this chapter</cite> that comply with the City's Municipal Code and Objective Design Standards. The Zoning Administrator shall not exercise any discretion in the review process for such projects and their decision shall be final.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The site plan and architectural review shall not constitute a "project" for the purposes of Division 13 (commencing with Section 21000) of the <cite doc="Cal. Pub. Res. Code">Public Resources Code</cite>.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Any subdivision of the site shall be subject to all laws, including, but not limited to <cite path="26">Title 26</cite> of the City of San Mateo Municipal Code (Subdivisions).</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Notwithstanding <cite path="27.94.010">Section 27.94.010</cite>, the following objective development standards shall apply to housing development projects built pursuant to <cite path="27.94">this chapter</cite>:</text>
+        <para>
+          <num>(1)</num>
+          <text>Development standards set forth in the underlying zoning district.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>For a project within another overlay district, the development standards of the overlay district.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>For development projects within an E2 Zoning District without an overlay district, the R4 development standards.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>For development projects within a Specific Plan or within the TOD zoning district, the applicable development standards of the Specific Plan or TOD zoning district.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Objective Design Standards for multi-family and residential mixed-use projects as adopted by City Council resolution.</text>
+        </para>
+        <para>
+          <num>(6)</num>
+          <text>Applicable standard conditions of approval.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation app="2024-08-14" doc="City of San Mateo, Cal., Ord. No. 2024-4" eff="2024-08-14" path="" type="History"/>
+        <annotation app="2024-08-14" doc="City of San Mateo, Cal., Ord. No. 2024-4" eff="2024-08-14" path="§2" type="History"/>
+      </annotations>
+    </section>
+  </container>
 </container>
