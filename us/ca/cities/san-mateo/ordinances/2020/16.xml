@@ -182,7 +182,7 @@
     <text>Subsection (a) of <cite doc="City of San Mateo, Cal., Code" path="7.41.070">Section 7.41.070 "Suspension of Permit" of the San Mateo Municipal Code</cite> is amended as follows</text>
     <include>
       <para>
-        <codify:replace doc="City of San Mateo, Cal., Code" path="7.41.070|(a)" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.41.070|(a)"/>
+        <codify:replace doc="City of San Mateo, Cal., Code" path="7.41.070|(a)" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.41.070"/>
         <num>(a)</num>
         <text>Grounds for Suspension. A tobacco retailer's permit may be suspended, as set forth below in subdivision (b), by the Director upon a finding, after notice and opportunity to be heard, that either of the following occurred:</text>
         <para>
