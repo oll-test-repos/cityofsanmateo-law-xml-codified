@@ -234,7 +234,7 @@
     <section>
       <num>2.21.010</num>
       <heading>ORGANIZATION.</heading>
-      <text>The Community Relations Commission of the City shall consist of no more than six members appointed by the Council until no later than June 10, 2014, and thereafter shall have five members. In making appointments, the Council shall insure that the persons appointed are representative of the neighborhoods and ethnic communities to be served by the Commission as hereinafter provided.</text>
+      <text>The Community Relations Commission of the City shall consist of no more than five members appointed by the Council. In making appointments, the Council shall insure that the persons appointed are representative of the neighborhoods and ethnic communities to be served by the Commission as hereinafter provided.</text>
       <text>Each member of the Community Relations Commission shall serve at the pleasure of the Council and for a term of four years, or until the appointment and qualification of a successor. No member shall be eligible for reappointment after serving two consecutive four-year terms.</text>
       <annotations>
         <annotation type="History">prior code § 10.5.01</annotation>
@@ -246,17 +246,19 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 2006-2" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2013-2" path="§2" type="History"/>
         <annotation app="2018-07-04" doc="City of San Mateo, Cal., Ord. No. 2018-4" eff="2018-07-04" path="§1" type="History" display="false"/>
+        <annotation app="2022-12-07" doc="City of San Mateo, Cal., Ord. No. 2022-12" eff="2022-12-07" path="§2" type="History"/>
       </annotations>
     </section>
     <section>
       <num>2.21.020</num>
       <heading>MEETINGS.</heading>
-      <text>The Community Relations Commission shall meet within a month of its formation and establish itself by electing a chair and vice-chair to serve at the pleasure of the Commission. The Commission may adopt reasonable rules and regulations for the conduct of its business. A regular time and place of meetings shall be established and adhered to in the manner of holding public meetings for legislative bodies in the state. All meetings shall be open to the public unless by law otherwise provided.</text>
+      <text>The Community Relations Commission shall elect a chair and vice-chair to serve at the pleasure of the Commission. The Commission may adopt reasonable rules and regulations for the conduct of its business. A regular time and place of meetings shall be established and adhered to in the manner of holding public meetings for legislative bodies in the state. All meetings shall be open to the public unless by law otherwise provided.</text>
       <annotations>
         <annotation type="History">prior code § 10.5.02</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1977-23" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2013-2" path="§2" type="History"/>
         <annotation app="2018-07-04" doc="City of San Mateo, Cal., Ord. No. 2018-4" eff="2018-07-04" path="§1" type="History" display="false"/>
+        <annotation app="2022-12-07" doc="City of San Mateo, Cal., Ord. No. 2022-12" eff="2022-12-07" path="§3" type="History"/>
       </annotations>
     </section>
     <section>
@@ -269,15 +271,15 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>To hear appeals from any notice and order or any action of the building official issued pursuant to <cite path="7.14">Chapter 7.14</cite>.</text>
+        <text>Reserved.</text>
       </para>
       <para>
         <num>(c)</num>
-        <text>To hear requests from the building official, zoning administrator, or senior code enforcement officer for orders to abate violations of <cite path="25">Title 25</cite> or <cite path="27">Title 27</cite>, as provided in <cite path="7.16">Chapter 7.16</cite>.</text>
+        <text>To hear requests from the Director of the Community Development Department, or his or her designee, for orders to abate violations of <cite path="25">Title 25</cite> or <cite path="27">Title 27</cite>, as provided in <cite path="7.16">Chapter 7.16</cite>.</text>
       </para>
       <para>
         <num>(d)</num>
-        <text>To hear appeals for administrative citations pursuant to <cite path="1.10.060">Section 1.10.060</cite>.</text>
+        <text>To hear appeals for administrative citations pursuant to <cite path="1.10.060">Section 1.10.060</cite>, except for administrative citation appeals relating to violations of <cite path="7.14">Chapter 7.14</cite>, <cite path="23.06">23.06</cite> through <cite path="23.56">23.56</cite>, <cite path="23.70">Chapter 23.70</cite>, and <cite path="23.72">Chapter 23.72</cite> of this Code.</text>
       </para>
       <para>
         <num>(e)</num>
@@ -294,8 +296,8 @@
       <para>
         <num>(h)</num>
         <text>Such other powers and duties as maybe prescribed from time to time by ordinance or resolution of the Council.</text>
+        <text>The Community Relations Commission shall make recommendations to the Council to correct, reduce or eliminate existing inequalities and disadvantages and prepare, encourage and coordinate programs of voluntary affirmative action to insure the complete utilization of the human resources of this community for the betterment of all its inhabitants.</text>
       </para>
-      <aftertext>The Community Relations Commission shall make recommendations to the Council to correct, reduce or eliminate existing inequalities and disadvantages and prepare, encourage and coordinate programs of voluntary affirmative action to insure the complete utilization of the human resources of this community for the betterment of all its inhabitants.</aftertext>
       <annotations>
         <annotation type="History">prior code § 10.5.03</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1972-20" path="§2" type="History"/>
@@ -304,6 +306,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 2006-2" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2013-2" path="§2" type="History"/>
         <annotation app="2018-07-04" doc="City of San Mateo, Cal., Ord. No. 2018-4" eff="2018-07-04" path="§1" type="History" display="false"/>
+        <annotation app="2022-12-07" doc="City of San Mateo, Cal., Ord. No. 2022-12" eff="2022-12-07" path="§4" type="History"/>
       </annotations>
     </section>
     <section>
@@ -321,10 +324,11 @@
     <section>
       <num>2.21.050</num>
       <heading>APPEALS.</heading>
-      <text>Decisions of the Community Relations Commission regarding violations of the ordinances on housing maintenance and public nuisances may be appealed to the City Council as set forth in <cite path="7.16">Chapter 7.16</cite>.</text>
+      <text>Decisions of the Community Relations Commission regarding violations of the San Mateo Municipal Code and public nuisances may be appealed to the City Council as set forth in this Code.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2013-2" path="§2" type="History"/>
         <annotation app="2018-07-04" doc="City of San Mateo, Cal., Ord. No. 2018-4" eff="2018-07-04" path="§1" type="History" display="false"/>
+        <annotation app="2022-12-07" doc="City of San Mateo, Cal., Ord. No. 2022-12" eff="2022-12-07" path="§5" type="History"/>
       </annotations>
     </section>
   </container>
