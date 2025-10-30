@@ -394,6 +394,49 @@
         <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-04" eff="2025-05-07" path="§2" type="History"/>
       </annotations>
     </section>
+    <section>
+      <num>27.02.230</num>
+      <heading>RESIDENTIAL MIXED-USE DEVELOPMENT PROJECTS.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Within a 1/2 mile radius of a Caltrain Station as shown on the General Plan Land Use Map, a mixed-use development project with a residential component that includes five or more residential units shall comply with the following minimum residential densities if the development project is within one of the following General Plan Land Use Designations. If the project area is within more than one General Plan Land Use Designations, the lowest density requirement applies.</text>
+        <para>
+          <num>(1)</num>
+          <text>Mixed-Use Low and Mixed-Use Medium I – 30 dwelling units per acre</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Mixed-Use Medium II and Mixed-Use High – 50 dwelling units per acre</text>
+        </para>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>A mixed-use development project with a residential component that includes five or more residential units outside of a TOD area are required to comply with minimum residential densities when the development project is within one of the following General Plan Land Use Designations. If the project area is within more than one General Plan Land Use Designations, the lowest density requirement applies.</text>
+        <para>
+          <num>(1)</num>
+          <text>Mixed-Use Low – 10 dwelling units per acre</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Mixed-Use Medium I – 15 dwelling units per acre</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Mixed-Use Medium II – 30 dwelling units per acre</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Mixed-Use High – 50 dwelling units per acre</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The City Council may consider a request to reduce the required minimum residential density in a mixed-use development project with a residential component for a project that provides a greater percentage of affordable housing units than required by <cite path="27.16.050">Section 27.16.050</cite> Affordable Housing or by providing public community benefits.</text>
+      </para>
+      <annotations>
+        <annotation app="2025-08-27" doc="City of San Mateo, Cal., Ord. No. 2025-05" eff="2025-08-27" path="§2" type="History"/>
+      </annotations>
+    </section>
   </container>
   <container>
     <prefix>Chapter</prefix>
@@ -841,19 +884,38 @@
     </section>
     <section>
       <num>27.04.130</num>
-      <heading>COMMUNITY CARE FACILITY.</heading>
-      <text>A "community care facility" means any place or building which is maintained and operated to provide 24-hour non-medical residential care, or day care services for children, adults, or both, limited to the following:</text>
+      <heading>SITE PLAN AND ARCHITECTURAL REVIEW (SPAR).</heading>
       <para>
         <num>(a)</num>
-        <text>Residential Care Facility. A residential care facility means a family home, group home, residential care facility for the elderly, foster home, intermediate care facility or similar facility, for 24-hour non-medical care of persons in need of personal services, supervision, or assistance essential for sustaining the activities of daily living or for the protection of the individual;</text>
+        <text>The following projects, as well as other projects that may be designated in this code, require a site plan and architectural review and no such project shall commence until the approval body has approved a planning application for site plan and architectural review: any building, new parking lot, fence over seven (7) feet in height, or an extension, alteration, or addition of or to an existing building or parking lot; historic buildings within the Downtown Specific Plan area as specified in <cite path="27.66">Chapter 27.66</cite>. Single family and accessory buildings that conform to the standards contained in <cite path="27.18">Chapter 27.18</cite>, or minor facade modifications as defined in <cite path="27.04.313">Section 27.04.313</cite>, and which conform with <cite path="27.08.031">Section 27.08.031</cite>, are exempt from this requirement, unless they are specifically designated by this section as requiring review. In making its review, the Zoning Administrator, Development Review Board, and Planning Commission shall be guided by the standards adopted by the Planning Commission and City Council. The application shall be approved if the Zoning Administrator or Commission finds all of the following to exist:</text>
+        <para>
+          <num>(1)</num>
+          <text>The structures, site plan, and landscaping are in scale and harmonious with the character of the neighborhood;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The development will not be detrimental to the harmonious and orderly growth of the City;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The development will not impair the desirability of investment or occupation in the vicinity, and otherwise is in the best interests of the public health, safety, or welfare;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The development meets all applicable standards as adopted by the Planning Commission and City Council, conforms with the General Plan, and will correct any violations of the zoning ordinance, building code, or other municipal codes that exist on the site;</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The development will not adversely affect matters regarding police protection, crime prevention, and security.</text>
+        </para>
       </para>
       <para>
         <num>(b)</num>
-        <text>Day Care Center. A day care facility means any facility which provides non-medical care to persons (adults and/or children) in need of personal services, supervision, or assistance essential for sustaining the activities of daily living or for the protection of the individual on less than a 24-hour basis;</text>
+        <text>All buildings, structures, landscaping, and other establishments shall be constructed in accordance with the approved drawings.</text>
       </para>
       <para>
         <num>(c)</num>
-        <text>Family Day Care Home. A family day care home means a facility which provides care, protection, and supervision of no more than 14 children in the caregiver's own home, for periods of less than 24 hours per day, while the parents or guardians are away.</text>
+        <text>The City Council shall review and make the final determination on all buildings that exceed the height limit in the General Plan.</text>
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1975-23" path="§2" type="History"/>
@@ -865,6 +927,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1994-2" path="§2" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-7" path="§4" type="History"/>
         <annotation app="2025-05-07" doc="City of San Mateo, Cal., Ord. No. 2025-03" eff="2025-05-07" path="§2" type="History"/>
+        <annotation app="2025-08-27" doc="City of San Mateo, Cal., Ord. No. 2025-05" eff="2025-08-27" path="§3" type="History"/>
       </annotations>
     </section>
     <section>
@@ -2735,7 +2798,7 @@
       </para>
       <para>
         <num>(d)</num>
-        <text>Site Plan and Architectural Review for buildings exceeding 55 feet in height;</text>
+        <text>Site Plan and Architectural Review for buildings that exceed the height limit in the General Plan;</text>
       </para>
       <para>
         <num>(e)</num>
@@ -2777,6 +2840,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 2001-19" path="§2" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-7" path="§7" type="History"/>
         <annotation app="2023-09-20" doc="City of San Mateo, Cal., Ord. No. 2023-3" eff="2023-09-20" path="§5" type="History"/>
+        <annotation app="2025-08-27" doc="City of San Mateo, Cal., Ord. No. 2025-05" eff="2025-08-27" path="§4" type="History"/>
       </annotations>
     </section>
     <section>
@@ -3158,24 +3222,11 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>The Zoning Administrator may require a new planning application for a project initially determined to be complete if one or more of the following occurs:</text>
-        <para>
-          <num>(1)</num>
-          <text>The project is significantly revised;</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>New information or material germane to the project is brought to light, or becomes available, or is required to assess a change, or revision in the proposed project and the information affects the ability of the approval body to make the required findings.</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>City policies, or standards are adopted which require substantial revisions in the project.</text>
-        </para>
-        <aftertext>If the Zoning Administrator finds that a new planning application is required, and no public hearing has been held on the project, then the application shall be considered withdrawn without prejudice. If a public hearing has been held, the approval body may accept the withdrawal with or without prejudice. Any unspent fees from the original application shall be applied to any new application or refunded, at the applicant's request.</aftertext>
+        <text>For any application determined to be incomplete, an applicant may appeal the incompleteness determination to the Planning Commission within 14 days of the date of the incomplete letter. Any appeal shall be submitted in writing, and be accompanied by payment of the filing fee. Pursuant to <cite doc="Cal. Gov't Code" path="§65943">California Government Code Section 65943</cite>, the Planning Commission shall make a final written determination on the appeal not later than 60 calendar days after receipt of the applicant's written appeal. The appeal process shall toll any timing requirements to resubmit incomplete application materials.</text>
       </para>
       <para>
         <num>(c)</num>
-        <text>The Zoning Administrator may close out an application, if information is requested in writing by the Zoning Administrator, and the information has not been submitted to the Zoning Administrator or the action has not occurred within 120 days. Files which are closed out are considered to be actions without prejudice, thereby enabling an immediate re-application for a project of the same, or similar nature by any applicant. The re-application shall be subject to all current fees and codes.</text>
+        <text>The Zoning Administrator may close out an application, if information is requested in writing by the Zoning Administrator, and the information has not been submitted to the Zoning Administrator or the action has not occurred within 120 days. Applications which are closed out are considered to be withdrawn and any unspent fees from the application will be refunded. An applicant for a housing development project, as defined in <cite doc="Cal. Gov't Code" path="§65905.5|(b)|(3)">California Government Code Section 65905.5(b)(3)</cite> shall follow timelines and provisions outlined in <cite doc="Cal. Gov't Code" path="§65941.1">California Government Code Section 65941.1</cite> to maintain preliminary application eligibility.</text>
       </para>
       <para>
         <num>(d)</num>
@@ -3185,6 +3236,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1985-17" path="§19" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1987-11" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1991-12" path="§49" type="History"/>
+        <annotation app="2025-08-27" doc="City of San Mateo, Cal., Ord. No. 2025-05" eff="2025-08-27" path="§5" type="History"/>
       </annotations>
     </section>
     <section>
@@ -3461,18 +3513,15 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>Approvals granted to the City of San Mateo or the Redevelopment Agency of San Mateo shall be in force and effect for such time period as funds are budgeted in whole or in part for the project by the City or Agency.</text>
+        <text>Approvals granted to the City of San Mateo shall be in force and effect for such time period as funds are budgeted in whole or in part for the project by the City or Agency.</text>
       </para>
       <para>
         <num>(d)</num>
-        <text>Projects with associated subdivision maps that remain in effect or have been extended by mandate of the state Subdivision Map Act or <cite path="26.48.135">San Mateo Municipal Code section 26.48.135</cite>, <cite path="26.48.140">26.48.140</cite>, or <cite path="26.56.087">26.56.087</cite>. Those planning approvals remain effective for the term of the subdivision map approval, if required by State law.</text>
-      </para>
-      <para>
-        <num>(e)</num>
         <text>Projects for which an extension has been obtained in accordance with <cite path="27.08.087">Section 27.08.087</cite> below.</text>
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2011-9" path="§7" type="History"/>
+        <annotation app="2025-08-27" doc="City of San Mateo, Cal., Ord. No. 2025-05" eff="2025-08-27" path="§6" type="History"/>
       </annotations>
     </section>
     <section>
@@ -3485,7 +3534,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>City extensions. The Zoning Administrator may approve one extension of a planning approval for up to two years, subject to the following provisions:</text>
+        <text>City extensions. The Zoning Administrator may approve up to two extensions of a planning approval, each for up to two years, subject to the following provisions:</text>
         <para>
           <num>(1)</num>
           <text>Application required. To apply for a planning approval extension, an applicant must submit the application prior to the expiration date of the planning approval, pay the application fee and provide the reason(s) for the extension request.</text>
@@ -3518,6 +3567,7 @@
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2011-9" path="§8" type="History"/>
         <annotation app="2023-10-18" doc="City of San Mateo, Cal., Ord. No. 2023-8" eff="2023-10-18" path="§2" type="History"/>
+        <annotation app="2025-08-27" doc="City of San Mateo, Cal., Ord. No. 2025-05" eff="2025-08-27" path="§7" type="History"/>
       </annotations>
     </section>
     <section>
@@ -4475,7 +4525,7 @@
     <section>
       <num>27.16.050</num>
       <heading>AFFORDABLE HOUSING.</heading>
-      <text>To implement the affordable housing goals and policies in the General Plan, the City Council adopted the Below Market Rate (BMR) Program. Specific requirements for the development of affordable units are regulated by resolution adopted by the City Council.</text>
+      <text>To implement the affordable housing goals and policies in the General Plan, the City Council adopted the Below Market Rate (BMR) Program. Specific requirements for the development of affordable units under the BMR Program, including the alternative compliance option of providing offsite affordable units and other proposed alternatives, are regulated by resolution adopted by the City Council.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1992-2" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2010-15" path="§1" type="History"/>
@@ -4483,6 +4533,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 2018-2" path="" type="Editor's Notes" history="false" app="2018-03-05" eff="2018-03-05">See <cite doc="City of San Mateo, Cal., Ord. No. 2018-2">Ord. No. 2018-2</cite> for a moratorium on the development of residential rental units, with exceptions.</annotation>
         <annotation app="2018-03-05" doc="City of San Mateo, Cal., Ord. No. 2018-2" eff="2018-03-05" path="" type="History" display="false"/>
         <annotation app="2018-05-16" doc="City of San Mateo, Cal., Ord. No. 2018-3" eff="2018-05-16" path="" type="History"/>
+        <annotation app="2025-08-27" doc="City of San Mateo, Cal., Ord. No. 2025-05" eff="2025-08-27" path="§8" type="History"/>
       </annotations>
     </section>
     <section>
