@@ -1871,7 +1871,7 @@
       <text>As used in <cite path="2.80">this chapter</cite>, the words and phrases shall be defined in the same manner as they are defined in the Political Reform Act of 1974 (including any amendments thereto) as found in <cite doc="Cal. Gov't Code" path="§81000">California Government Code Section 81000</cite> et seq., unless defined otherwise in this section. For the purposes of <cite path="2.80">this chapter</cite>, the terms below are defined as follows:</text>
       <para>
         <num>(a)</num>
-        <text>"Candidate" means any individual listed on the ballot for election to any City office, or who otherwise has taken affirmative action to seek election to City office, or who receives a contribution or makes an expenditure, or who gives his or her consent for any other person to receive a contribution or make an expenditure with the purpose of bringing about his or her election to any City office. "Candidate" also means an officeholder in connection with a recall election relating to such officeholder.</text>
+        <text>"Candidate" means any individual listed on the ballot for election to any City office, or who otherwise has taken affirmative action to seek election to City office, or who receives a contribution or makes an expenditure, or who gives his or her consent for any other person to receive a contribution or make an expenditure with the purpose of bringing about his or her election to any City office.</text>
       </para>
       <para>
         <num>(b)</num>
@@ -1894,6 +1894,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 2005-1" path="§1" type="History"/>
         <annotation app="2018-07-04" doc="City of San Mateo, Cal., Ord. No. 2018-4" eff="2018-07-04" path="§1" type="History" display="false"/>
         <annotation app="2022-01-01" doc="City of San Mateo, Cal., Ord. No. 2021-23" eff="2022-01-01" path="§1" type="History"/>
+        <annotation app="2024-01-01" doc="City of San Mateo, Cal., Ord. No. 2023-9" eff="2024-01-01" path="§2" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1901,11 +1902,11 @@
       <heading>LIMITATIONS ON CONTRIBUTIONS.</heading>
       <para>
         <num>(a)</num>
-        <text>For any particular election, including a recall election, no individual shall make, and no candidate, candidate committee treasurer or other person acting on behalf of a candidate committee shall solicit or accept from any individual any contribution which will cause the total amount contributed by such individual to exceed $500.00.</text>
+        <text>For any particular election, no individual shall make, and no candidate, candidate committee treasurer or other person acting on behalf of a candidate committee shall solicit or accept from any individual any contribution which will cause the total amount contributed by such individual to exceed $500.00.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>For any particular election, including a recall election, no organization shall make, and no candidate, candidate committee treasurer or other person acting on behalf of a candidate committee shall solicit or accept from any organization any contribution which will cause the total amount contributed by such organization to exceed $1,000.00.</text>
+        <text>For any particular election, no organization shall make, and no candidate, candidate committee treasurer or other person acting on behalf of a candidate committee shall solicit or accept from any organization any contribution which will cause the total amount contributed by such organization to exceed $1,000.00.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -1919,6 +1920,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 2005-1" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2017-2" path="§1" type="History"/>
         <annotation app="2018-07-04" doc="City of San Mateo, Cal., Ord. No. 2018-4" eff="2018-07-04" path="§1" type="History" display="false"/>
+        <annotation app="2024-01-01" doc="City of San Mateo, Cal., Ord. No. 2023-9" eff="2024-01-01" path="§3" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1957,19 +1959,113 @@
         <num>(d)</num>
         <text>Contributions made by organizations that are majority owned by a person shall be aggregated with the contributions of the majority owner and all other organizations majority owned by that person, unless those organizations act independently in their contribution-making decisions.</text>
       </para>
+      <para>
+        <num>(e)</num>
+        <text>Aggregated contributions under this section shall be subject to the $1000 contribution limit.</text>
+      </para>
       <annotations>
         <annotation app="2018-07-04" doc="City of San Mateo, Cal., Ord. No. 2018-4" eff="2018-07-04" path="§1" type="History" display="false"/>
         <annotation app="2022-01-01" doc="City of San Mateo, Cal., Ord. No. 2021-23" eff="2022-01-01" path="§2" type="History"/>
+        <annotation app="2024-01-01" doc="City of San Mateo, Cal., Ord. No. 2023-9" eff="2024-01-01" path="§4" type="History"/>
       </annotations>
     </section>
     <section>
       <num>2.80.050</num>
-      <heading>Candidate Campaigns Only.</heading>
-      <text>The provisions of <cite path="2.80">this chapter</cite> apply to election campaigns for candidates only. The provisions of <cite path="2.80">this chapter</cite> do not apply to any ballot measure, referendum or initiative election.</text>
+      <heading>CANDIDATE CAMPAIGNS ONLY.</heading>
+      <text>The provisions of this chapter apply to election campaigns for candidates only. The provisions of this chapter do not apply to any ballot measure, referendum or initiative election.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2005-1" path="§1" type="History"/>
         <annotation app="2018-07-04" doc="City of San Mateo, Cal., Ord. No. 2018-4" eff="2018-07-04" path="§1" type="History" display="false"/>
         <annotation app="2022-01-01" doc="City of San Mateo, Cal., Ord. No. 2021-23" eff="2022-01-01" path="§3" type="History"/>
+        <annotation app="2024-01-01" doc="City of San Mateo, Cal., Ord. No. 2023-9" eff="2024-01-01" path="§5" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>2.80.055</num>
+      <heading>VOLUNTARY EXPENDITURE LIMIT.</heading>
+      <para>
+        <num>(a)</num>
+        <text>Each candidate for election to the City Council in November 2024, and for each City Council election thereafter, shall, prior to the time they file their nomination papers with the city clerk, advise the city clerk in writing on a form provided by the City whether or not the candidate will opt to voluntarily limit their campaign expenditures in accordance with the voluntary campaign expenditure limits set forth in this section and by resolution. The agreement to voluntarily limit campaign expenditures shall pertain to all expenditures incurred by the candidate or the candidate's committee in support of their candidacy and shall include all such expenditures that a candidate or candidate's committee is required to report pursuant to the California Political Reform Act of 1974, as amended, whether those expenditures are made before or after the filing of nomination papers.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Withdrawal Period: within three (3) business days after the deadline to file nomination papers with the city clerk, a candidate that previously accepted the voluntary campaign expenditure limit will have one (1) opportunity to notify the city clerk that they have decided not to accept the voluntary campaign expenditure limit. The candidate shall thereafter be relieved of abiding by the expenditure limit.</text>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>Candidates who agree to abide by the voluntary campaign expenditure limit shall receive the following benefits and incentives at no cost to themselves:</text>
+        <para>
+          <num>(1)</num>
+          <text>The City's website will clearly identify which candidates have agreed to the voluntary expenditure limit.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The City will publish in its regular digital newsletter which candidates have agreed to the voluntary expenditure limit. This will be published twice (once at the next publishing of said newsletter after the withdrawal period and once when the ballots are mailed to residents.)</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The City will publish notices in a newspaper of general circulation the candidates who agreed to the voluntary expenditure limit.</text>
+        </para>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>Calculation of Voluntary Campaign Expenditure Limit.</text>
+        <para>
+          <num>(1)</num>
+          <text>A candidate for district City Councilmember who voluntarily agrees to expenditure ceilings shall not make qualified expenditures exceeding two dollars and fifty cents ($2.50) per resident in the electoral district for each election in which the candidate is seeking elective office. Residency of each electoral district shall be determined by the latest decennial census population figures available for that district. The City Clerk shall publish on its website and in a newspaper of general circulation the expenditure ceiling amount for each district, rounded to the nearest hundred dollars ($100), no later than sixty (60) business days following adoption of the ordinance from which this Section is derived.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Beginning on January 1, 2026, the City Clerk shall in even-numbered years increase the expenditure ceiling amounts based upon a finding that the cost of living in the immediate San Francisco Bay Area, as shown on the CPI for all items in the San Francisco Bay Area as published by the U.S. Department of Labor, Bureau of Statistics, has increased. This increase shall be the cost-of-living adjustment (COLA) computed by reference to the CPI as indexed from a base year that commences in November 2023 (by way of example, on January 1, 2026, the City Clerk will adjust the voluntary expenditure ceiling amounts by determining the increase in CPI from November 2023 — November 2025). The increase shall be rounded to the nearest hundred dollars ($100). The City Clerk shall publish the adjusted expenditure ceiling amounts no later than February 1st of each even-numbered year.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The following shall not count toward the voluntary campaign expenditure limit:</text>
+          <para>
+            <num>(A)</num>
+            <text>Filing fees related to the candidacy, including fees paid to the Secretary of State to open or maintain a committee, and fees to translate the candidate statement.</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Contributions returned by the candidate within thirty (30) days of receipt.</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Legal fees and costs incurred in connection with litigation arising out of a campaign for City office.</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>Non-monetary contributions as defined by the Fair Political Practices Commission.</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>Post-election party expenses.</text>
+          </para>
+          <para>
+            <num>(F)</num>
+            <text>Post office box expenses.</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(e)</num>
+        <text>Penalties: Any violation of <cite path="2.80.055">this section</cite>, including the filing of false reports that entitle the candidate to the benefits conferred by this section, shall within seventy-two (72) hours of the City's knowledge of the violation:</text>
+        <para>
+          <num>(1)</num>
+          <text>Be posted on the City's website, and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Be posted in the City's regular digital newsletter; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Be forwarded to newspapers of general circulation for publication.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation app="2018-07-04" doc="City of San Mateo, Cal., Ord. No. 2018-4" eff="2018-07-04" path="§1" type="History" display="false"/>
+        <annotation app="2024-01-01" doc="City of San Mateo, Cal., Ord. No. 2023-9" eff="2024-01-01" path="§1" type="History"/>
       </annotations>
     </section>
     <section>
