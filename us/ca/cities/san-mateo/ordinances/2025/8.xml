@@ -45,7 +45,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="8.02.350">Section 8.02.350 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="8.02.350" codified:doc="City of San Mateo, Cal., Code" codified:path="|8.02.350" codified:citation="Section 8.02.350" codified:display="Amend"/>
+        <codify:replace path="8.02.350" codified:doc="City of San Mateo, Cal., Code" codified:path="|8.02.350"/>
         <num>8.02.350</num>
         <heading>Schedule of Fees and Charges (County Code § 6.04.350).</heading>
         <text>This <cite doc="City of San Mateo, Cal., Code" path="8.02.350">Section 8.02.350</cite> sets forth the fees for the Animal Control Program and Licensing Program. No animal shall be released to its Owner, or other Person responsible for the care, custody, or control of the animal, unless applicable fees have been paid.</text>
@@ -570,7 +570,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="8.02.420">Section 8.02.420 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="8.02">Chapter 8.02</cite> as follows:</text>
     <include>
       <section>
-        <codify:replace path="8.02.420" warning="false" codified:doc="City of San Mateo, Cal., Code" codified:path="|8.02.420" codified:citation="Section 8.02.420" codified:display="Amend"/>
+        <codify:replace path="8.02.420" warning="false" codified:doc="City of San Mateo, Cal., Code" codified:path="|8.02.420"/>
         <num>8.02.420</num>
         <heading>Spaying/Neutering (County Code § 6.12.020)</heading>
         <para>
@@ -621,7 +621,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="8.02.430">Section 8.02.430 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="8.02">Chapter 8.02</cite> as follows:</text>
     <include>
       <section>
-        <codify:replace path="8.02.430" warning="false" codified:doc="City of San Mateo, Cal., Code" codified:path="|8.02.430" codified:citation="Section 8.02.430" codified:display="Amend"/>
+        <codify:replace path="8.02.430" warning="false" codified:doc="City of San Mateo, Cal., Code" codified:path="|8.02.430"/>
         <num>8.02.430</num>
         <heading>Breeding Permits; Administration. (County Code §6.12.030)</heading>
         <para>
@@ -668,7 +668,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="8.02.440">Section 8.02.440 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="8.02">Chapter 8.02</cite> as follows:</text>
     <include>
       <section>
-        <codify:replace path="8.02.440" warning="false" codified:doc="City of San Mateo, Cal., Code" codified:path="|8.02.440" codified:citation="Section 8.02.440" codified:display="Amend"/>
+        <codify:replace path="8.02.440" warning="false" codified:doc="City of San Mateo, Cal., Code" codified:path="|8.02.440"/>
         <num>8.02.440</num>
         <heading>Sale or Adoption of Cats and Dogs. (County Code § 6.12.040)</heading>
         <para>
@@ -695,7 +695,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="8.02.450">Section 8.02.450 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="8.02">Chapter 8.02</cite> as follows:</text>
     <include>
       <section>
-        <codify:replace path="8.02.450" warning="false" codified:doc="City of San Mateo, Cal., Code" codified:path="|8.02.450" codified:citation="Section 8.02.450" codified:display="Amend"/>
+        <codify:replace path="8.02.450" warning="false" codified:doc="City of San Mateo, Cal., Code" codified:path="|8.02.450"/>
         <num>8.02.450</num>
         <heading>Revocation of Permit. (County Code § 6.12.050)</heading>
         <para>
@@ -738,7 +738,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="8.02.460">Section 8.02.460 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="8.02">Chapter 8.02</cite> as follows:</text>
     <include>
       <section>
-        <codify:replace path="8.02.460" warning="false" codified:doc="City of San Mateo, Cal., Code" codified:path="|8.02.460" codified:citation="Section 8.02.460" codified:display="Amend"/>
+        <codify:replace path="8.02.460" warning="false" codified:doc="City of San Mateo, Cal., Code" codified:path="|8.02.460"/>
         <num>8.02.460</num>
         <heading>Penalty for Violation. (County Code § 6.12.060)</heading>
         <text>Except as otherwise provided by <cite doc="City of San Mateo, Cal., Code" path="8.02">this chapter</cite>, any violation of the provisions of <cite doc="City of San Mateo, Cal., Code" path="8.02">this chapter</cite> shall be punishable as an infraction, the penalty of which shall be as follows:</text>
@@ -762,7 +762,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="8.02.470">Section 8.02.470 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="8.02">Chapter 8.02</cite> as follows:</text>
     <include>
       <section>
-        <codify:replace path="8.02.470" warning="false" codified:doc="City of San Mateo, Cal., Code" codified:path="|8.02.470" codified:citation="Section 8.02.470" codified:display="Amend"/>
+        <codify:replace path="8.02.470" warning="false" codified:doc="City of San Mateo, Cal., Code" codified:path="|8.02.470"/>
         <num>8.02.470</num>
         <heading>Responsibility for Enforcement. (County Code § 6.12.070)</heading>
         <text>The Animal Control Program shall be responsible for the enforcement and administration of <cite doc="City of San Mateo, Cal., Code" path="8.02">this chapter</cite>.</text>
@@ -774,7 +774,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="8.02.480">Section 8.02.480 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="8.02">Chapter 8.02</cite> as follows:</text>
     <include>
       <section>
-        <codify:replace path="8.02.480" warning="false" codified:doc="City of San Mateo, Cal., Code" codified:path="|8.02.480" codified:citation="Section 8.02.480" codified:display="Amend"/>
+        <codify:replace path="8.02.480" warning="false" codified:doc="City of San Mateo, Cal., Code" codified:path="|8.02.480"/>
         <num>8.02.480</num>
         <heading>General Provisions and Definitions. (County Code § 6.20.010).</heading>
         <para>
@@ -805,7 +805,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="8.02.490">Section 8.02.490 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="8.02">Chapter 8.02</cite> as follows:</text>
     <include>
       <section>
-        <codify:replace path="8.02.490" warning="false" codified:doc="City of San Mateo, Cal., Code" codified:path="|8.02.490" codified:citation="Section 8.02.490" codified:display="Amend"/>
+        <codify:replace path="8.02.490" warning="false" codified:doc="City of San Mateo, Cal., Code" codified:path="|8.02.490"/>
         <num>8.02.490</num>
         <heading>Keeping of Dogs and Cats. (County Code § 6.20.020).</heading>
         <para>
@@ -844,7 +844,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="8.02.500">Section 8.02.500 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="8.02">Chapter 8.02</cite> as follows:</text>
     <include>
       <section>
-        <codify:insert path="8.02" codified:doc="City of San Mateo, Cal., Code" codified:path="|8.02.500" codified:citation="Section 8.02.500" codified:display="New"/>
+        <codify:insert path="8.02" codified:doc="City of San Mateo, Cal., Code" codified:path="|8.02.500"/>
         <num>8.02.500</num>
         <heading>Animal fanciers; Permit requirement. (County Code § 6.20.030).</heading>
         <text>Animal fanciers, as defined in <cite doc="City of San Mateo, Cal., Code" path="8.02.480|(b)|(1)">section 8.02.480(b)(1)</cite>, shall locate only in those zoning districts where animal fanciers is an allowed use, and be subject to an animal fanciers' permit when required by the County Zoning Regulations (Division 6, Part One of this Ordinance Code). The securing of an animal fanciers' permit shall be in conformance with <cite doc="City of San Mateo, Cal., Code" path="8.34">Chapter 8.34</cite> of <cite doc="City of San Mateo, Cal., Code" path="8">this Title</cite>.</text>
@@ -856,7 +856,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="8.34">Chapter 8.34 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="8">Title 8</cite> as follows:</text>
     <include>
       <container>
-        <codify:insert path="8" codified:doc="City of San Mateo, Cal., Code" codified:path="|8.34.010|annos" codified:citation="Section 8.34.010" codified:display="New"/>
+        <codify:insert path="8" codified:doc="City of San Mateo, Cal., Code" codified:path="|8.34.010|annos"/>
         <prefix>Chapter</prefix>
         <num>8.34</num>
         <heading>ANIMAL FANCIERS PERMIT</heading>
