@@ -93,11 +93,51 @@
     </section>
     <section>
       <num>27.02.060</num>
-      <heading>USE AND BULK REGULATIONS.</heading>
-      <text>No building, structure, or land shall hereafter be used or occupied, and no building or part thereof, or other structure, shall be erected, raised, moved, reconstructed, extended, enlarged or altered except in conformity with the regulations herein specified for the district in which it is located, except that parapet walls, chimneys, cooling towers, elevator bulkheads, fire towers, stacks, monuments, ornamental towers, FCC licensed radio transmitters, dish antennae, scenery lofts, spires, water towers, and necessary mechanical appurtenances shall be permitted to exceed the maximum bulk provisions when erected in accordance with all other provisions of this code.</text>
+      <heading>Height Limitations and Exceptions.</heading>
+      <para>
+        <num>(a)</num>
+        <text>No building, structure, or land shall hereafter be used or occupied, and no building or part thereof, or other structure, shall be erected, raised, moved, reconstructed, extended, enlarged or altered except in conformance with the regulations specified for the district in which it is located, except as described in subsection (b).</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The following are exempt from maximum height limitations:</text>
+        <para>
+          <num>(1)</num>
+          <text>Pergolas, trellises, skylights, attached flagpoles, parapet walls, roof gardens, screens (or similar features necessary to screen roof top mechanical equipment as described in subsection (2)), and other similar features related to architectural design or style and that are accessory to the primary structure in function and appearance provided that they do not add floor area.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Roof top mechanical equipment such as cooling towers, elevators (including related equipment and bulkheads), solar collectors, and other mechanical equipment required for the property's use and size, provided that all roof top mechanical equipment shall be screened such that it is not visible from the adjacent public right-of-way(s).</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Antennas mounted on a building or property by a public agency for public safety purposes.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Other accessory architectural features, subject to a Site Plan and Architectural Review (SPAR) planning application reviewed and approved by the Zoning Administrator.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>For any application exempt under subsection (b), the Zoning Administrator may determine that additional review by the Planning Commission is required based on the size, shape, location, or impacts of the proposed feature in relation to the rest of the development.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>For improvements or additions to existing nonconforming buildings, the maximum height and bulk regulations set forth elsewhere in <cite path="27">this Title</cite> shall not apply to:</text>
+        <para>
+          <num>(1)</num>
+          <text>Improvements required for seismic retrofitting, Americans with Disability Act (ADA) accessibility, required life and safety upgrades, and historic preservation.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Mechanical upgrades, including but not limited to equipment upgrades, elevators (including related equipment and bulkheads), HVAC installation, and solar equipment installation; and any screening that may be necessary to screen the above, such that it is not visible from the public right-of-way.</text>
+        </para>
+      </para>
       <annotations>
         <annotation type="History">prior code § 143.03</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1981-27" path="§2" type="History"/>
+        <annotation app="2023-09-20" doc="City of San Mateo, Cal., Ord. No. 2023-3" eff="2023-09-20" path="§2" type="History"/>
       </annotations>
     </section>
     <section>
@@ -200,12 +240,32 @@
     </section>
     <section>
       <num>27.02.140</num>
-      <heading>EXCEPTIONS.</heading>
-      <text>The following uses are exempted by <cite path="27">this title</cite> and permitted in any district:</text>
-      <text>Poles, towers, wires, cables, conduits, vaults, laterals, pipes, mains, valves or any other similar distributing and transmitting equipment for telephone or television communications, electric power, gas, water and sewer lines provided that the installation shall conform when applicable with Federal Communications Commission, State Public Utilities Commission, and Federal Aviation Agency rules and regulations, or any other authorities having jurisdiction and subject to other provisions of this code, City ordinances, rules and regulations.</text>
+      <heading>Exceptions.</heading>
+      <text>The following uses in subsection (a) are exempted by <cite path="27">this Title</cite> and allowed in any district. In addition, City projects that meet the criteria in subsection (b) below are also exempt:</text>
+      <para>
+        <num>(a)</num>
+        <text>Poles, towers, wires, cables, conduits, vaults, laterals, pipes, mains, valves or any other similar distributing and transmitting equipment for telephone or television communications, electric power, gas, water and sewer lines provided that the installation shall conform when applicable with Federal Communications Commission, State Public Utilities Commission, and Federal Aviation Agency rules and regulations, or any other authorities having jurisdiction and subject to other provisions of this code, City ordinances, rules and regulations.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The City project meets all of the following criteria:</text>
+        <para>
+          <num>(1)</num>
+          <text>It is accessory and/or ancillary to an existing or approved principal development or use; and</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>It is fully or partially funded by the City; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The City has determined that the project is exempt from the provisions of the California Environmental Quality Act (CEQA).</text>
+        </para>
+      </para>
       <annotations>
         <annotation type="History">prior code § 143.17</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1981-27" path="§4" type="History"/>
+        <annotation app="2023-09-20" doc="City of San Mateo, Cal., Ord. No. 2023-3" eff="2023-09-20" path="§3" type="History"/>
       </annotations>
     </section>
     <section>
@@ -2336,7 +2396,7 @@
       </para>
       <para>
         <num>(h)</num>
-        <text>Have the authority to review and approve, conditionally approve, or disapprove the following types of projects, provided that the projects are categorically exempt or require a negative declaration under the State CEQA Guidelines, subject to public notice and to appeal of the final action to the Planning Commission:</text>
+        <text>Have the authority to review and approve, conditionally approve, or disapprove the following types of projects, provided that the projects do not result in any significant impacts pursuant to the California Environmental Quality Act (CEQA), subject to public notice and to appeal of the final action to the Planning Commission:</text>
         <para>
           <num>(1)</num>
           <text>Site plan and architectural review for:</text>
@@ -2346,11 +2406,11 @@
           </para>
           <para>
             <num>(B)</num>
-            <text>Other minor site improvements including but not limited to: parking lots, landscaping, recreation facilities, accessory structures, recycling collection areas, circular driveways in R-1, R-2 districts;</text>
+            <text>Other minor site improvements including but not limited to parking lots, landscaping, recreation facilities, accessory structures, recycling collection areas, circular driveways in R-1, R-2 districts;</text>
           </para>
           <para>
             <num>(C)</num>
-            <text>Fences over 6 feet and those over 3 feet when located in a front yard setback or within thirty-five (35) feet of a street intersection line, authorized by <cite path="27.66.050|(1)|(e)" proof="needed">Section 27.66.050(1)(e)</cite>, Structures in Required Yards.</text>
+            <text>Fences over 6 feet and those over 3 feet when located in a front yard setback or within forty-five (45) feet of a street intersection line, authorized by <cite path="27.84">Chapter 27.84</cite>.</text>
           </para>
           <para>
             <num>(D)</num>
@@ -2359,19 +2419,19 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>Site development permits for removal of major vegetation required for the construction of single-family or duplex dwellings, or grading of 5,000 cubic yards or less under Section 23.140.120(1).</text>
+          <text>Site development permits for removal of major vegetation required for the construction of single-family or duplex dwellings, or grading of 5,000 cubic yards or less under <cite path="23.40">Chapter 23.40</cite>.</text>
         </para>
         <para>
           <num>(3)</num>
-          <text>Variances as authorized by <cite path="27.78.040">Section 27.78.040</cite>, for single-family, secondary units, or duplex dwellings and for minor site improvements as described in h(1) above.</text>
+          <text>Variances as authorized by <cite path="27.78">Chapter 27.78</cite>, for single-family, accessory dwelling units, or duplex dwellings and for minor site improvements as described in subsection (h)(1) above.</text>
         </para>
         <para>
           <num>(4)</num>
-          <text>Temporary use permits authorized by <cite path="27.74.030|(b)">Section 27.74.030(b)</cite> and <cite path="27.74.040">27.74.040</cite>, Temporary Use Permit.</text>
+          <text>Temporary use permits authorized by <cite path="27.74">Chapter 27.74</cite>.</text>
         </para>
         <para>
           <num>(5)</num>
-          <text>Modifications authorized by <cite path="27.08.080|(a)">Section 27.08.080(a)</cite>, Modifications.</text>
+          <text>Modifications authorized by <cite path="27.08">Chapter 27.08</cite>.</text>
         </para>
         <para>
           <num>(6)</num>
@@ -2382,7 +2442,7 @@
           </para>
           <para>
             <num>(B)</num>
-            <text>Plumbing in detached accessory buildings in the R-1 zone, as authorized under <cite path="27.18.020|(1)" proof="needed">Section 27.18.020(1)</cite>;</text>
+            <text>Plumbing in detached accessory buildings in the R-1 zone, as authorized under <cite path="27.18">Chapter 27.18</cite>;</text>
           </para>
           <para>
             <num>(C)</num>
@@ -2390,30 +2450,49 @@
           </para>
           <para>
             <num>(D)</num>
-            <text>Temporary real estate sales offices, as authorized under <cite path="27.18.020|(12)" proof="needed">Section 27.18.020(12)</cite>;</text>
+            <text>Temporary real estate sales offices, as authorized under Chapters <cite path="26.04">26.04</cite> and <cite path="27.18">27.18</cite>;</text>
           </para>
           <para>
             <num>(E)</num>
-            <text>Swimming pools, hot tubs, and spas located in required front or street side yards, as authorized under <cite path="27.18.020|(13)" proof="needed">Section 27.18.020(13)</cite>; and</text>
+            <text>Swimming pools, hot tubs, and spas located in required front or street side yards, as authorized under <cite path="27.18">Chapter 27.18</cite>; and</text>
           </para>
           <para>
             <num>(F)</num>
-            <text>Additional floor area ratio in the R-3 District, as authorized under <cite path="27.22.050">Section 27.22.050</cite>.</text>
+            <text>Additional floor area ratio in the R-3 District, as authorized under <cite path="27.22">Chapter 27.22</cite>.</text>
           </para>
         </para>
         <para>
           <num>(7)</num>
-          <text>Concurrent development of two or more contiguous lots or parcels of real property in R-1 and R-2 districts authorized by <cite path="27.18.110|(b)|(8)" proof="needed">Section 27.18.110(b)(8)</cite>.</text>
+          <text>Concurrent development of two or more contiguous lots or parcels of real property in R-1 and R-2 districts.</text>
         </para>
         <para>
           <num>(8)</num>
-          <text>Parcel Maps without exceptions as authorized by <cite path="26">Title 26</cite> (subdivision).</text>
-          <text>Notwithstanding the above, if the Zoning Administrator finds that any planning application involves an unresolved city policy issue or that there is public controversy regarding the application, the Zoning Administrator shall refer the application to the Planning Commission for hearing and action.</text>
+          <text>Parcel Maps without exceptions as authorized by <cite path="26">Title 26</cite> (Subdivision).</text>
         </para>
         <para>
           <num>(9)</num>
-          <text>R1 Design Review Applications.</text>
+          <text>Single-Family Dwelling Design Review (SFDDR) Applications.</text>
         </para>
+        <para>
+          <num>(10)</num>
+          <text>City projects that meet the following criteria:</text>
+          <para>
+            <num>(A)</num>
+            <text>The project was conceptually approved as part of, or approved concurrent with, a Master Plan, program document, or project planning document that is in effect and has been previously approved by the City Council; and</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>The project does not propose major changes from previous City Council approval; and</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>The project would not result in a significant environmental impact pursuant to the California Environmental Quality Act (CEQA).</text>
+          </para>
+        </para>
+      </para>
+      <para>
+        <num>(i)</num>
+        <text>Notwithstanding the above, the Zoning Administrator may refer the application to the Planning Commission for hearing and action when it is unclear whether the necessary findings for project approval can be made.</text>
       </para>
       <annotations>
         <annotation type="History">prior code § 152.01(A)(1)</annotation>
@@ -2432,6 +2511,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 2001-36" path="§3" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2003-12" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2017-5" path="§2" type="History"/>
+        <annotation app="2023-09-20" doc="City of San Mateo, Cal., Ord. No. 2023-3" eff="2023-09-20" path="§4" type="History"/>
       </annotations>
     </section>
     <section>
@@ -2573,15 +2653,15 @@
       </para>
       <para>
         <num>(i)</num>
-        <text>Every project which is fully or partially funded by the City and which is subject to Planning Commission review under <cite path="27.06.040">27.06.040</cite>.</text>
+        <text>Projects that are fully or partially funded by the City;</text>
       </para>
       <para>
         <num>(j)</num>
-        <text>Downtown Economic Development Permit.</text>
+        <text>Downtown Economic Development Permit; and</text>
       </para>
       <para>
         <num>(k)</num>
-        <text>The City Council may initiate and enact ordinances, including interim zoning ordinances/moratoria, without having to file a planning application.</text>
+        <text>The initiation and enaction of ordinances, including interim zoning ordinances/moratoria, without having to file a planning application.</text>
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1978-18" path="§63" type="History"/>
@@ -2594,6 +2674,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1996-1" path="§2" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2001-19" path="§2" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-7" path="§7" type="History"/>
+        <annotation app="2023-09-20" doc="City of San Mateo, Cal., Ord. No. 2023-3" eff="2023-09-20" path="§5" type="History"/>
       </annotations>
     </section>
     <section>
@@ -3147,47 +3228,104 @@
     </section>
     <section>
       <num>27.08.080</num>
-      <heading>MODIFICATIONS.</heading>
-      <text>An applicant may request a modification of a previously approved planning application.</text>
+      <heading>PLANNING APPLICATION MODIFICATIONS.</heading>
+      <text>An applicant may request modifications to a previously approved planning application prior to or during construction. Examples of such modifications include alteration to an approved building or structure, change in configuration of site improvements, or modification or deletion of conditions of approval. For previously approved Special Use Permits, an applicant may also request a change of use after a project has been completed. A modification shall not automatically extend the approval expiration date beyond that of the original planning application.</text>
+      <text>Modifications are classified in three ways based on the significance of the proposed change and amount of additional review required: (a) substantial conformance, (b) minor, or (c) major.  The Zoning Administrator shall determine the type of modification required based on the criteria specified below. This decision shall be final.</text>
       <para>
         <num>(a)</num>
-        <text>The zoning administrator has final decisional authority, subject to appeal, on the following modifications:</text>
+        <text>Substantial Conformance. Modifications that are in substantial conformance with the original planning application can be approved as part of the building permit review process.</text>
         <para>
           <num>(1)</num>
-          <text>Modifications to any applications which were originally granted final approval by the zoning administrator.</text>
+          <text>Substantial conformance is generally defined as a modification or change that:</text>
+          <para>
+            <num>(A)</num>
+            <text>Results in a project with reduced or inconsequential changes in size, scale, design, or intensity; or</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Is necessary to accommodate parking requirements, utility configurations or other mechanical or operational components of a project identified during building permit review or construction; or</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Cumulatively would not result in substantive changes to the overall project.</text>
+          </para>
         </para>
         <para>
           <num>(2)</num>
-          <text>Other modifications which involve minor site improvements such as parking lots and landscaping, or which include additions to existing structures, providing that the additions will not result in an increase of more than fifty (50) percent of the floor area of the structures before the addition, or two thousand five hundred (2,500) square feet, whichever is less, and providing that the modifications will not require modification of any condition previously imposed by the Planning Commission and/or City Council.</text>
+          <text>Public notification shall not be required for substantial conformance modifications.</text>
         </para>
       </para>
       <para>
         <num>(b)</num>
-        <text>The Zoning Administrator may refer modifications to the Planning Commission in cases involving major policy decisions, substantial public controversy or unique land use characteristics, or in cases involving the following:</text>
+        <text>Minor Modification. Modifications that result in minor changes to an approved planning application require review and approval by the Zoning Administrator.</text>
         <para>
           <num>(1)</num>
-          <text>Changes to the conditions of approval implementing environmental mitigation measures;</text>
+          <text>Minor modification is generally defined as a modification where all of the following circumstances apply:</text>
+          <para>
+            <num>(A)</num>
+            <text>The modification would not result in a Major Modification, as defined below, to the approved site plan or project design; and</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>The modification would not significantly change the nature of the approved use(s); and</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>The modification would not significantly intensify the approved use(s); and</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>The modification would not result in any new or substantially greater environmental effects than the originally approved project.</text>
+          </para>
         </para>
         <para>
           <num>(2)</num>
-          <text>Changes to conditions expressly imposed by the Planning Commission or City Council;</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>Building additions exceeding fifty (50) percent of the floor area of the original building size or 2,500 square feet, whichever is greater, or</text>
-        </para>
-        <para>
-          <num>(4)</num>
-          <text>Changes in density which increase the number of dwelling units or permitted residential population by more than 10%.</text>
+          <text>Public notification to adjacent property owners and occupants is required for a minor modification. The Zoning Administrator shall determine whether additional property owners and occupants shall be notified depending on the nature of the modification, consistent with the notification procedures in <cite path="27.08">Chapter 27.08</cite>.</text>
         </para>
       </para>
       <para>
         <num>(c)</num>
-        <text>If additional permits are requested, the modification shall be reviewed by the approval body possessing the authority for final action for the permits.</text>
-      </para>
-      <para>
-        <num>(d)</num>
-        <text>A modification shall not extend the approval expiration date beyond that of the original application.</text>
+        <text>Major Modification. Modifications that result in a significant change require review and approval by the decision making body under <cite path="27.06">Chapter 27.06</cite>.</text>
+        <para>
+          <num>(1)</num>
+          <text>A modification to a project is considered major if any of the following circumstances apply:</text>
+          <para>
+            <num>(A)</num>
+            <text>The modifications involve substantive changes to the approved site plan or project design. A substantive change, for the purpose of this section, includes but is not limited to:</text>
+            <para>
+              <num>(i)</num>
+              <text>A change that is visually conspicuous from the public right-of-way or adjacent properties; or</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>A change that results in non-conformance with City standards or policies in order to comply with updated Federal or State laws including. but not limited to, the Americans with Disability Act, Building Code requirements, or Fire Code requirements; or</text>
+            </para>
+            <para>
+              <num>(iii)</num>
+              <text>A change that alters the intent of a project-specific condition of approval.</text>
+            </para>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>The modifications significantly change the nature of the approved use; or</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>The modifications significantly intensify the approved use; or</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>The modifications may result in new or substantially greater environmental impacts than the originally approved project; or</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>The modifications involve major policy decisions or unique land use characteristics, as determined by the Zoning Administrator.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Public notification is required when approval by the Zoning Administrator is required, pursuant to <cite path="27.08">Chapter 27.08</cite>. If the original decision maker was the Planning Commission or City Council, whether in the first instance or on appeal, then public noticing and public hearing for approval by the Planning Commission are required. All recipients and interested parties of the previously approved planning application shall be notified.</text>
+        </para>
       </para>
       <annotations>
         <annotation type="History">prior code § 152.10(G)</annotation>
@@ -3203,6 +3341,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1987-11" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1989-18" path="§2" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1991-12" path="§55" type="History"/>
+        <annotation app="2023-09-20" doc="City of San Mateo, Cal., Ord. No. 2023-3" eff="2023-09-20" path="§6" type="History"/>
       </annotations>
     </section>
     <section>
