@@ -1942,11 +1942,11 @@
       <heading>LIMITATIONS ON CONTRIBUTIONS.</heading>
       <para>
         <num>(a)</num>
-        <text>For any particular election, no individual shall make, and no candidate, candidate committee treasurer or other person acting on behalf of a candidate committee shall solicit or accept from any individual any contribution which will cause the total amount contributed by such individual to exceed $500.00.</text>
+        <text>For any particular election, no individual or organization shall make, and no candidate, candidate committee treasurer or other person acting on behalf of a candidate committee shall solicit or accept from any individual or organization any contribution which will cause the total amount contributed by such individual or organization to exceed $1000.00.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>For any particular election, no organization shall make, and no candidate, candidate committee treasurer or other person acting on behalf of a candidate committee shall solicit or accept from any organization any contribution which will cause the total amount contributed by such organization to exceed $1,000.00.</text>
+        <text>Beginning January 1, 2027, the City Clerk shall once biennially, on a calendar-year basis, increase the contribution limitation amount upon a finding that the cost of living in the immediate San Francisco Bay Area, as shown on the Consumer Price Index (CPI) for all items in the San Francisco Bay Area as published by the U.S. Department of Labor, Bureau of Statistics, has increased. The increase of the contribution limitation amount shall not exceed the CPI increase, using the index published in June 2025 as the index year. The adjustment shall be rounded up to the nearest $10.00. The City Clerk shall publish the contribution limitation amounts no later than February 1st of each year in which an increase occurs.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -1961,6 +1961,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 2017-2" path="§1" type="History"/>
         <annotation app="2018-07-04" doc="City of San Mateo, Cal., Ord. No. 2018-4" eff="2018-07-04" path="§1" type="History" display="false"/>
         <annotation app="2024-01-01" doc="City of San Mateo, Cal., Ord. No. 2023-9" eff="2024-01-01" path="§3" type="History"/>
+        <annotation app="2026-01-01" doc="City of San Mateo, Cal., Ord. No. 2025-06" eff="2026-01-01" path="§1" type="History"/>
       </annotations>
     </section>
     <section>
@@ -2036,7 +2037,7 @@
         <text>Candidates who agree to abide by the voluntary campaign expenditure limit shall receive the following benefits and incentives at no cost to themselves:</text>
         <para>
           <num>(1)</num>
-          <text>The City's website will clearly identify which candidates have agreed to the voluntary expenditure limit.</text>
+          <text>The City's website will prominently identify which candidates have agreed to the voluntary expenditure limit.  Candidates who agree to abide by the voluntary campaign expenditure limits may submit a written statement up to four hundred words. The statement will appear exactly as submitted and shall conform to candidate statement guidelines provided by the City Clerk and <cite doc="Cal. Elec. Code" path="§13307|(a)|(1)">Elections Code section 13307(a)(1)</cite>, as amended.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -2106,6 +2107,7 @@
       <annotations>
         <annotation app="2018-07-04" doc="City of San Mateo, Cal., Ord. No. 2018-4" eff="2018-07-04" path="§1" type="History" display="false"/>
         <annotation app="2024-01-01" doc="City of San Mateo, Cal., Ord. No. 2023-9" eff="2024-01-01" path="§1" type="History"/>
+        <annotation app="2026-01-01" doc="City of San Mateo, Cal., Ord. No. 2025-06" eff="2026-01-01" path="§2" type="History"/>
       </annotations>
     </section>
     <section>
