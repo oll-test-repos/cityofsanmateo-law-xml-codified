@@ -2372,7 +2372,7 @@
   <container>
     <prefix>Chapter</prefix>
     <num>7.35</num>
-    <heading>Mandatory Organic Waste Disposal<annotation app="2024-01-03" doc="City of San Mateo, Cal., Ord. No. 2023-13" eff="2024-01-03" path="§1" type="History"/></heading>
+    <heading>MANDATORY ORGANIC WASTE DISPOSAL<annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-27" eff="2022-01-05" path="" type="History" display="false"/><annotation app="2024-01-03" doc="City of San Mateo, Cal., Ord. No. 2023-13" eff="2024-01-03" path="§1" type="History"/><annotation app="2024-01-03" doc="City of San Mateo, Cal., Ord. No. 2023-13" eff="2024-01-03" path="" type="History" display="false"/></heading>
     <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-27" eff="2022-01-05" path="§1" type="History"/>
     <section>
       <num>7.35.010</num>
@@ -7219,7 +7219,7 @@
   <container>
     <prefix>Chapter</prefix>
     <num>7.50</num>
-    <heading>Property Owner Obligations with Respect to Tenants Displaced from Unsafe or Substandard Units.</heading>
+    <heading>PROPERTY OWNER OBLIGATIONS WITH RESPECT TO TENANTS DISPLACED FROM UNSAFE OR SUBSTANDARD UNITS<annotation app="2019-07-17" doc="City of San Mateo, Cal., Ord. No. 2019-6" eff="2019-07-17" path="" type="History" display="false"/></heading>
     <annotation app="2019-07-17" doc="City of San Mateo, Cal., Ord. No. 2019-6" eff="2019-07-17" path="§1" type="History" display="false"/>
     <section>
       <num>7.50.010</num>

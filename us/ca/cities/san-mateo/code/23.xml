@@ -1446,7 +1446,7 @@
   <container>
     <prefix>Chapter</prefix>
     <num>23.29</num>
-    <heading>Wildland-Urban Interface Code</heading>
+    <heading>WILDLAND-URBAN INTERFACE CODE<annotation app="2025-12-03" doc="City of San Mateo, Cal., Ord. No. 2025-09" eff="2025-12-03" path="" type="History" display="false"/></heading>
     <section>
       <num>23.29.010</num>
       <heading>Adoption.</heading>
@@ -1479,7 +1479,7 @@
   <container>
     <prefix>Chapter</prefix>
     <num>23.30</num>
-    <heading>Dangerous Building Code</heading>
+    <heading>DANGEROUS BUILDING CODE<annotation app="2023-01-01" doc="City of San Mateo, Cal., Ord. No. 2022-11" eff="2023-01-01" path="" type="History" display="false"/></heading>
     <section>
       <num>23.30.010</num>
       <heading>Adoption</heading>
@@ -2815,7 +2815,7 @@
   <container>
     <prefix>Chapter</prefix>
     <num>23.36</num>
-    <heading>Historical Building Code</heading>
+    <heading>HISTORICAL BUILDING CODE<annotation app="2019-12-18" doc="City of San Mateo, Cal., Ord. No. 2019-13" eff="2019-12-18" path="" type="History" display="false"/></heading>
     <annotation app="2019-12-18" doc="City of San Mateo, Cal., Ord. No. 2019-13" eff="2019-12-18" path="§11|(a)" type="History"/>
     <section>
       <num>23.36.010</num>
@@ -2842,7 +2842,7 @@
   <container>
     <prefix>Chapter</prefix>
     <num>23.38</num>
-    <heading>Referenced Standards Code</heading>
+    <heading>REFERENCED STANDARDS CODE<annotation app="2019-12-18" doc="City of San Mateo, Cal., Ord. No. 2019-13" eff="2019-12-18" path="" type="History" display="false"/></heading>
     <annotation app="2019-12-18" doc="City of San Mateo, Cal., Ord. No. 2019-13" eff="2019-12-18" path="§12|(a)" type="History"/>
     <section>
       <num>23.38.010</num>
@@ -5592,7 +5592,7 @@
   <container>
     <prefix>Chapter</prefix>
     <num>23.65</num>
-    <heading>Child Care Development Fee</heading>
+    <heading>CHILD CARE DEVELOPMENT FEE<annotation app="2022-01-14" doc="City of San Mateo, Cal., Ord. No. 2021-24" eff="2022-01-14" path="" type="History" display="false"/></heading>
     <annotation app="2022-01-14" doc="City of San Mateo, Cal., Ord. No. 2021-24" eff="2022-01-14" path="§5" type="History"/>
     <section>
       <num>23.65.010</num>
@@ -5614,7 +5614,7 @@
   <container>
     <prefix>Chapter</prefix>
     <num>23.70</num>
-    <heading>Green Building Standards Code<annotation app="2025-12-03" doc="City of San Mateo, Cal., Ord. No. 2025-09" eff="2025-12-03" path="§68" type="History"/></heading>
+    <heading>GREEN BUILDING STANDARDS CODE<annotation app="2025-12-03" doc="City of San Mateo, Cal., Ord. No. 2025-09" eff="2025-12-03" path="§68" type="History"/><annotation app="2025-12-03" doc="City of San Mateo, Cal., Ord. No. 2025-09" eff="2025-12-03" path="" type="History" display="false"/></heading>
     <annotations>
       <annotation type="Editor's Notes">Prior ordinance history: Ord. 2009-14.</annotation>
     </annotations>
