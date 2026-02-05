@@ -59,7 +59,7 @@
   <section>
     <num>1</num>
     <text>The title of <cite doc="City of San Mateo, Cal., Code" path="7.35">Chapter 7.35 of the San Mateo Municipal Code</cite> is amended as follows: "Mandatory Organic Waste Disposal Reduction".</text>
-    <codify:replace path="7.35|heading" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.35" codified:citation="Chapter 7.35" codified:display="Amend">
+    <codify:replace path="7.35|heading" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.35">
       <heading>Mandatory Organic Waste Disposal</heading>
     </codify:replace>
   </section>
@@ -68,7 +68,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="7.35.010">Section 7.35.010 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="7.35.010" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.35.010" codified:citation="Section 7.35.010" codified:display="Amend"/>
+        <codify:replace path="7.35.010" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.35.010"/>
         <num>7.35.010</num>
         <heading>Title</heading>
         <text><cite doc="City of San Mateo, Cal., Code" path="7.35">This Chapter</cite> shall be known as the "Mandatory Organic Waste Disposal Reduction" ordinance and may be so cited and commonly referred to in <cite doc="City of San Mateo, Cal., Code" path="7.35">this Chapter</cite> as the "Ordinance."</text>
@@ -80,7 +80,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="7.35.130">Section 7.35.130 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="7.35.130" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.35.130" codified:citation="Section 7.35.130" codified:display="Amend"/>
+        <codify:replace path="7.35.130" codified:doc="City of San Mateo, Cal., Code" codified:path="|7.35.130"/>
         <num>7.35.130</num>
         <heading>Enforcement</heading>
         <para>
