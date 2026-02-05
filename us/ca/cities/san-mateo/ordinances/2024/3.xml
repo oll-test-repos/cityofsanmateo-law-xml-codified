@@ -65,7 +65,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="2.03.020">Section 2.03.020 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="2.03">Chapter 2.03</cite> as follows:</text>
     <include>
       <section>
-        <codify:insert doc="City of San Mateo, Cal., Code" path="2.03" codified:doc="City of San Mateo, Cal., Code" codified:path="|2.03.020" codified:citation="Section 2.03.020" codified:display="New"/>
+        <codify:insert doc="City of San Mateo, Cal., Code" path="2.03" codified:doc="City of San Mateo, Cal., Code" codified:path="|2.03.020"/>
         <num>2.03.020</num>
         <heading>City Council Compensation</heading>
         <text>Effective January 6, 2025, council members shall receive a monthly salary of one thousand two hundred dollars ($1,200) per month in accordance with <cite doc="City of San Mateo, Cal., Charter" path="|2.03">City Charter section 2.03</cite> and <cite doc="Cal. Gov't Code" path="§36516">Government Code section 36516</cite>.</text>
