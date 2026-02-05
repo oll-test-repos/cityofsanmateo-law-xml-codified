@@ -77,7 +77,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="23.24.020">Section 23.24.020 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="|23.24.020" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.24.020"/>
+        <codify:replace path="|23.24.020"/>
         <num>23.24.020</num>
         <heading>Local Amendment to Definitions</heading>
         <para>
@@ -98,7 +98,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="23.24.030">Section 23.24.030 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="|23.24.030" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.24.030"/>
+        <codify:replace path="|23.24.030"/>
         <num>23.24.030</num>
         <heading>Electric-readiness and Energy Performance of Nonresidential Buildings</heading>
         <para>
@@ -230,7 +230,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="23.24.040">Section 23.24.040 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="|23.24.040" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.24.040"/>
+        <codify:replace path="|23.24.040"/>
         <num>23.24.040</num>
         <heading>Local Amendment Regarding Electric-readiness and Energy Performance of Single-Family Residential Buildings.</heading>
         <para>
@@ -288,7 +288,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="23.24.050">Section 23.24.050 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="|23.24.050" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.24.050"/>
+        <codify:replace path="|23.24.050"/>
         <num>23.24.050</num>
         <heading>Local Amendment Regarding Electric-readiness and Energy Performance of Multifamily Buildings.</heading>
         <para>
