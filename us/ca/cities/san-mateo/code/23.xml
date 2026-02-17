@@ -4237,7 +4237,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>To apply Crime Prevention Through Environmental Design and Defensible Space Techniques.</text>
+        <text>To apply crime prevention through environmental design and safety technologies.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -4249,6 +4249,7 @@
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2008-8" path="§1" type="History"/>
+        <annotation app="2024-02-15" doc="City of San Mateo, Cal., Ord. No. 2024-1" eff="2024-02-15" path="§1|(b)" type="History"/>
       </annotations>
     </section>
     <section>
@@ -4377,13 +4378,14 @@
     <section>
       <num>23.54.020</num>
       <heading>CITY COMMUNICATION SYSTEMS – HIGH RISE BUILDINGS.</heading>
-      <text>All new buildings five or more stories in height shall provide a location on the building for installation of City radio communications equipment, including antennas and their supporting equipment. An electrical supply source shall be provided by the permittee at the antenna/equipment location, and reasonable access shall be provided by the permittee and/or building owner to City staff and/or City contractors for installation of necessary telephone lines and for purposes of installation, maintenance, adjustment and repair of the antenna/equipment. This access and location agreement shall be recorded in terms that convey the intent and meaning of this condition in the form approved by the City Attorney.</text>
+      <text>All new buildings with a top plate height of 55 feet or more shall provide a location on the building for installation of City radio communications equipment, including antennas and their supporting equipment. An electrical supply source shall be provided by the permittee at the antenna/equipment location, and reasonable access shall be provided by the permittee and/or building owner to City staff and/or City contractors for installation of necessary telephone lines and for purposes of installation, maintenance, adjustment and repair of the antenna/equipment. This access and location agreement shall be recorded in terms that convey the intent and meaning of this condition in the form approved by the City Attorney.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1989-35" path="§3" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1990-1" path="§2" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1992-12" path="§2" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1996-4" path="§8" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1999-19" path="§1" type="History"/>
+        <annotation app="2024-02-15" doc="City of San Mateo, Cal., Ord. No. 2024-1" eff="2024-02-15" path="§3" type="History"/>
       </annotations>
     </section>
     <section>
