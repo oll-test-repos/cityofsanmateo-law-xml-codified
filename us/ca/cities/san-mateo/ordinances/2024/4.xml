@@ -61,7 +61,7 @@
     <heading>Legislative Findings.</heading>
     <text>At a duly noticed public hearing on June 17, 2024, the City Council of the City of San Mateo reviewed and considered the accompanying staff report and attachments thereto, the exemption from environmental review, together with comments received during the public review process, and hereby finds and determines that the proposed ordinance is consistent with the adopted General Plan in that it supports the development of housing and achieves the General Plan's stated goals and policies.</text>
   </section>
-  <codify:insert codified:doc="City of San Mateo, Cal., Code" codified:path="|27.94" codified:citation="Chapter 27.94" codified:display="New">
+  <codify:insert codified:doc="City of San Mateo, Cal., Code" codified:path="|27.94">
     <container>
       <prefix>Chapter</prefix>
       <num>27.94</num>
@@ -74,13 +74,13 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="27.94">Chapter 27.94</cite> Housing Opportunities Overlay District (H)</text>
     <include>
       <section>
-        <codify:insert path="27.94" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.94.005" codified:citation="Section 27.94.005" codified:display="New"/>
+        <codify:insert path="27.94" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.94.005"/>
         <num>27.94.005</num>
         <heading>Purpose</heading>
         <text>The purpose of the Housing Opportunities Overlay District (H) is to establish by-right residential uses on sites identiﬁed to accommodate a portion of the housing need for lower income housing in the General Plan Housing Element, pursuant to <cite doc="Cal. Gov't Code">Government Code</cite> Sections 65583.2(c) and (i). <cite doc="City of San Mateo, Cal., Code" path="27.94">This chapter</cite> establishes minimum development requirements and procedures for reviewing and approval of the by-right residential development uses.</text>
       </section>
       <section>
-        <codify:insert path="27.94" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.94.010" codified:citation="Section 27.94.010" codified:display="New"/>
+        <codify:insert path="27.94" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.94.010"/>
         <num>27.94.010</num>
         <heading>By-Right Residential Use Eligibility</heading>
         <text>The following housing development projects are eligible for by-right approval. Housing development projects that are ineligible for by-right approval shall be subject to the requirements for residential development in the underlying zoning district.</text>
@@ -90,7 +90,7 @@
         </para>
       </section>
       <section>
-        <codify:insert path="27.94" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.94.020" codified:citation="Section 27.94.020" codified:display="New"/>
+        <codify:insert path="27.94" codified:doc="City of San Mateo, Cal., Code" codified:path="|27.94.020"/>
         <num>27.94.020</num>
         <heading>By-Right Residential Use Requirements</heading>
         <para>
