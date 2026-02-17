@@ -341,6 +341,40 @@
   </container>
   <container>
     <prefix>Chapter</prefix>
+    <num>2.22</num>
+    <heading> Civic Arts Commission</heading>
+    <section>
+      <num>2.22.010</num>
+      <heading>Organization.</heading>
+      <text>The Civic Arts Commission of the City shall consist of no more than five members appointed by the Council, and two non-voting youth advisory members who must be at least 13 years old, and no more than 17 years old at the time of appointment ("Youth Commissioners"). Youth Commissioners must present written documentation of parental or guardian consent to be considered for appointment. Youth commissioners shall serve only in an advisory capacity and shall not count towards a quorum of the commission. In making appointments, the Council shall prioritize appointing applicants who display an interest in and appreciation of art, architecture, local business, or the broader art community.</text>
+      <text>Each member of the Civic Arts Commission shall serve at the pleasure of the Council and for a term of four years or until the appointment of a successor, except that the initial terms of the first members appointed shall be determined by lot at their first meeting so that each year at least one term will expire. Thereafter, all appointments shall be for a term of four years. No member shall be eligible for reappointment after serving two consecutive four-year terms. Each Youth Commissioner shall serve at the pleasure of the Council for a term of one year and until the appointment and qualification of a successor. Youth Commissioners may be reappointed for one additional one-year term.</text>
+      <annotations>
+        <annotation app="2018-07-04" doc="City of San Mateo, Cal., Ord. No. 2018-4" eff="2018-07-04" path="§1" type="History" display="false"/>
+        <annotation app="2025-12-03" doc="City of San Mateo, Cal., Ord. No. 2025-10" eff="2025-12-03" path="§1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>2.22.020</num>
+      <heading>Meetings.</heading>
+      <text>The Civic Arts Commission shall elect a chair and vice-chair to serve at the pleasure of the Commission. A regular time and place of meetings shall be established and adhered to in the manner of holding public meetings for legislative bodies in the state. All meetings shall be open to the public unless otherwise provided by law.</text>
+      <annotations>
+        <annotation app="2018-07-04" doc="City of San Mateo, Cal., Ord. No. 2018-4" eff="2018-07-04" path="§1" type="History" display="false"/>
+        <annotation app="2025-12-03" doc="City of San Mateo, Cal., Ord. No. 2025-10" eff="2025-12-03" path="§1" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>2.22.030</num>
+      <heading>Powers – Duties.</heading>
+      <text>It shall be the duty of the Civic Arts Commission, as an advisory body to the City Council, to advise on policies and programs related to public art as assigned and to carry out the duties as established in <cite path="23.60.100">Chapter 23.60</cite> (Art in Public Places).</text>
+      <annotations>
+        <annotation app="2018-07-04" doc="City of San Mateo, Cal., Ord. No. 2018-4" eff="2018-07-04" path="§1" type="History" display="false"/>
+        <annotation app="2025-12-03" doc="City of San Mateo, Cal., Ord. No. 2025-10" eff="2025-12-03" path="§1" type="History"/>
+      </annotations>
+    </section>
+    <annotation app="2025-12-03" doc="City of San Mateo, Cal., Ord. No. 2025-10" eff="2025-12-03" path="§1" type="History"/>
+  </container>
+  <container>
+    <prefix>Chapter</prefix>
     <num>2.24</num>
     <heading>PLANNING COMMISSION</heading>
     <section>
