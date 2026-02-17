@@ -562,11 +562,12 @@
     <section>
       <num>27.04.057</num>
       <heading>BEDROOM.</heading>
-      <text>"Bedroom" means an enclosed habitable space in a structure which: (1) is designed primarily for sleeping; (2) meets the room dimension requirements of the most recent edition of the Uniform Building Code, as shall have been adopted by the City Council; and (3) contains one or more windows. A room having the potential of being a bedroom shall be considered a bedroom for density and parking calculation purposes.</text>
+      <text>"Bedroom" means an enclosed habitable space in a structure which: (1) is designed primarily for sleeping; (2) meets the room dimension requirements of the most recent edition of the Building Code, as shall have been adopted by the City Council; and (3) contains one or more windows. A room having the potential of being a bedroom shall be considered a bedroom for density and parking calculation purposes.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1979-23" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1982-22" path="§3" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1992-16" path="§2" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§16" type="History"/>
       </annotations>
     </section>
     <section>
@@ -837,13 +838,15 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1985-17" path="§7" type="History"/>
       </annotations>
     </section>
-    <section>
+    <section placeholder="Repealed">
       <num>27.04.140</num>
       <heading>CURB LEVEL.</heading>
-      <text>"Curb level" means the officially established grade of the curb fronting the midpoint of a lot. Where a building faces on more than one street, a "curb level" shall be determined for each frontage. Where no curb elevation has been established, the City Engineer shall establish such curb level or its equivalent for the purpose of <cite path="27">this title</cite>.</text>
+      <reason>Repealed</reason>
+      <text>Repealed.</text>
       <annotations>
         <annotation type="History">prior code § 142.01(48)</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1978-18" path="§17" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§1" type="History"/>
       </annotations>
     </section>
     <section>
@@ -857,11 +860,12 @@
     <section>
       <num>27.04.144</num>
       <heading>DEN.</heading>
-      <text>"Den" means a habitable space in a structure meeting the room dimension requirements of the most recent edition of the Uniform Building Code, as shall have been adopted by the City Council, with one completely open side that is directly accessible to a kitchen, living room or dining room. Loft areas will be considered as dens if the above criteria are met, except that half-walls will not count as required wall openings. The term den includes, but is not limited to, types of rooms such as libraries, studies, sitting rooms, and sewing rooms.</text>
+      <text>"Den" means a habitable space in a structure meeting the room dimension requirements of the most recent edition of the Building Code, as shall have been adopted by the City Council, with one completely open side that is directly accessible to a kitchen, living room or dining room. Loft areas will be considered as dens if the above criteria are met, except that half-walls will not count as required wall openings. The term den includes, but is not limited to, types of rooms such as libraries, studies, sitting rooms, and sewing rooms.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1979-23" path="§2" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1981-27" path="§9" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1982-22" path="§6" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§16" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1099,7 +1103,7 @@
     </section>
     <section>
       <num>27.04.200</num>
-      <heading>FLOOR AREA.</heading>
+      <heading>Floor Area.</heading>
       <para>
         <num>(a)</num>
         <text>Definitions.</text>
@@ -1117,7 +1121,7 @@
         <text>Measurement, other than single-family dwellings in R1 zoning districts.</text>
         <para>
           <num>(1)</num>
-          <text>Floor area is measured from the exterior façade of the building's wall planes, from the centerline of party walls, or from a line three feet from the edge of an eave, whichever produces the largest floor area. Stories exceeding 15 feet in height shall be counted as additional floor area, with the exception that ground floor retail may be up to 18 feet in height measured from first finish floor to second finish floor before being counted as additional floor area. Floor area also includes all accessory structures on the site and basements that meet the definition in subsection (c)(5).</text>
+          <text>Floor area is measured from the exterior façade of the building's wall planes, from the centerline of party walls, or from a line three feet from the edge of an eave, whichever produces the largest floor area. Stories exceeding fifteen (15) feet in height shall be counted as additional floor area, with the exception that ground floor retail may be up to eighteen (18) feet in height measured from first finish floor to second finish floor before being counted as additional floor area. Floor area also includes all accessory structures on the site and basements that meet the definition in subsection (c)(6).</text>
         </para>
         <para>
           <num>(2)</num>
@@ -1157,18 +1161,38 @@
         <text>Measurement, for single-family dwellings in R1 zoning districts, shall include the following:</text>
         <para>
           <num>(1)</num>
-          <text>All area enclosed within the walls of the principal structure (measured from the outside perimeter of said walls).</text>
+          <text>A covered structure or portion of a building where it has a horizontal or sloped covering which consists of 50% or more solid material.</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>The area of all accessory structures, including garages, carports, and storage sheds, and covered patios, porches (excepting covered porches of up to 100 square feet), and other similar structures that are enclosed on three or more sides.</text>
+          <text>All area enclosed within the walls of the principal structure (as measured from the outside perimeter of walls), and the area (or footprint) of any attached carports, covered balconies or porches (as measured from the outside perimeter of its support structures).</text>
+          <para>
+            <num>(A)</num>
+            <text>Exception: To encourage street frontage activity, the first 100 square feet of a covered front porch shall not be included as floor area.</text>
+          </para>
         </para>
         <para>
           <num>(3)</num>
-          <text>Any interior space where the vertical distance between the upper surface of the floor and the floor above is 15 feet or more shall be counted as twice the floor area. If there is no floor above the space, then the distance shall be measured to the underside of the roof structure.</text>
+          <text>The area of all detached accessory structures, regardless of the number of open sides, including:</text>
+          <para>
+            <num>(A)</num>
+            <text>Detached garages and carports;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Storage sheds and other similar structures; and</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Covered patios or similar structures.</text>
+          </para>
         </para>
         <para>
           <num>(4)</num>
+          <text>Any interior space where the vertical distance between the upper surface of the floor and the floor above is fifteen (15) feet or more shall be counted as twice the floor area. If there is no floor above the space, then the distance shall be measured to the underside of the roof structure.</text>
+        </para>
+        <para>
+          <num>(5)</num>
           <text>Attic space is considered floor area when area "A" is at least 50% of areas "A" and "B" combined in the following plan-view diagram:</text>
           <text>
             <table>
@@ -1176,16 +1200,16 @@
                 <tr>
                   <td/>
                   <td>
-                    <p>Area "B"</p>
-                    <p>(ceiling height between 5′ and 7′ 6″)</p>
+                    <p class="text-indent-2">Area "B"</p>
+                    <p class="text-indent-2">(ceiling height between 5′ and 7′ 6″)</p>
                   </td>
                   <td>
-                    <p>Area "A"</p>
-                    <p>(ceiling height 7′ 6″ or greater)</p>
+                    <p class="text-indent-2">Area "A"</p>
+                    <p class="text-indent-2">(ceiling height 7′ 6″ or greater)</p>
                   </td>
                   <td>
-                    <p>Area "B"</p>
-                    <p>(ceiling height between 5′ and 7′ 6″)</p>
+                    <p class="text-indent-2">Area "B"</p>
+                    <p class="text-indent-2">(ceiling height between 5′ and 7′ 6″)</p>
                   </td>
                   <td/>
                 </tr>
@@ -1194,15 +1218,23 @@
           </text>
         </para>
         <para>
-          <num>(5)</num>
-          <text>A basement is considered floor area and a story when more than one-half the area of the outermost basement walls are above finished or pre-existing grade (whichever is lower) and the surface of the finished floor level above is either:</text>
+          <num>(6)</num>
+          <text>A basement is considered floor area when:</text>
           <para>
             <num>(A)</num>
-            <text>More than four feet above finished or pre-existing grade (whichever is lower) for more than 50% of the total perimeter, or</text>
+            <text>It is habitable space as defined in the current California Building Code, and</text>
           </para>
           <para>
             <num>(B)</num>
-            <text>More than 12 feet above finished or pre-existing grade (whichever is lower) at any point.</text>
+            <text>More than one-half the area of the outermost basement walls is above finished or pre-existing grade (whichever is lower), and the surface of the finished floor level above is either:</text>
+            <para>
+              <num>(i)</num>
+              <text>More than four (4) above finished or pre-existing grade (whichever is lower) for more than 50% of the total perimeter, and</text>
+            </para>
+            <para>
+              <num>(ii)</num>
+              <text>More than twelve (12) feet above finished or pre-existing grade (whichever is lower) at any point.</text>
+            </para>
           </para>
         </para>
       </para>
@@ -1261,6 +1293,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 2001-36" path="§2" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2002-10" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-7" path="§5" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§2" type="History"/>
       </annotations>
     </section>
     <section>
@@ -1316,7 +1349,7 @@
       <text>"Grade" is the elevation of the finished surface of the ground not resulting from a decorative mound or beam at any point along an exterior wall of a building.</text>
       <para>
         <num>(a)</num>
-        <text>"Established grade" means the top of curb grade at the lot lines established by the City Engineer, or otherwise established by law.</text>
+        <text>"Established grade" means the top of curb grade at the lot lines established by the Director of Public Works, or otherwise established by law.</text>
       </para>
       <annotations>
         <annotation type="History">prior code § 142.01(77, 78)</annotation>
@@ -1324,6 +1357,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1974-21" type="History">Ord. 1974-21 §§ 2, 3</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1978-18" path="§27" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1981-27" path="§13" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" type="History"/>
       </annotations>
     </section>
     <section>
@@ -4270,12 +4304,13 @@
         </para>
         <para>
           <num>(d)</num>
-          <text>"Permanent foundation" shall mean assembly of materials constructed below, or partially below grade, not intended to be removed from its installation site, which is designed to support a manufactured home structure and engineered to resist the imposition of external natural forces, as defined by the <cite doc="Cal. Health &amp; Safety Code">Health and Safety Code</cite> or the Uniform Building Code, whichever is more restrictive.</text>
+          <text>"Permanent foundation" shall mean assembly of materials constructed below, or partially below grade, not intended to be removed from its installation site, which is designed to support a manufactured home structure and engineered to resist the imposition of external natural forces, as defined by the <cite doc="Cal. Health &amp; Safety Code">Health and Safety Code</cite> or the Building Code, whichever is more restrictive.</text>
         </para>
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1981-22" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1985-17" path="§20" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§16" type="History"/>
       </annotations>
     </section>
     <section>
@@ -4363,7 +4398,7 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>Exterior materials shall generally consist of those permitted by the Uniform Building Code. Shiny, metallic surfaces are unacceptable.</text>
+          <text>Exterior materials shall generally consist of those permitted by the Building Code. Shiny, metallic surfaces are unacceptable.</text>
         </para>
       </para>
       <para>
@@ -4377,6 +4412,7 @@
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1981-22" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1985-17" path="§20" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§16" type="History"/>
       </annotations>
     </section>
     <section>
@@ -9620,7 +9656,7 @@
       <text>Permitted uses and special uses in the E1 districts are subject to the following conditions:</text>
       <para>
         <num>(a)</num>
-        <text>All public utility service connections to structures and facilities shall be located underground in accordance with specifications to be approved by the City engineer and in accordance with the rules and regulations applicable thereto as approved by the Public Utilities Commission of the State;</text>
+        <text>All public utility service connections to structures and facilities shall be located underground in accordance with specifications to be approved by the Director of Public Works and in accordance with the rules and regulations applicable thereto as approved by the Public Utilities Commission of the State;</text>
       </para>
       <para>
         <num>(b)</num>
@@ -9631,6 +9667,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1969-34" path="§2" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1991-12" path="§68" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1991-18" path="§24" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" type="History"/>
       </annotations>
     </section>
     <section>
@@ -11997,7 +12034,7 @@
       </para>
       <para>
         <num>(2)</num>
-        <text>Residential Uses. Residential driveways shall not exceed 20 lineal feet in width. If additional driveway width is desired in order to serve three (3) or more garage or parking stalls, the applicant shall submit appropriate plans for the approval of the Zoning Administrator and City Engineer. For more than one (1) curb cut on a parcel on any street frontage, at least 20 feet measured at top of curb shall be provided between each curb cut.</text>
+        <text>Residential Uses. Residential driveways shall not exceed 20 lineal feet in width. If additional driveway width is desired in order to serve three (3) or more garage or parking stalls, the applicant shall submit appropriate plans for the approval of the Zoning Administrator and Director of Public Works. For more than one (1) curb cut on a parcel on any street frontage, at least 20 feet measured at top of curb shall be provided between each curb cut.</text>
       </para>
       <para>
         <num>(3)</num>
@@ -12009,6 +12046,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1978-18" path="§92" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1979-7" path="§9" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1986-13" path="§1" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" type="History"/>
       </annotations>
     </section>
     <section>
@@ -12483,7 +12521,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>One-way aisles shall alternate direction, or otherwise provide logical vehicular circulation subject to approval of the City Engineer.</text>
+        <text>One-way aisles shall alternate direction, or otherwise provide logical vehicular circulation subject to approval of the Director of Public Works.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -12500,6 +12538,7 @@
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1986-13" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-7" path="§34" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" type="History"/>
       </annotations>
     </section>
     <section>
@@ -12520,7 +12559,7 @@
       </para>
       <para>
         <num>(d)</num>
-        <text>Ramps in multi-level garages shall be designed with gradual slopes to ensure driver visibility of the pavement at all times, and shall be subject to approval of the City Engineer.</text>
+        <text>Ramps in multi-level garages shall be designed with gradual slopes to ensure driver visibility of the pavement at all times, and shall be subject to approval of the Director of Public Works.</text>
       </para>
       <para>
         <num>(e)</num>
@@ -12555,12 +12594,13 @@
       </para>
       <para>
         <num>(g)</num>
-        <text>Ramps in multi-level garages shall be designed with gradual slopes to insure driver visibility of the pavement at all times, and shall be subject to approval of the City engineer.</text>
+        <text>Ramps in multi-level garages shall be designed with gradual slopes to insure driver visibility of the pavement at all times, and shall be subject to approval of the Director of Public Works.</text>
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1982-10" path="§2" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1986-13" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-7" path="§35" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" type="History"/>
       </annotations>
     </section>
     <section>
@@ -13060,7 +13100,7 @@
       </para>
       <para>
         <num>(f)</num>
-        <text>Each room meeting the standard of The Uniform Building Code as a bedroom, shall be counted as a bedroom in determining parking requirements.</text>
+        <text>Each room meeting the standard of The Building Code as a bedroom, shall be counted as a bedroom in determining parking requirements.</text>
       </para>
       <annotations>
         <annotation type="History">prior code § 151.05(A)</annotation>
@@ -13068,6 +13108,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1978-18" path="§98" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1981-27" path="§67" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1986-13" path="§1" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§16" type="History"/>
       </annotations>
     </section>
     <section>
@@ -13679,7 +13720,7 @@
       </para>
       <para>
         <num>(b)</num>
-        <text>Surfacing. Vehicle storage areas shall be improved with a compacted base of not less than four (4) inches thick and surfaced with a plant mix asphalt, concrete surface, or other surfacing acceptable to the City Engineer.</text>
+        <text>Surfacing. Vehicle storage areas shall be improved with a compacted base of not less than four (4) inches thick and surfaced with a plant mix asphalt, concrete surface, or other surfacing acceptable to the Director of Public Works.</text>
       </para>
       <para>
         <num>(c)</num>
@@ -13717,6 +13758,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1979-7" path="§17" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1986-13" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1995-8" path="§11" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" type="History"/>
       </annotations>
     </section>
     <section>
@@ -13797,10 +13839,11 @@
     <section>
       <num>27.64.340</num>
       <heading>SURFACING.</heading>
-      <text>All open off-street loading berths shall be improved with a compacted base, not less than five (5) inches thick, surfaces with not less than three (3) inches of plant mix asphalt, concrete or some comparable material approved by the City Engineer.</text>
+      <text>All open off-street loading berths shall be improved with a compacted base, not less than five (5) inches thick, surfaces with not less than three (3) inches of plant mix asphalt, concrete or some comparable material approved by the Director of Public Works.</text>
       <annotations>
         <annotation type="History">prior code § 151.06(D)</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1986-13" path="§1" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§17" type="History"/>
       </annotations>
     </section>
     <section>
@@ -13841,18 +13884,18 @@
     </section>
     <section>
       <num>27.64.390</num>
-      <heading>SCHEDULE OF LOADING REQUIREMENTS.</heading>
-      <text>All planning applications shall include a description of the means by which loading activities for the intended use are to be accommodated. For the uses listed in the following table, off-street loading berths shall be provided on the basis of number of residential units or gross floor area of building or portions thereof devoted to such uses in the amounts shown herein. Off-street loading berths as prescribed below shall be required where access to such berths is available from a public alley, driveway easement, or from an adjacent off-street parking area. Where only street access is available, the requirements for loading berths may be modified by one of the following means:</text>
+      <heading>Schedule of Loading Requirements.</heading>
+      <text>All planning applications shall include a description of the means by which loading activities for the intended use are to be accommodated. For the uses listed in the following table, off-street loading berths shall be provided on the basis of number of residential units or gross floor area of building or portions thereof devoted to such uses in the amounts shown herein. Off-street loading berths as prescribed below shall be accessible from a public alley, driveway easement, or from an adjacent off-street parking area. The requirements for off-street loading berths may be modified by one of the following means:</text>
       <para>
         <num>(a)</num>
-        <text>Approval of a site plan and architectural review by the Development Review Board, based on the finding that each of the following conditions pertain:</text>
+        <text>Approval of a site plan and architectural review (SPAR) by the Zoning Administrator, based on the following findings:</text>
         <para>
           <num>(1)</num>
-          <text>Adequate on-street parking is available along the parcel frontage to accommodate a loading vehicle;</text>
+          <text>Adequate on-street parking is available along a parcel frontage to accommodate a loading berth;</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>On-street parking intended for temporary loading purposes is located at least 50 feet from any intersections, and provides convenient access to building entrances; and</text>
+          <text>The on-street parking intended for temporary loading purposes is located at least 50 feet from any intersections, and provides convenient access to building entrances; and</text>
         </para>
         <para>
           <num>(3)</num>
@@ -13864,10 +13907,11 @@
         <text>Approval of a variance application in accordance with <cite path="27.78">Chapter 27.78</cite>.</text>
         <text>
           <table>
+            <caption>LOADING BERTH REQUIREMENTS (ON- AND OFF-SITE)</caption>
             <thead>
               <tr>
                 <th>USE</th>
-                <th>GROSS FLOOR AREA IN SQUARE FEET</th>
+                <th>GROSS FLOOR AREA IN SQUARE FEET <u>OR NUMBER OF RESIDENTIAL UNITS</u></th>
                 <th>NO.</th>
                 <th>OF BERTHS</th>
               </tr>
@@ -14025,9 +14069,13 @@
                 <td>10' x 25'</td>
               </tr>
             </tbody>
+            <tfoot>
+              <tr>
+                <td colspan="4">*May be eliminated in mixed-use developments where a minimum of 1 loading berth is required for nonresidential uses</td>
+              </tr>
+            </tfoot>
           </table>
         </text>
-        <text>* May be eliminated in mixed-use developments where a minimum of 1 loading berth is required for nonresidential uses.</text>
       </para>
       <annotations>
         <annotation type="History">prior code § 151.07</annotation>
@@ -14035,6 +14083,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1981-27" path="§50" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1986-13" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1991-12" path="§77" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§3" type="History"/>
       </annotations>
     </section>
   </container>
@@ -14699,12 +14748,16 @@
     </section>
     <section>
       <num>27.71.020</num>
-      <heading>SCOPE.</heading>
-      <text><cite path="27.71">This chapter</cite> shall apply as a minimum for all projects requiring approval of a planning application pursuant to <cite path="27.08.010">Section 27.08.010</cite>, except for single-family dwelling design review applications. Landscaping not subject to <cite path="27.71">this chapter</cite> shall be governed by the provisions of <cite path="10.52" proof="needed">Chapter 10.52</cite>, Heritage Trees. The Zoning Administrator may determine that minor additions or changes to existing property are not reasonably related to the purpose of <cite path="27.71">this chapter</cite> and may be exempt from the requirements of <cite path="27.71">this chapter</cite>.</text>
+      <heading>Scope.</heading>
+      <para>
+        <num>(a)</num>
+        <text><cite path="27.71">This chapter</cite> shall apply as a minimum for all projects requiring approval of a planning application pursuant to <cite path="27.08.010">Section 27.08.010</cite>, except for single-family dwelling design review applications. Landscaping not subject to <cite path="27.71">this chapter</cite> shall be governed by the provisions of <cite path="13.40">Chapter 13.40</cite>. The Zoning Administrator may determine that minor additions or changes to existing property are not reasonably related to the purpose of <cite path="27.71">this chapter</cite> and may be exempt from the requirements of <cite path="27.71">this chapter</cite>.</text>
+      </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1989-34" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-7" path="§38" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2015-3" path="§2" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§4" type="History"/>
       </annotations>
     </section>
     <section>
@@ -14742,58 +14795,58 @@
     </section>
     <section>
       <num>27.71.040</num>
-      <heading>DEFINITIONS.</heading>
+      <heading>Definitions.</heading>
       <text>The following definitions shall apply to <cite path="27.71">this chapter</cite>:</text>
       <para>
         <num>(a)</num>
-        <text>"Groundcover" means low growing live perennial vegetation, other than turf, of a species which is sold as a groundcover or shrub by licensed nurserymen.</text>
+        <text>"Existing Trees" means all existing trees over six inches in trunk diameter (measured at 54 inches from natural grade) on the subject property and any Protected Trees on the subject property or any property within 30 feet of the proposed Construction Activity, as outlined in <cite path="13.40">Chapter 13.40</cite>.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>A "heritage tree" is any one of the following:</text>
-        <para>
-          <num>(1)</num>
-          <text>Any bay (Umbellularia californica), buckeye (Aesculus spp.), oak (Quercus spp.), cedar (Cedrus ssp.) or redwood (Sequoia sempervirens) tree that has a diameter of 10 inches or more measured at 48 inches above natural grade;</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>A tree or stand of trees designated by resolution of the City Council to be of special historical value or of significant community benefit;</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>A stand of trees, the nature of which makes each dependent on the others for survival; and</text>
-        </para>
-        <para>
-          <num>(4)</num>
-          <text>Any other tree with a trunk diameter of 16 inches or more, measured at 48 inches above natural grade.</text>
-        </para>
+        <text>"Groundcover" means low growing live perennial vegetation, other than turf, of a species which is sold as a groundcover or shrub by licensed nurserymen.</text>
       </para>
       <para>
         <num>(c)</num>
-        <text>"Landscape" or "landscaped area" means an area that consists of living plantings.</text>
+        <text>A "heritage tree" is as defined in <cite path="13.40">Chapter 13.40</cite>.</text>
       </para>
       <para>
         <num>(d)</num>
-        <text>"Landscape unit (LU)" means the unit of measurement for trees which indicates the worth of each relative to one another and towards satisfying City requirements.</text>
+        <text>"Landscape" or "landscaped area" means an area that consists of living plantings.</text>
       </para>
       <para>
         <num>(e)</num>
-        <text>"Natural landscaping" means an area consisting of uncultivated native plant growth and other features of natural terrain such as rock outcroppings, streams or other areas covered by water.</text>
+        <text>"Landscape unit (LU)" means the unit of measurement for trees which indicates the worth of each relative to one another and towards satisfying City requirements.</text>
       </para>
       <para>
         <num>(f)</num>
-        <text>"Plantings" means annuals, groundcover, turf grass, shrubs or trees.</text>
+        <text>"Natural landscaping" means an area consisting of uncultivated native plant growth and other features of natural terrain such as rock outcroppings, streams or other areas covered by water.</text>
       </para>
       <para>
         <num>(g)</num>
-        <text>"Shrubs" means live perennial vegetation, greater than an average height of two feet and maintained below 12 feet in height. Vines shall be considered as shrubs.</text>
+        <text>"Plantings" means annuals, groundcover, turf grass, shrubs or trees.</text>
       </para>
       <para>
         <num>(h)</num>
-        <text>"Trees" means a live self-supporting woody plant having at least one well defined stem or trunk and normally attaining a mature height and spread of at least 12 feet, and having a trunk that may, at maturity, be kept clear of leaves and branches at least six feet above grade.</text>
+        <text>"Protected Tree" means a Heritage Tree or Street Tree as defined in <cite path="13.40">Chapter 13.40</cite> or a tree designated as protected as part of an approved Planning Application that is subject to <cite path="27.71">this Chapter</cite>.</text>
       </para>
       <para>
         <num>(i)</num>
+        <text>"Project Arborist" means an ISA Certified Arborist designated to evaluate the potential impacts of Construction Activity on Protected Trees, write specifications for tree preservation, oversee Construction Activity within the Dripline of Protected Trees and other necessary activities as determined by the City Arborist.</text>
+      </para>
+      <para>
+        <num>(j)</num>
+        <text>"Shrubs" means live perennial vegetation, greater than an average height of two (2) feet and maintained below twelve (12) feet in height. Vines shall be considered shrubs.</text>
+      </para>
+      <para>
+        <num>(k)</num>
+        <text>"Street Tree" means any woody perennial plant having a single main axis or stem capable of achieving ten (10) feet or more in height, growing along or within public right of way or planted within public right of way or a designated planting easement.</text>
+      </para>
+      <para>
+        <num>(l)</num>
+        <text>"Trees" means a live self-supporting woody plant having at least one well defined stem or trunk and normally attaining a mature height and spread of at least twelve (12) feet, and having a trunk that may, at maturity, be kept clear of leaves and branches at least six (6) feet above grade.</text>
+      </para>
+      <para>
+        <num>(m)</num>
         <text>"Turfgrass" means live vegetation of a species normally grown as turf by a nursery and which is maintained at a height of three inches or less.</text>
       </para>
       <annotations>
@@ -14801,6 +14854,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1997-24" path="§9" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-7" path="§39" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2015-3" path="§2" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§5" type="History"/>
       </annotations>
     </section>
     <section>
@@ -14831,7 +14885,7 @@
     </section>
     <section>
       <num>27.71.070</num>
-      <heading>SUBMITTALS REQUIRED FOR A PLANNING APPLICATION.</heading>
+      <heading>Submittals Required for a Planning Application.</heading>
       <para>
         <num>(a)</num>
         <text>All landscape plans must be at a reasonable scale to indicate all types of improvements. All plans must contain sufficient information to ensure conformance with the requirements of <cite path="27.71">this chapter</cite> and must include, but are not limited to, the following information:</text>
@@ -14857,7 +14911,7 @@
         </para>
         <para>
           <num>(6)</num>
-          <text>All existing plant material to remain and to be removed, a tree evaluation schedule identifying trees as to size, species, the condition of trees to be removed as determined by an arborist and the existing and proposed replacement LU values;</text>
+          <text>All existing plant material to remain and to be removed, a tree evaluation schedule identifying Major Vegetation (as defined in <cite path="23.40">Chapter 23.40</cite>) and all Protected Trees including trunk diameter, species, the condition of trees to be removed as determined by an arborist and the existing and proposed replacement Landscape Unit (LU) values;</text>
         </para>
         <para>
           <num>(7)</num>
@@ -14881,7 +14935,7 @@
         </para>
         <para>
           <num>(12)</num>
-          <text>Species, sizes and location of all proposed plant material;</text>
+          <text>Species, sizes and location of all proposed plant material including the accurate driplines of all Protected Trees;</text>
         </para>
         <para>
           <num>(13)</num>
@@ -14889,7 +14943,7 @@
         </para>
         <para>
           <num>(14)</num>
-          <text>A tree protection plan consistent with <cite path="13.52.025|(c)">Section 13.52.025(c)</cite> of the municipal code.</text>
+          <text>A tree protection plan consistent with <cite path="13.40">Chapter 13.40</cite> and the Administrative Guidelines.</text>
         </para>
       </para>
       <para>
@@ -14900,11 +14954,12 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1989-34" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-7" path="§40" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2015-3" path="§2" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§6" type="History"/>
       </annotations>
     </section>
     <section>
       <num>27.71.080</num>
-      <heading>SUBMITTALS REQUIRED FOR A BUILDING PERMIT APPLICATION.</heading>
+      <heading>Submittals Required for a Building Permit Application.</heading>
       <para>
         <num>(a)</num>
         <text>All of the required submittals for a planning application;</text>
@@ -14919,7 +14974,7 @@
       </para>
       <para>
         <num>(d)</num>
-        <text>All required tree preservation fees as required in <cite path="27.71.150">Section 27.71.150</cite>;</text>
+        <text>All tree information required in <cite path="27.71.150">Section 27.71.150</cite> and <cite path="13.40">Chapter 13.40</cite>;</text>
       </para>
       <para>
         <num>(e)</num>
@@ -14936,6 +14991,7 @@
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1989-34" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2015-3" path="§2" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§7" type="History"/>
       </annotations>
     </section>
     <section>
@@ -14969,7 +15025,7 @@
     </section>
     <section>
       <num>27.71.110</num>
-      <heading>PLANT COVERAGE AND TREE SIZES.</heading>
+      <heading>Plant Coverage and Tree Sizes.</heading>
       <para>
         <num>(a)</num>
         <text>Allowed Bare Ground. Areas of bare ground or ground covered only by bark or rocks shall be allowed on-site only where required as part of an approved facility, such as a baseball diamond, vegetable garden, flowerbed, or similar use.</text>
@@ -14980,14 +15036,14 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>Minimum Tree Size. All required trees shall be a minimum size of 15-gallon container at time of installation, except for heritage tree replacements, which require a minimum size of 24-inch box.</text>
+        <text>Minimum Tree Size. All required trees shall be a minimum size of 15-gallon container at time of installation, except for heritage tree replacements, which shall be replaced according to <cite path="13.40">Chapter 13.40</cite> and the Administrative Guidelines.</text>
       </para>
       <para>
         <num>(d)</num>
         <text>Plant Coverage.</text>
         <para>
           <num>(1)</num>
-          <text>Trees shall be planted at a minimum ratio of one per 400 square feet of required landscaped area. The ratio may include existing trees and required street and parking area trees. In some instances a greater ratio will be necessary to achieve desired landscaping objectives. Required tree ratio excluded for public parks, golf courses, cemeteries and school recreation areas.</text>
+          <text>Trees shall be planted at a minimum ratio of one per 400 square feet of required landscaped area. The ratio may include existing trees and required parking area trees. Public parks, golf courses, cemeteries, school recreation areas and public facilities need not comply with this ratio.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -15003,22 +15059,44 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 2008-8" path="§16" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-7" path="§41" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2015-3" path="§2" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§8" type="History"/>
       </annotations>
     </section>
     <section>
       <num>27.71.120</num>
-      <heading>STREET TREES.</heading>
+      <heading>Street Trees.</heading>
       <para>
         <num>(a)</num>
-        <text>Tree Planting. Fifteen-gallon or larger street trees shall be planted along public streets in accordance with the City Street Tree Master Plan. Trees shall be planted at a spacing not to exceed 30 feet except to allow for utilities, street furnishings and driveways. Trees shall be planted closer than 30 feet if so recommended by the City Arborist.</text>
+        <text>Tree Planting.</text>
+        <para>
+          <num>(1)</num>
+          <text>24-inch box size or larger street trees shall be planted along public streets in accordance with the City Street Tree Master Plan. The City Arborist shall have the authority to recommend planting of fifteen (15) gallon street trees when:</text>
+          <para>
+            <num>(A)</num>
+            <text>Upon written request by the applicant; and</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>The fifteen (15) gallon size trees are the only ones available in stock, or</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>The quality of the fifteen (15) gallon size trees are superior to that available in 24-inch box size.</text>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Trees shall be planted at a spacing not to exceed thirty (30) feet except to allow for utilities, street furnishings, driveways, or other features necessary to ensure public safety, as approved by the City Arborist.</text>
+        </para>
       </para>
       <para>
         <num>(b)</num>
-        <text>Tree Maintenance Easement. Where a planning application requires a parcel or tentative map, a street tree maintenance easement shall be required if the street trees are to be located on private property and no such easement exists. However, it is recommended that even when a parcel or tentative map is not required or included, an easement be provided to allow the City to maintain the trees (other than irrigating) on private property.</text>
+        <text>Access Easement. Where a planning application requires a parcel or tentative map, an access easement shall be required if the street trees are to be located on private property and no such easement exists. However, it is recommended that even when a parcel or tentative map is not required or included, an easement be provided to the City for site access purposes in the event of an emergency or a hazardous situation.</text>
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1989-34" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2015-3" path="§2" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§9" type="History"/>
       </annotations>
     </section>
     <section>
@@ -15086,21 +15164,21 @@
     </section>
     <section>
       <num>27.71.150</num>
-      <heading>PRESERVATION OF EXISTING TREES.</heading>
+      <heading>Preservation of Existing Trees.</heading>
       <para>
         <num>(a)</num>
-        <text>Evaluation of Existing Trees. Trees over six inches in caliper shall be evaluated on the basis of species, size, condition, location and classification as a heritage tree.</text>
+        <text>Evaluation of Existing Trees. Trees over six (6) inches in trunk diameter, measured at 54 inches from natural grade and Protected Trees as defined in <cite path="13.40">Chapter 13.40</cite> shall be evaluated on the basis of species, size, condition, location and classification as a Protected Tree.</text>
       </para>
       <para>
         <num>(b)</num>
         <text>Required Submittals. To evaluate the existing trees the landscape plan and a tree evaluation schedule shall be submitted with the planning application showing:</text>
         <para>
           <num>(1)</num>
-          <text>The location of all existing trees six inches or greater in caliper, noting which are to be removed and which are located within the allowable building area;</text>
+          <text>The location of all existing trees six (6) inches or greater in trunk diameter (measured at 54 inches from natural grade), noting which are to be removed and which are located within the allowable building area;</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>Caliper size in inches measured 48 inches above grade;</text>
+          <text>Trunk diameter in inches measured 54 inches above natural grade;</text>
         </para>
         <para>
           <num>(3)</num>
@@ -15108,7 +15186,7 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>Condition and location value of trees as determined by an arborist or landscape architect;</text>
+          <text>Condition and location value of trees as determined by an ISA Certified Arborist;</text>
         </para>
         <para>
           <num>(5)</num>
@@ -15136,14 +15214,35 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>Trees designated as heritage trees shall receive a bonus percentage value of 1.25 (125%).</text>
+          <text>Trees designated as heritage trees shall receive a bonus percentage value of 1.25 (125%). The species, condition and location value assume an average tree value to be .70 (.7 x .7 x .7 = .343). All existing trees to be removed shall be given a LU value based upon the following calculation:</text>
+          <text>
+            <table class="layout-table">
+              <tbody>
+                <tr>
+                  <td class="center">species value% x condition value% x location value%</td>
+                  <td/>
+                  <td class="center">Trunk diameter inches x bldg.</td>
+                  <td/>
+                  <td/>
+                </tr>
+                <tr>
+                  <td class="center">___________________________________________</td>
+                  <td class="center" style="width: 2em;">x</td>
+                  <td class="center">________________________</td>
+                  <td class="center" style="width: 2em;">=</td>
+                  <td>LU</td>
+                </tr>
+                <tr>
+                  <td class="center">.35</td>
+                  <td/>
+                  <td class="center">setback% x heritage tree%</td>
+                  <td/>
+                  <td/>
+                </tr>
+              </tbody>
+            </table>
+          </text>
         </para>
-        <aftertext>The species, condition and location value assume an average tree value to be .70 (.7 x .7 x .7 = .343). All existing trees to be removed shall be given a LU value based upon the following calculation:</aftertext>
-        <aftertext class="center">
-          <u>species value% x condition value% x location value%</u>
-        </aftertext>
-        <aftertext class="center">.35</aftertext>
-        <aftertext class="center">x caliper inches x bldg./setback% x heritage tree% = LU</aftertext>
       </para>
       <para>
         <num>(d)</num>
@@ -15176,15 +15275,15 @@
             </tbody>
           </table>
         </text>
+        <text>The LU value for replacement Street Trees shall be calculated separately from other replacement trees.</text>
       </para>
-      <aftertext>Replacement trees shall be in addition to and not substitute requirements for street trees, parking lot trees or other required trees.</aftertext>
       <para>
         <num>(e)</num>
-        <text>Preservation of Heritage Trees. The site design shall make every reasonable effort to preserve heritage trees, consistent with <cite path="13.52.025">Section 13.52.025</cite> of the municipal code. Conditions shall also be imposed to protect heritage trees during construction. Heritage trees shall be removed only when it is demonstrated that preservation of these trees would result in a threat to health, safety, and welfare due to a hazardous tree condition, impacts on soil erosion and stability, or an unreasonable effect upon the economic enjoyment of the property, consistent with <cite path="13.52.040">Section 13.52.040</cite> of the municipal code.</text>
+        <text>Preservation of Heritage Trees. The site design shall make every reasonable effort to preserve Heritage Trees, consistent with <cite path="13.40">Chapter 13.40</cite>. Conditions shall also be imposed to protect Heritage Trees during construction. Heritage Trees shall be removed only when the City Arborist determines that their preservation would result in a threat to health, safety, and welfare due to a hazardous tree condition, impacts on soil erosion and stability, or an unreasonable effect upon the economic enjoyment of the property, consistent with <cite path="13.40">Chapter 13.40</cite>.</text>
       </para>
       <para>
         <num>(f)</num>
-        <text>Protection of Existing Trees. The site design shall make reasonable effort to protect existing trees. The design shall be evaluated as to how it protects existing trees or the reasons for removal of existing trees. Tree protection measures shall be provided for trees to remain on-site, which shall be consistent with <cite path="13.52.025">Section 13.52.025</cite> of the municipal code and imposed as a condition of approvals.</text>
+        <text>Protection of Existing Trees. The site design shall make reasonable effort to protect existing trees. The design shall be evaluated as to how it protects existing trees or the reasons for removal of existing trees. Tree protection measures shall be provided for trees to remain on-site, which shall be consistent with <cite path="13.40">Chapter 13.40</cite> and imposed as a condition of approval<s>s</s>.</text>
       </para>
       <para>
         <num>(g)</num>
@@ -15194,6 +15293,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1989-34" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-7" path="§43" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2015-3" path="§2" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§11" type="History"/>
       </annotations>
     </section>
   </container>
@@ -16318,7 +16418,7 @@
     </section>
     <section>
       <num>27.78.020</num>
-      <heading>CONDITIONS FOR GRANTING.</heading>
+      <heading>Conditions for Granting.</heading>
       <para>
         <num>(a)</num>
         <text>In order to make its determination that there is hardship, the approval body designated in <cite path="27">this Title</cite> shall determine if each of the following conditions pertain:</text>
@@ -16348,7 +16448,7 @@
         </para>
         <para>
           <num>(2)</num>
-          <text>The application must be based on constraints imposed by physical features of the site (such as slopes, major vegetation to be preserved or the like) or existing structural improvements. No variance shall be granted for stall dimensions due to mere lack of space on the site to meet standard requirements for the project, nor for the sole purposes of design simplicity, reduced cost or other convenience of the applicant.</text>
+          <text>The application must be based on constraints imposed by physical features of the site (such as slopes, Major Vegetation to be preserved as defined in <cite path="23.40">Chapter 23.40</cite>, or Protected Trees as defined in <cite path="13.40">Chapter 13.40</cite>), or existing structural improvements. No variance shall be granted for stall dimensions due to mere lack of space on the site to meet standard requirements for the project, nor for the sole purposes of design simplicity, reduced cost or other convenience of the applicant.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -16375,16 +16475,13 @@
           </para>
         </para>
       </para>
-      <para>
-        <num>(c)</num>
-        <text>A variance shall not be granted which authorizes a use or activity which is not otherwise expressly authorized by the regulations governing the property.</text>
-      </para>
       <annotations>
         <annotation type="History">prior code § 152.05(A)(2)</annotation>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1978-18" path="§107" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1983-15" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1986-13" path="§2" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1991-12" path="§83" type="History"/>
+        <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-26" eff="2022-01-05" path="§12" type="History"/>
       </annotations>
     </section>
     <section>
