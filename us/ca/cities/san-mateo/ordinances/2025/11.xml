@@ -37,7 +37,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="10.100">Chapter 10.100 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="10">Title 10</cite> as follows:</text>
     <include>
       <container>
-        <codify:insert path="10" after="10.90" codified:doc="City of San Mateo, Cal., Code" codified:path="|10.100.010|annos" codified:citation="Section 10.100.010" codified:display="New"/>
+        <codify:insert path="10" after="10.90" codified:doc="City of San Mateo, Cal., Code" codified:path="|10.100.010|annos"/>
         <prefix>Chapter</prefix>
         <num>10.100</num>
         <heading>Residential Tenant Protection Program</heading>
