@@ -2399,31 +2399,39 @@
         <text>Have the authority to review and approve, conditionally approve, or disapprove the following types of projects, provided that the projects do not result in any significant impacts pursuant to the California Environmental Quality Act (CEQA), subject to public notice and to appeal of the final action to the Planning Commission:</text>
         <para>
           <num>(1)</num>
-          <text>Site plan and architectural review for:</text>
+          <text>Site plan and architectural review for projects that incorporate:</text>
           <para>
             <num>(A)</num>
-            <text>Projects less than 6 residential dwelling units or 10,000 square feet of non-residential developments;</text>
+            <text>Up to twenty-five (25) residential dwelling units that meet objective design standards as adopted by resolution of the City Council; or</text>
           </para>
           <para>
             <num>(B)</num>
-            <text>Other minor site improvements including but not limited to parking lots, landscaping, recreation facilities, accessory structures, recycling collection areas, circular driveways in R-1, R-2 districts;</text>
+            <text>Up to five (5) residential dwelling units that do not meet objective design standards as adopted by resolution of the City Council; or</text>
           </para>
           <para>
             <num>(C)</num>
-            <text>Fences over 6 feet and those over 3 feet when located in a front yard setback or within forty-five (45) feet of a street intersection line, authorized by <cite path="27.84">Chapter 27.84</cite>.</text>
+            <text>Up to 10,000 square feet of non- residential development; or</text>
           </para>
           <para>
             <num>(D)</num>
+            <text>Other minor site improvements including but not limited to parking lots, landscaping, recreation facilities, accessory structures, recycling collection areas, circular driveways in R1, R2 districts;</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>Fences over seven (7) feet and those over three (3) feet when located in a front yard and/or street side yard setback or within forty-five (45) feet of a street intersection line, authorized by <cite path="27.84">Chapter 27.84</cite>.</text>
+          </para>
+          <para>
+            <num>(F)</num>
             <text>Freestanding signs.</text>
           </para>
         </para>
         <para>
           <num>(2)</num>
-          <text>Site development permits for removal of major vegetation required for the construction of single-family or duplex dwellings, or grading of 5,000 cubic yards or less under <cite path="23.40">Chapter 23.40</cite>.</text>
+          <text>Site development permits for removal of major vegetation required for the construction of projects that require Zoning Administrator review and approval, or grading of five thousand (5,000) cubic yards or less under <cite path="23.40">Chapter 23.40</cite>.</text>
         </para>
         <para>
           <num>(3)</num>
-          <text>Variances as authorized by <cite path="27.78">Chapter 27.78</cite>, for single-family, accessory dwelling units, or duplex dwellings and for minor site improvements as described in subsection (h)(1) above.</text>
+          <text>Variances as authorized by <cite path="27.78">Chapter 27.78</cite>, for single-family, accessory dwelling units, duplex dwellings, or residential projects with up to six (6) residential dwelling units.</text>
         </para>
         <para>
           <num>(4)</num>
@@ -2442,11 +2450,11 @@
           </para>
           <para>
             <num>(B)</num>
-            <text>Plumbing in detached accessory buildings in the R-1 zone, as authorized under <cite path="27.18">Chapter 27.18</cite>;</text>
+            <text>Plumbing in detached accessory buildings in the R-1 zone, as authorized under <cite path="27.18">Chapter 27.18</cite></text>
           </para>
           <para>
             <num>(C)</num>
-            <text>Substantial removal of existing residences in an R1 zoning district;</text>
+            <text>Substantial removal of existing residences in an R-1 zoning district;</text>
           </para>
           <para>
             <num>(D)</num>
@@ -2512,6 +2520,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 2003-12" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2017-5" path="§2" type="History"/>
         <annotation app="2023-09-20" doc="City of San Mateo, Cal., Ord. No. 2023-3" eff="2023-09-20" path="§4" type="History"/>
+        <annotation app="2024-01-03" doc="City of San Mateo, Cal., Ord. No. 2023-12" eff="2024-01-03" path="§2" type="History"/>
       </annotations>
     </section>
     <section>
@@ -2555,15 +2564,27 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>Site Plan and Architectural Review for projects of six or more dwelling units and over 10,000 square feet of non-residential development.</text>
+          <text>Site Plan and Architectural Review for projects that incorporate:</text>
+          <para>
+            <num>(A)</num>
+            <text>Twenty-six (26) or more residential dwelling units that meet objective design standards as adopted by resolution of the City Council; or</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Six (6) or more residential dwelling units that do not meet objective design standards as adopted by resolution of the City Council; or</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Over 10,000 square feet of non-residential development.</text>
+          </para>
         </para>
         <para>
           <num>(4)</num>
-          <text>Site development permits involving grading of more than five thousand cubic yards under <cite path="23.40.120|(2)" proof="needed">Section 23.40.120(2)</cite>;</text>
+          <text>Site Development Planning Applications involving grading of more than five thousand (5,000) cubic yards under Section 23.40;</text>
         </para>
         <para>
           <num>(5)</num>
-          <text>Tentative Maps and Parcel Maps with exceptions under <cite path="26">Title 26</cite> (subdivision);</text>
+          <text>Tentative Maps and Parcel Maps with exceptions under <cite path="26">Title 26</cite> (Subdivisions);</text>
         </para>
         <para>
           <num>(6)</num>
@@ -2583,7 +2604,7 @@
         </para>
         <para>
           <num>(10)</num>
-          <text>Planned signing districts and freestanding signs over 8 feet in height.</text>
+          <text>Planned signing districts and freestanding signs over eight (8) feet in height.</text>
         </para>
       </para>
       <para>
@@ -2593,10 +2614,6 @@
       <para>
         <num>(c)</num>
         <text>The Commission may, on its own initiative, recommend to the Council that proceedings be initiated for an amendment, supplement, change or repeal of the whole or any portion of <cite path="27">this Title</cite>, provided that public hearings thereon shall be held in the manner prescribed in <cite path="27">this Title</cite>. The Commission shall periodically initiate a comprehensive review of the provisions of <cite path="27">this Title</cite> and make a report of its findings to the Council.</text>
-        <para>
-          <num>(1)</num>
-          <text>Variances as authorized in <cite path="27.78.040">Section 27.78.040</cite>.</text>
-        </para>
       </para>
       <annotations>
         <annotation type="History">prior code §§ 152.02, 152.10(D)</annotation>
@@ -2613,6 +2630,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 1991-18" path="§38" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2001-33" path="§3" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-7" path="§6" type="History"/>
+        <annotation app="2024-01-03" doc="City of San Mateo, Cal., Ord. No. 2023-12" eff="2024-01-03" path="§3" type="History"/>
       </annotations>
     </section>
     <section>
@@ -2894,7 +2912,7 @@
       <heading>SITE PLAN AND ARCHITECTURAL REVIEW (SPAR).</heading>
       <para>
         <num>(a)</num>
-        <text>The following projects, as well as other projects that may be designated in this code, require a site plan and architectural review and no such project shall commence until the approval body has approved a planning application for site plan and architectural review: any building, new parking lot, fence over six feet in height, or an extension, alteration, or addition of or to an existing building or parking lot; historic buildings within the Downtown Specific Plan area as specified in <cite path="27.66">Chapter 27.66</cite>. Single family and accessory buildings that conform to the standards contained in <cite path="27.18">Chapter 27.18</cite>, or minor facade modifications as defined in <cite path="27.04.313">Section 27.04.313</cite>, and which conform with <cite path="27.08.031">Section 27.08.031</cite>, are exempt from this requirement, unless they are specifically designated by this section as requiring review. In making its review, the Zoning Administrator, Development Review Board, and Planning Commission shall be guided by the standards adopted by the Planning Commission and City Council. The application shall be approved if the Zoning Administrator or Commission finds all of the following to exist:</text>
+        <text>The following projects, as well as other projects that may be designated in this code, require a site plan and architectural review and no such project shall commence until the approval body has approved a planning application for site plan and architectural review: any building, new parking lot, fence over seven (7) feet in height, or an extension, alteration, or addition of or to an existing building or parking lot; historic buildings within the Downtown Specific Plan area as specified in <cite path="27.66">Chapter 27.66</cite>. Single family and accessory buildings that conform to the standards contained in <cite path="27.18">Chapter 27.18</cite>, or minor facade modifications as defined in <cite path="27.04.313">Section 27.04.313</cite>, and which conform with <cite path="27.08.031">Section 27.08.031</cite>, are exempt from this requirement, unless they are specifically designated by this section as requiring review. In making its review, the Zoning Administrator, Development Review Board, and Planning Commission shall be guided by the standards adopted by the Planning Commission and City Council. The application shall be approved if the Zoning Administrator or Commission finds all of the following to exist:</text>
         <para>
           <num>(1)</num>
           <text>The structures, site plan, and landscaping are in scale and harmonious with the character of the neighborhood;</text>
@@ -2922,7 +2940,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>The City Council shall review and make the final determination on all buildings exceeding 55 feet in height or where required by express General Plan provisions.</text>
+        <text>The City Council shall review and make the final determination on all buildings exceeding fifty-five (55) feet in height or where required by express General Plan provisions.</text>
       </para>
       <annotations>
         <annotation type="History">prior code § 152.04(C)</annotation>
@@ -2942,6 +2960,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 2001-36" path="§5" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2004-1" path="§2" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2009-7" path="§9" type="History"/>
+        <annotation app="2024-01-03" doc="City of San Mateo, Cal., Ord. No. 2023-12" eff="2024-01-03" path="§4" type="History"/>
       </annotations>
     </section>
     <section>
@@ -5968,7 +5987,7 @@
           </para>
           <para>
             <num>(2)</num>
-            <text>Processing of Applications. Unless an SB 9 application is submitted pursuant to <cite path="27.21.045">Section 27.21.045</cite> of this Chapter, SB 9 application(s) shall be processed as prescribed in <cite path="27.08.040">Section 27.08.040</cite> of the San Mateo Municipal Code, except that these applications shall be considered ministerially with no public hearing.</text>
+            <text>Processing of Applications. Unless an SB 9 application is submitted pursuant to <cite path="27.21.045">Section 27.21.045</cite> of <cite path="27.21">this Chapter</cite>, SB 9 application(s) shall be processed as prescribed in <cite path="27.08.040">Section 27.08.040</cite> of the San Mateo Municipal Code, except that these applications shall be considered ministerially with no public hearing.</text>
           </para>
         </para>
         <para>
@@ -5981,7 +6000,7 @@
         </para>
         <para>
           <num>(d)</num>
-          <text>Submittal Requirements. In addition to the requirements of <u><cite path="27.08.010|(c)">Section 27.08.010(c)</cite></u>, each application shall be accompanied by all of the following:</text>
+          <text>Submittal Requirements. In addition to the requirements of <cite path="27.08.010|(c)">Section 27.08.010(c)</cite>, each application shall be accompanied by all of the following:</text>
           <para>
             <num>(1)</num>
             <text>Application Forms. Completed SB 9 planning application forms as prescribed by the Department;</text>
@@ -6011,7 +6030,7 @@
             </para>
             <para>
               <num>(B)</num>
-              <text>The development meets all applicable objective standards contained in and required by the General Plan, San Mateo Municipal Code or other City adopted plan;</text>
+              <text>The development meets all applicable objective standards contained in and required by the General Plan, San Mateo Municipal Code or other City adopted plans, policies, or standards;</text>
             </para>
             <para>
               <num>(C)</num>
@@ -6027,12 +6046,13 @@
             <text>Findings of Denial. An SB 9 application shall be denied if the Building Official makes written findings, based upon a preponderance of evidence, that:</text>
             <para>
               <num>(A)</num>
-              <text>The proposed housing development would have a specific adverse impact, as defined and determined in <cite doc="Cal. Gov't Code" path="§65589.5|(d)|(2)">paragraph (2) of subdivision (d) of Section 65589.5</cite>, as amended, of the <cite doc="Cal. Gov't Code">Government Code</cite>, upon public health and safety or the physical environment, and for which there is no feasible method to satisfactorily mitigate or avoid the specific adverse impact(s).</text>
+              <text>The proposed housing development would have a specific adverse impact, as defined and determined in paragraph (2) of subdivision (d) of  <cite doc="Cal. Gov't Code" path="§65867.5">Section 65589.5</cite>, as amended, of the <cite doc="Cal. Gov't Code">Government Code</cite>, upon public health and safety or the physical environment, and for which there is no feasible method to satisfactorily mitigate or avoid the specific adverse impact(s).</text>
             </para>
           </para>
         </para>
         <annotations>
           <annotation app="2022-11-02" doc="City of San Mateo, Cal., Ord. No. 2022-10" eff="2022-11-02" path="§1" type="History"/>
+          <annotation app="2024-01-03" doc="City of San Mateo, Cal., Ord. No. 2023-12" eff="2024-01-03" path="§5" type="History"/>
         </annotations>
       </section>
       <section>
@@ -10121,9 +10141,10 @@
     <section>
       <num>27.39.120</num>
       <heading>RESIDENTIAL DEVELOPMENT STANDARDS.</heading>
-      <text>In this district, residential uses shall be permitted as part of mixed use developments, subject to the standards and requirements of <cite path="27.38.130">Section 27.38.130</cite>.</text>
+      <text>In this district, residential uses shall be permitted as part of mixed-use developments, subject to the City's Objective Design Standards as adopted by resolution of the City Council and requirements of <cite path="27.38.130">Section 27.38.130</cite>.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 1993-7" path="§1" type="History"/>
+        <annotation app="2024-01-03" doc="City of San Mateo, Cal., Ord. No. 2023-12" eff="2024-01-03" path="§6" type="History"/>
       </annotations>
     </section>
   </container>

@@ -2364,14 +2364,15 @@
   <container>
     <prefix>Chapter</prefix>
     <num>7.35</num>
-    <heading>Mandatory Organic Waste Disposal Reduction Ordinance</heading>
+    <heading>Mandatory Organic Waste Disposal<annotation app="2024-01-03" doc="City of San Mateo, Cal., Ord. No. 2023-13" eff="2024-01-03" path="§1" type="History"/></heading>
     <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-27" eff="2022-01-05" path="§1" type="History"/>
     <section>
       <num>7.35.010</num>
       <heading>Title</heading>
-      <text><cite path="7.35">This Chapter</cite> shall be known as the "Mandatory Organic Waste Disposal Reduction Ordinance" and may be so cited and commonly referred to in <cite path="7.35">this Chapter</cite> as the "Ordinance."</text>
+      <text><cite path="7.35">This Chapter</cite> shall be known as the "Mandatory Organic Waste Disposal Reduction" ordinance and may be so cited and commonly referred to in <cite path="7.35">this Chapter</cite> as the "Ordinance."</text>
       <annotations>
         <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-27" eff="2022-01-05" path="§1" type="History"/>
+        <annotation app="2024-01-03" doc="City of San Mateo, Cal., Ord. No. 2023-13" eff="2024-01-03" path="§2" type="History"/>
       </annotations>
     </section>
     <section>
@@ -3493,7 +3494,7 @@
         <text>Process for Enforcement</text>
         <para>
           <num>(1)</num>
-          <text>Jurisdiction Enforcement Officials or Designee for Edible Food Recovery and/or their Designee will monitor compliance with the ordinance randomly and through Compliance Reviews, Route Reviews, investigation of complaints, and an Inspection program (that may include Remote Monitoring). Section 14 establishes Jurisdiction's and Designee for Edible Food Recovery's right to conduct Inspections and investigations.</text>
+          <text>Jurisdiction Enforcement Officials or Designee for Edible Food Recovery and/or their Designee will monitor compliance with the ordinance randomly and through Compliance Reviews, Route Reviews, investigation of complaints, and an Inspection program (that may include Remote Monitoring). <cite path="7.35.120">Section 7.35.120</cite> establishes Jurisdiction's and Designee for Edible Food Recovery's right to conduct Inspections and investigations.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -3501,12 +3502,12 @@
         </para>
         <para>
           <num>(3)</num>
-          <text>For incidences of Prohibited Container Contaminants found in containers, The City or its Designee will issue a Notice of Violation to any generator found to have Prohibited Container Contaminants in a container. Such notice will be provided via a cart tag or other communication immediately upon identification of the Prohibited Container Contaminants or within 30 days after determining that a violation has occurred. If the City or its Designee observes Prohibited Container Contaminants in a generator's containers on more than two (2) consecutive occasion(s), the City or its Designee may assess contamination processing fees or contamination or other penalties on the generator provided by law.</text>
+          <text>For incidences of Prohibited Container Contaminants found in containers, the City or its Designee will issue a Notice of Violation to any generator found to have Prohibited Container Contaminants in a container. Such notice will be provided via a cart tag or other communication immediately upon identification of the Prohibited Container Contaminants or within 30 days after determining that a violation has occurred. If the City or its Designee observes Prohibited Container Contaminants in a generator's containers on more than two (2) consecutive occasion(s), the City or its Designee may assess contamination processing fees or contamination penalties on the generator provided by law.</text>
           <text>The City or its Designee for Edible Food Recovery will issue a Notice of Violation to any Tier One or Tier Two Commercial Edible Food Generator found to have Edible Food in any waste container or to any Food Recovery Organization or Food Recovery Service found to have Edible Food recovered from a Tier One or Tier Two Edible Food Generator in a waste collection container which has not been documented by a notice of significant spoilage as required in this Ordinance. Such notice will be provided by email communication immediately upon identification of the violation or within three (3) calendar days after determining that a violation has occurred. If the City or its Designee for Edible Food Recovery observes Edible Food in a Tier One or Tier Two Commercial Edible Food Generator, or Food Recovery Organization, or Food Recovery Service waste container on more than two (2) consecutive occasion(s), the City or its Designee for Edible Food Recovery may assess an administrative citation and fine, pursuant to the Edible Food Recovery penalties provisions contained in this Ordinance, on the Tier One or Tier Two Commercial Edible Food Generator, Food Recovery Organization, or Food Recovery Service.</text>
         </para>
         <para>
           <num>(4)</num>
-          <text>With the exception of violations of generator contamination of container contents addressed under Section 15(d)(3), the City or its Designee for Edible Food Recovery shall issue a Notice of Violation requiring compliance within 60 days of issuance of the notice.</text>
+          <text>With the exception of violations of generator contamination of container contents addressed under <cite path="7.35.130|(d)|(3)">Section 7.35.130(d)(3)</cite>, the City or its Designee for Edible Food Recovery shall issue a Notice of Violation requiring compliance within 60 days of issuance of the notice.</text>
         </para>
         <para>
           <num>(5)</num>
@@ -3535,7 +3536,7 @@
       <para>
         <num>(f)</num>
         <text>Compliance Deadline Extension Considerations</text>
-        <text>The City or its Designee for Edible Food Recovery may extend the compliance deadlines set forth in a Notice of Violation issued in accordance with Section 15 if it finds that there are extenuating circumstances beyond the control of the respondent that make compliance within the deadlines impracticable, including the following:</text>
+        <text>The City or its Designee for Edible Food Recovery may extend the compliance deadlines set forth in a Notice of Violation issued in accordance with <cite path="7.35.130">Section 7.35.130</cite> if it finds that there are extenuating circumstances beyond the control of the respondent that make compliance within the deadlines impracticable, including the following:</text>
         <para>
           <num>(1)</num>
           <text>Acts of God such as earthquakes, wildfires, flooding, and other emergencies or natural disasters;</text>
@@ -3562,10 +3563,11 @@
       <para>
         <num>(i)</num>
         <text>Civil Penalties for Non-Compliance</text>
-        <text>Beginning January 1, 2024, if the City or its Designee for Edible Food Recovery (Designee for Edible Food determination only for Tier 1 and Tier 2 Commercial Edible food generator and food recovery organization and service requirements) determines that an Organic Waste Generator, Self-Hauler, hauler, Tier One or Tier Two Commercial Edible Food Generator, Food Recovery Organization, Food Recovery Service, or other entity is not in compliance with this ordinance, it shall document the noncompliance or violation, issue a Notice of Violation, and take Enforcement Action pursuant to Section 15, as needed.</text>
+        <text>Beginning January 1, 2024, if the City or its Designee for Edible Food Recovery (Designee for Edible Food determination only for Tier 1 and Tier 2 Commercial Edible food generator and food recovery organization and service requirements) determines that an Organic Waste Generator, Self-Hauler, hauler, Tier One or Tier Two Commercial Edible Food Generator, Food Recovery Organization, Food Recovery Service, or other entity is not in compliance with this ordinance, it shall document the noncompliance or violation, issue a Notice of Violation, and take Enforcement Action pursuant to <cite path="7.35.130">Section 7.35.130</cite>, as needed.</text>
       </para>
       <annotations>
         <annotation app="2022-01-05" doc="City of San Mateo, Cal., Ord. No. 2021-27" eff="2022-01-05" path="§1" type="History"/>
+        <annotation app="2024-01-03" doc="City of San Mateo, Cal., Ord. No. 2023-13" eff="2024-01-03" path="§3" type="History"/>
       </annotations>
     </section>
     <section>
