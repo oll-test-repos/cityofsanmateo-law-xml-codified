@@ -4021,6 +4021,42 @@
       </annotations>
     </section>
     <annotation app="2018-05-16" doc="City of San Mateo, Cal., Ord. No. 2018-3" eff="2018-05-16" path="§2" type="History" display="false"/>
+    <section>
+      <num>27.15.080</num>
+      <heading>AFFORDABLE HOUSING PROJECTS NEAR TRANSIT</heading>
+      <para>
+        <num>(a)</num>
+        <text>Applicability. This Section applies to housing developments in which 100 percent of the total units, exclusive of a manager's unit or units, are for lower income households (as defined in <cite doc="Cal. Health &amp; Safety Code" path="§50079.5">Section 50079.5 of the Health and Safety Code</cite>), except that up to 20 percent of the total units in the development may be for moderate-income households (as defined in <cite doc="Cal. Health &amp; Safety Code" path="§50053">Section 50053 of the Health and Safety Code</cite>) and located within a half-mile of a major transit stop as defined in <cite doc="Cal. Pub. Res. Code" path="§21155">Public Resources Code Section 21155</cite> ("Covered Projects").</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>Reduced Requirements for Covered Projects. When a development standard would physically preclude a proposed project from achieving allowable density, planning applications submitted for Covered projects may request waivers or reductions from up to six applicable development standards in addition to the incentives or concessions otherwise provided by state law. The request to waive or reduce development standards shall be considered by the decision-making body with the authority to act on the Covered Project, and shall be subject to the following findings:</text>
+        <para>
+          <num>(1)</num>
+          <text>The requested deviations will not conflict with the General Plan;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The development is of an excellent design quality and is consistent with applicable Design Guidelines;</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The development is in the best interests of the public health, safety, or welfare;</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The development will not impair the desirability of investment or occupation in the vicinity; and</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>The project has demonstrated use of all allowable incentives consistent with <cite doc="Cal. Gov't Code" path="§65915">Government Code Section 65915</cite>.</text>
+        </para>
+      </para>
+      <annotations>
+        <annotation app="2018-05-16" doc="City of San Mateo, Cal., Ord. No. 2018-3" eff="2018-05-16" path="§2" type="History" display="false"/>
+        <annotation app="2020-08-19" doc="City of San Mateo, Cal., Ord. No. 2020-10" eff="2020-08-19" path="§1" type="History"/>
+      </annotations>
+    </section>
   </container>
   <container>
     <prefix>Chapter</prefix>
