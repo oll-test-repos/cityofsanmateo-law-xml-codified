@@ -11701,14 +11701,14 @@
       </para>
       <para>
         <num>(h)</num>
-        <text>Q8 (Qualified Overlay District 8)—Limitations and Conditions.  The following limitations and conditions shall pertain to the use of the property zoned Q8:</text>
+        <text>Q8 (Qualified Overlay District 8) - Limitations and Conditions. The following limitations and conditions shall pertain to the use of the property zoned Q8:</text>
         <para>
           <num>(1)</num>
-          <text>Uses.  All uses in this district shall require a special use permit, as set forth in <cite path="27.74">Chapter 27.74</cite> of the Zoning Code.</text>
+          <text>Uses. All uses in this district shall require a special use permit, as set forth in <cite path="27.74">Chapter 27.74</cite> of the Zoning Code.</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>Development.  Future development in this district shall comply with the approved site plan and approved Special Use Permit as part of the Planning Application # PA2018-069 approved by the City of San Mateo.</text>
+          <text>Development.  Future development in this district shall comply with the site plans and conditions of approval in all applicable Planning Applications. Development standards include allowance of awning up to nine (9) feet in height within the rear yard setback.</text>
         </para>
         <para>
           <num>(3)</num>
@@ -11716,7 +11716,11 @@
         </para>
         <para>
           <num>(4)</num>
-          <text>Parking.  Off-site parking facilities shall not be located in excess of 1,000 feet from the project site.</text>
+          <text>Parking.  Off-site parking facilities shall not be located in excess of 1,000 feet from the project site. Uncovered parking may be allowed within the front and side setback areas.</text>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Signage. Signage on the site shall be allowed in accordance with <cite path="25">Title 25 of the San Mateo Municipal Code</cite>.</text>
         </para>
       </para>
       <annotations>
@@ -11727,6 +11731,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 2011-5" path="§5" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2013-1" path="§1" type="History"/>
         <annotation app="2019-07-17" doc="City of San Mateo, Cal., Ord. No. 2019-7" eff="2019-07-17" path="§1" type="History"/>
+        <annotation app="2026-02-25" doc="City of San Mateo, Cal., Ord. No. 2026-01" eff="2026-02-25" path="§1" type="History"/>
       </annotations>
     </section>
   </container>
