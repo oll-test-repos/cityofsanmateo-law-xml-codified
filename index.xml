@@ -21,11 +21,11 @@
     <history-start>2018-03-05</history-start>
     <build xmlns:citations="https://open.law/schemas/citations" xmlns:macro="https://open.law/schemas/macro" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
       <repositories>
-        <repository name="cityofsanmateo/law-xml" commit="59fced78c5daae8a65e21c6410d0b2785569415e"/>
+        <repository name="cityofsanmateo/law-xml" commit="556d81edd06c9f27ba6e7d49816954a0d445ef61"/>
       </repositories>
-      <platform version="2.18.13" reproducible="true"/>
-      <build-date>2026-02-17</build-date>
-      <codified-date>2026-03-04</codified-date>
+      <platform version="2.19.3" reproducible="true"/>
+      <build-date>2026-04-02</build-date>
+      <codified-date>2026-03-16</codified-date>
       <publication>publication/2026-02-17</publication>
     </build>
   </meta>
