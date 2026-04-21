@@ -41,7 +41,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="2.22">Chapter 2.22 of the San Mateo Municipal Code</cite> is added to <cite doc="City of San Mateo, Cal., Code" path="2">Title 2</cite> as follows:</text>
     <include>
       <container>
-        <codify:insert path="2" after="2.21" codified:doc="City of San Mateo, Cal., Code" codified:path="|2.22.010|annos" codified:citation="Section 2.22.010" codified:display="New"/>
+        <codify:insert path="2" after="2.21" codified:doc="City of San Mateo, Cal., Code" codified:path="|2.22.010|annos"/>
         <prefix>Chapter</prefix>
         <num>2.22</num>
         <heading> Civic Arts Commission</heading>
@@ -69,7 +69,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="23.60.020">Section 23.60.020 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="23.60.020" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.60.020" codified:citation="Section 23.60.020" codified:display="Amend"/>
+        <codify:replace path="23.60.020" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.60.020"/>
         <num>23.60.020</num>
         <heading>Program Execution.</heading>
         <text>The Civic Arts Commission and the Community Development Department shall carry out the duties established by <cite doc="City of San Mateo, Cal., Code" path="23.60">this chapter</cite>.</text>
@@ -81,7 +81,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="23.60.080">Section 23.60.080 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="23.60.080" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.60.080" codified:citation="Section 23.60.080" codified:display="Amend"/>
+        <codify:replace path="23.60.080" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.60.080"/>
         <num>23.60.080</num>
         <heading>Approval for Placement of Artwork on Private Property</heading>
         <para>
@@ -120,7 +120,7 @@
     <text><cite doc="City of San Mateo, Cal., Code" path="23.60.100">Section 23.60.100 of the San Mateo Municipal Code</cite> is amended as follows:</text>
     <include>
       <section>
-        <codify:replace path="23.60.100" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.60.100" codified:citation="Section 23.60.100" codified:display="Amend"/>
+        <codify:replace path="23.60.100" codified:doc="City of San Mateo, Cal., Code" codified:path="|23.60.100"/>
         <num>23.60.100</num>
         <heading>Artwork on Public Property</heading>
         <para>
