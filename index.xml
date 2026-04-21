@@ -25,7 +25,7 @@
       </repositories>
       <platform version="2.20.1" reproducible="true"/>
       <build-date>2026-04-21</build-date>
-      <codified-date>2024-12-18</codified-date>
+      <codified-date>2025-01-08</codified-date>
       <publication>publication/2026-04-21</publication>
     </build>
   </meta>
@@ -52,5 +52,7 @@
     <xi:include href="./us/ca/cities/san-mateo/ordinances/2010/index.xml"/>
   </collection>
   <xi:include href="./us/ca/cities/san-mateo/drafting-manual/index.xml"/>
-  <collection name="us/ca/cities/san-mateo/editorial-actions" display="false"/>
+  <collection name="us/ca/cities/san-mateo/editorial-actions" display="false">
+    <xi:include href="./us/ca/cities/san-mateo/editorial-actions/2025-06-05.xml"/>
+  </collection>
 </library>
