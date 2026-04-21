@@ -974,7 +974,7 @@
       </para>
       <para>
         <num>(c)</num>
-        <text>"Junior accessory dwelling unit" means an additional, independent living unit created through the conversion of an existing bedroom in a single-family dwelling subject to defined standards, as specified in <cite path="27.19">Chapter 27.19</cite> of <cite path="27">this Title</cite>. Junior accessory dwelling units are distinguished from accessory dwelling units in that they: (1) must include the conversion of an existing legally permitted bedroom(s) within an existing single-family dwelling (no new or additional building area); (2) are smaller in size (maximum size of 500 square feet); (3) contain either independent or shared bathroom facilities with the existing primary residence; (4) contain a small "efficiency food preparation area"; and (5) are subject to unique standards that are not applicable to accessory dwelling units, as specified in <cite path="27.19">Chapter 27.19</cite>.</text>
+        <text>"Junior accessory dwelling unit" means an additional, independent living unit constructed within the walls of a proposed or legally existing single-family residence, including attached garages.</text>
       </para>
       <para>
         <num>(d)</num>
@@ -995,6 +995,7 @@
         <annotation doc="City of San Mateo, Cal., Ord. No. 2003-12" path="§7" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2004-1" path="§1" type="History"/>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2017-5" path="§1" type="History"/>
+        <annotation app="2022-04-20" doc="City of San Mateo, Cal., Ord. No. 2022-02" eff="2022-04-20" path="§2" type="History"/>
       </annotations>
     </section>
     <section>
@@ -5124,393 +5125,437 @@
     <subheading name="article-I-subheading">Article I Accessory Dwelling Unit</subheading>
     <section>
       <num>27.19.010</num>
-      <heading>PURPOSE.</heading>
-      <text>The purpose of this Article is to set forth regulations to permit accessory dwelling units on residential zoned properties (R1-A, R1-B, R1-C, R2, R3, R4, R5, R4D, R5D, R6D and BMSP) with a single-family residential use. A parcel with a single-family residential use, may have only one accessory dwelling unit (ADU) or one junior accessory dwelling unit (JADU), but not both.</text>
+      <heading>Purpose.</heading>
+      <text>The purpose of this Article is to set forth regulations to permit accessory dwelling units (ADUs) in accordance with state law.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2017-5" path="§4" type="History"/>
+        <annotation app="2022-04-20" doc="City of San Mateo, Cal., Ord. No. 2022-02" eff="2022-04-20" path="§3" type="History"/>
       </annotations>
     </section>
     <section>
       <num>27.19.020</num>
-      <heading>PROHIBITION ON SUBDIVISION.</heading>
-      <text>Properties with approved accessory dwelling units may not be subdivided at the time the units are approved or thereafter.</text>
+      <heading>Reserved.</heading>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2017-5" path="§4" type="History"/>
+        <annotation app="2022-04-20" doc="City of San Mateo, Cal., Ord. No. 2022-02" eff="2022-04-20" path="§4" type="History"/>
       </annotations>
     </section>
     <section>
       <num>27.19.030</num>
-      <heading>PROHIBITION ON SALE AND LIMITATION ON RENTAL.</heading>
+      <heading>Prohibition on Sale and Limitation on Rental.</heading>
       <para>
         <num>(a)</num>
-        <text>An accessory dwelling unit shall not be sold separately from the primary residence.</text>
+        <text>An ADU shall not be sold separately from the primary residence.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>If an accessory dwelling unit is rented, the unit shall not be rented for a period of less than 30 consecutive calendar days.</text>
+        <text>If an ADU is rented, the unit shall not be rented for a period of less than 30 consecutive calendar days.</text>
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2017-5" path="§4" type="History"/>
+        <annotation app="2022-04-20" doc="City of San Mateo, Cal., Ord. No. 2022-02" eff="2022-04-20" path="§5" type="History"/>
       </annotations>
     </section>
     <section>
       <num>27.19.040</num>
-      <heading>MINISTERIAL PERMIT REQUIRED.</heading>
-      <text>An accessory dwelling unit permit application for either an attached or a detached accessory dwelling unit is required in order to demonstrate that a unit is in compliance with the provisions of this Article. If the accessory dwelling unit is in full compliance with the provisions of this Article, a ministerial, non-discretionary permit will be issued.</text>
+      <heading>Ministerial Permit Approval.</heading>
+      <text>An ADU permit application for either an attached or a detached ADU is required in order to demonstrate that a unit is in compliance with the provisions of this Article. If the ADU is in full compliance with the provisions of this Article, a ministerial, non-discretionary permit will be issued.  Notwithstanding anything to the contrary in this Code, the issuance of a ministerial ADU permit is not appealable.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2017-5" path="§4" type="History"/>
+        <annotation app="2022-04-20" doc="City of San Mateo, Cal., Ord. No. 2022-02" eff="2022-04-20" path="§6" type="History"/>
+      </annotations>
+    </section>
+    <section>
+      <num>27.19.045</num>
+      <heading>Discretionary Review as Alternative to Ministerial Approval.</heading>
+      <para>
+        <num>(a)</num>
+        <text>As an alternative to ministerial review, an applicant may submit an application for discretionary review of an ADU proposal that is not in full compliance with the provisions of this Article.</text>
+      </para>
+      <para>
+        <num>(b)</num>
+        <text>The application for discretionary approval shall be granted if the Zoning Administrator finds each of the following:</text>
+        <para>
+          <num>(1)</num>
+          <text>The proposed ADU is consistent with all applicable objective design standards in the adopted R1 Single-Family Dwelling Design Guidelines;</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>The proposed ADU would not result in a negative privacy impact on an abutting residential lot; and</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>The proposed ADU would not result in a negative impact to public health, safety, or welfare.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>The proposed ADU, when detached and exceeding the height limit, should provide at least one additional off-street parking space.</text>
+        </para>
+      </para>
+      <para>
+        <num>(c)</num>
+        <text>The decision of the Zoning Administrator shall not preclude the ability of an applicant to receive a ministerial permit pursuant to <cite path="27.19.040">Section 27.19.040</cite> for an ADU that is in full compliance with the provisions of this Article.</text>
+      </para>
+      <para>
+        <num>(d)</num>
+        <text>The decision of the Zoning Administrator may be appealed to the Planning Commission, and the decision of the Planning Commission may be appealed to the City Council, in accordance with SMMC <cite path="27.08.090">27.08.090</cite>.</text>
+      </para>
+      <annotations>
+        <annotation app="2022-04-20" doc="City of San Mateo, Cal., Ord. No. 2022-02" eff="2022-04-20" path="§7" type="History"/>
       </annotations>
     </section>
     <section>
       <num>27.19.050</num>
-      <heading>DEVELOPMENT STANDARDS.</heading>
-      <text>An accessory dwelling unit, as defined in <cite path="27.04.165">Section 27.04.165</cite>, shall comply with the following development standards:</text>
+      <heading>Development Standards</heading>
+      <text>An ADU, as defined in <cite path="27.04.165">Section 27.04.165</cite>, shall comply with the following development standards:</text>
       <para>
         <num>(a)</num>
-        <text>Permitted Zoning Districts. Accessory dwelling units shall only be constructed on residential zoned properties, specifically R1-A, R1-B, R1-C, R2, R3, R4, R5, R4D, R5D, R6D and BMSP, that have been developed with a single-family dwelling unit or an accessory dwelling unit is proposed to be built in conjunction with a single-family dwelling unit, where the single-family dwelling is the primary residential dwelling unit. The residential property shall not be part of a condominium, townhouse, or other multi-family development.</text>
+        <text>Permitted Zoning Districts. ADUs shall only be constructed on a lot zoned to allow residential uses.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>Number of Units. No more than one accessory dwelling unit may be constructed on any site. An accessory dwelling unit shall not be allowed on a site with more than one unit.</text>
+        <text>Number of Units. No more than the number of ADUs allowed by state law may be constructed on any lot.</text>
       </para>
       <para>
         <num>(c)</num>
-        <text>Owner Occupancy. One of the dwelling units on the site shall be owner-occupied.</text>
+        <text>State Exempted "By Right" ADUs. An attached or detached ADU of at least 800 square-feet in size and of at least 16 feet in building height with four-foot side and rear setbacks may be constructed on a lot regardless of any size limitation based on the size of the proposed or existing primary dwelling, lot coverage, floor area ratio, daylight plane, open space, or minimum lot size that would otherwise preclude or limit its construction. The floor area of any new ADU in excess of 800 square feet shall be applied to the maximum floor area allowance of the subject lot as prescribed by the underlying zoning district.</text>
       </para>
       <para>
         <num>(d)</num>
-        <text>Maximum Unit Size. The floor area of an accessory dwelling unit shall not exceed 640 square feet including attic and basement areas as defined in <cite path="27.04.200">Section 27.04.200</cite> for the applicable underlying zoning district, provided that the total floor area for the parcel or lot does not exceed the maximum allowable floor area.</text>
+        <text>Maximum Unit Size. Floor area size maximums for both attached and detached ADU development in excess of 800 square feet are governed by the floor area maximum established by the underlying zoning district and remaining floor area allowance available on the lot. In instances when the existing floor area allowance of a lot has been fully utilized, only the state exempted "by right" ADU of up to 800 square feet is permitted.</text>
+        <para>
+          <num>(1)</num>
+          <text>Accessory Dwelling Unit Conversions. An ADU conversion within the walls of an existing primary residence or accessory structure is not subject to size requirements. ADU conversions may be expanded up to 150 square feet beyond the existing footprint provided the expansion is used to accommodate ingress and egress to the ADU.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Detached Accessory Dwelling Unit and Junior Accessory Dwelling Unit. Subject to the floor area requirements, one new detached ADU may be constructed on a lot with a junior accessory dwelling unit (JADU).</text>
+        </para>
       </para>
       <para>
         <num>(e)</num>
-        <text>Setback and Other Zoning Regulations. For purposes of setbacks and other zoning regulations, the accessory dwelling unit (both attached and detached) shall be considered to be a part of the principal use of subject site and shall be subject to the same requirements of the underlying zoning district, including standards for lot coverage, setbacks, and height, unless otherwise provided in this Article.</text>
+        <text>Height. The specific height maximums are applicable to all zoning districts which permit ADUs.</text>
+        <para>
+          <num>(1)</num>
+          <text>Attached Accessory Dwelling Units. Maximum building height for an attached ADU is 24 feet to top plateline and 32 feet to roof peak as measured from existing grade.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Detached Accessory Dwelling Units. Maximum building height for a detached ADU is 16 feet to top plateline and 24 feet to roof peak as measured from existing grade.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Alternative Discretionary Review for Detached Accessory Dwelling Units.  For a detached ADU proposed to exceed the height limit, an application for discretionary review, pursuant to <cite path="27.19.045">Section 27.19.045</cite>, shall be submitted.</text>
+        </para>
       </para>
       <para>
         <num>(f)</num>
-        <text>Maximum Coverage of Rear Yard. Accessory buildings shall not occupy more than 50% of a required rear yard.</text>
+        <text>Setbacks. An ADU shall have setbacks as follows:</text>
+        <para>
+          <num>(1)</num>
+          <text>No setback shall be required for an existing legally permitted garage or accessory structure that is converted to an ADU which is constructed in the same location and to the same dimensions as the existing structure.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>A minimum setback of four feet shall be required from the side and rear lot lines for all new ADU construction not meeting the criteria set forth in subsection (1) above, including ADUs constructed above an existing legally permitted garage.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>A minimum setback from the front lot line, as required in the lot's underlying zone district, shall be required for all new ADU construction not meeting the criteria set forth in subsection (1) above, including ADUs constructed above an existing legally permitted garage.</text>
+        </para>
       </para>
       <para>
         <num>(g)</num>
-        <text>Existing Accessory Structure. When any accessory dwelling unit is proposed to be attached to an existing accessory structure, the entire structure must comply with all standards for the principal use of the subject site and underlying zoning district, and not those standards for an accessory structure.</text>
+        <text>The ADU, whether attached or detached, shall provide a separate exterior entrance, and permanent provisions for living, sleeping, eating, cooking, and sanitation.</text>
       </para>
       <para>
         <num>(h)</num>
-        <text>Separate Entry, Cooking Facility/Kitchen and Bathroom. The accessory dwelling unit, attached or detached, shall contain a separate entrance, cooking facility/kitchen, and bathroom.</text>
+        <text>Location of Accessory Dwelling Unit. The ADU may be within, attached to, or detached from the primary dwelling unit. ADUs shall be accessory to the primary residence and are permitted in the same locations on the parcel as the primary residence as specified in the underlying zoning district.</text>
       </para>
       <para>
         <num>(i)</num>
-        <text>Wetbar. One wetbar is permitted in a dwelling unit in a common living area room only. A single half-size or small refrigerator is permitted, but a microwave is not.</text>
+        <text>Number and Type of Required Parking Spaces.</text>
+        <para>
+          <num>(1)</num>
+          <text>General Requirements. There shall be a minimum of one standard size off-street parking space for each ADU. All required parking spaces shall be a minimum of 10 feet wide by 18 feet long without any obstructions. Parking associated with ADU or JADU development, whether required or voluntary, must be located entirely on the same lot, and may be provided in a garage, carport, uncovered, or in tandem orientation. Additionally, maximum driveway width for single-car garages may be up to 20 feet to accommodate additional off-street parking. The required parking for the primary residential dwelling unit must comply with current standards, as specified by the underlying zoning district.</text>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Location of Parking for Accessory Dwelling Units.  Parking for the accessory dwelling unit may be located in the required front, side, and rear yard setback areas.</text>
+        </para>
+        <para>
+          <num>(3)</num>
+          <text>Replacement off-street parking is not required when a garage, carport, or covered parking structure is demolished in conjunction with the construction of an ADU or converted to an ADU.</text>
+        </para>
+        <para>
+          <num>(4)</num>
+          <text>Parking Exemptions.  No additional off-street parking shall be required for an ADU in the following instances:</text>
+          <para>
+            <num>(A)</num>
+            <text>The ADU is located within one-half (1/2) mile walking distance of public transit; or</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>The ADU is located within an architecturally and historically significant historic district; or</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>The ADU is in part of the proposed or existing legally permitted primary residence or an existing legally permitted accessory structure; or</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>In an area requiring on-street parking, permits are required but not offered to the occupant of the ADU; or</text>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>When the ADU is located within one block of a car share location.</text>
+          </para>
+        </para>
+        <para>
+          <num>(5)</num>
+          <text>Voluntary Parking. If no parking space is required, a maximum of one off-street parking space per ADU or JADU may be voluntarily provided.</text>
+        </para>
       </para>
       <para>
         <num>(j)</num>
-        <text>Location of Accessory Dwelling Unit. The accessory dwelling unit may be within, attached to, or detached from the primary dwelling unit.</text>
+        <text>Architectural Standards. New ADUs and conversions of an existing legally permitted structure shall be designed to comply with the following standards:</text>
         <para>
           <num>(1)</num>
-          <text>Setback Exceptions.</text>
+          <text>Attached Accessory Dwelling Units. ADUs that are attached to the primary dwelling unit shall:</text>
           <para>
-            <num>a.</num>
-            <text>No setback shall be required for an existing legally permitted garage or accessory structure that is converted to an accessory dwelling unit.</text>
+            <num>(A)</num>
+            <text>Be of the same architectural style as the primary dwelling unit;</text>
           </para>
           <para>
-            <num>b.</num>
-            <text>A minimum setback of five feet shall be required from the side and rear lot lines for an accessory dwelling unit that is constructed above an existing legally permitted garage.</text>
+            <num>(B)</num>
+            <text>Be constructed of similar exterior materials, finishes, and family of colors as the primary dwelling unit;</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Offset windows from neighbor's windows to maximize privacy; and</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>Be designed to meet the daylight plane requirements of the R-1 zoning district as applied to the nearest adjacent side and rear lot lines.</text>
+            <para>
+              <num>(i)</num>
+              <text>Application of the daylight plane requirement shall not preclude a State Exempted "By Right" ADU as defined in <cite path="27.19">this Chapter</cite>.</text>
+            </para>
+          </para>
+        </para>
+        <para>
+          <num>(2)</num>
+          <text>Detached Accessory Dwelling Unit. An ADU that is detached from the primary dwelling unit shall:</text>
+          <para>
+            <num>(A)</num>
+            <text>In instances when an ADU is attached to an accessory structure, provide a uniform and integrated design with that accessory structure;</text>
+          </para>
+          <para>
+            <num>(B)</num>
+            <text>Offset windows from neighbor's windows to maximize privacy;</text>
+          </para>
+          <para>
+            <num>(C)</num>
+            <text>Provide and maintain obscured glazing on second-story windows up to five feet from the finished floor when the windows are located within five feet of a lot line with an abutting residential lot;</text>
+          </para>
+          <para>
+            <num>(D)</num>
+            <text>When an exterior staircase is proposed, it shall have a setback of at least five feet from the nearest lot line and the size of the second story landing shall be limited to the minimum area required to allow ingress and egress as specified by the California Building Code;</text>
+            <para>
+              <num>(i)</num>
+              <text>For an ADU that seeks to have a larger second story deck, an application for discretionary review, pursuant to <cite path="27.19.045">Section 27.19.045</cite>, shall be submitted.</text>
+            </para>
+          </para>
+          <para>
+            <num>(E)</num>
+            <text>Be designed to meet the daylight plane requirements of the R-1 zoning district as applied to the nearest adjacent side and rear lot lines.</text>
           </para>
         </para>
       </para>
       <para>
         <num>(k)</num>
-        <text>Number and Type of Required Parking.</text>
-        <para>
-          <num>(1)</num>
-          <text>General Requirements. There shall be a minimum of one (1) standard size off-street parking space for each accessory dwelling unit or bedroom, whichever is less. The required accessory dwelling unit parking may be located in a garage, carport, uncovered or tandem space.  In addition, the required parking for the primary residential dwelling unit must comply with current code standards, as specified by the underlying zoning district.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>Location of Required Parking for Accessory Dwelling Unit. The required parking for the accessory dwelling unit may be located on the rear one-third of the property, including the required rear yard setback and a portion of the required side yard and street side yard setback areas. The required parking shall not be located within the required front, interior side yard, or street side yard setback areas outside of the rear one-third of the property.</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>Replacement Parking for Primary Dwelling. When a garage, carport, or covered parking structure is demolished or converted in conjunction with the construction of an accessory dwelling unit, and the required off-street parking spaces for the primary single-family dwelling unit must be replaced, the replacement spaces shall be located on the same parcel as the accessory dwelling unit in the following configurations, or a combination thereof:</text>
-          <text>
-            <ul>
-              <li>Garage parking spaces;</li>
-              <li>Carport parking spaces;</li>
-              <li>Uncovered parking spaces; or</li>
-              <li>Tandem parking spaces.</li>
-            </ul>
-          </text>
-          <para>
-            <num>a.</num>
-            <text>The required replacement parking may be located within the required front yard setback, street side setback, and rear yard setback areas. It may also be located within a portion of the interior side yard setback provided that minimum five-foot wide side yard clearance with no obstruction is maintained.</text>
-          </para>
-          <para>
-            <num>b.</num>
-            <text>Landscape and Limits on Paving Standards. The required replacement parking located on the subject property shall be designed to comply with the landscape and paving standards set forth in <cite path="27.18.070|(d)">Section 27.18.070(d)</cite> and <cite path="27.18.080|(b)|(4)">27.18.080(b)(4)</cite>, "Limits on paving" standards.</text>
-          </para>
-        </para>
-        <para>
-          <num>(4)</num>
-          <text>All required parking spaces shall be a minimum of 10 feet wide by 18 feet long without any obstructions.</text>
-        </para>
-        <para>
-          <num>(5)</num>
-          <text>Parking Exemptions.  No additional parking shall be required for an accessory dwelling unit in the following instances:</text>
-          <para>
-            <num>a.</num>
-            <text>The accessory dwelling unit is located within one-half (1/2) mile of public transit stop;</text>
-          </para>
-          <para>
-            <num>b.</num>
-            <text>The accessory dwelling unit is located within an architecturally and historically significant historic district;</text>
-          </para>
-          <para>
-            <num>c.</num>
-            <text>The accessory dwelling unit is in part of the existing legally permitted primary residence or an existing legally permitted accessory structure;</text>
-          </para>
-          <para>
-            <num>d.</num>
-            <text>In an area requiring on-street parking, permits are required but not offered to the occupant of the accessory dwelling unit;</text>
-          </para>
-          <para>
-            <num>e.</num>
-            <text>When the accessory dwelling unit is located within one block of a car sharing pick-up/drop-off location.</text>
-          </para>
-        </para>
+        <text>Development Impact Fees. Development impact fees for ADUs shall be established in an amount set forth by resolution of the City Council.</text>
       </para>
       <para>
         <num>(l)</num>
-        <text>Architectural Standards. New accessory dwelling units and conversions of an existing legally permitted structure shall be designed to comply with the following standards:</text>
-        <para>
-          <num>(1)</num>
-          <text>Attached Accessory Dwelling Units. Accessory dwelling units that are attached to the primary residential dwelling unit shall:</text>
-          <para>
-            <num>a.</num>
-            <text>Locate the primary entrance to the accessory dwelling unit no closer to the street than the primary residential dwelling unit;</text>
-          </para>
-          <para>
-            <num>b.</num>
-            <text>Be of the same architectural style as the primary structure;</text>
-          </para>
-          <para>
-            <num>c.</num>
-            <text>Be constructed of the similar exterior materials, finishes, and family of colors as the primary residential dwelling unit; and</text>
-          </para>
-          <para>
-            <num>d.</num>
-            <text>Offset windows from neighbor's windows to maximize privacy.</text>
-          </para>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>Detached Accessory Dwelling Units. Accessory dwelling units that are detached from the primary residential dwelling unit shall:</text>
-          <para>
-            <num>a.</num>
-            <text>Comply with the architectural standards listed above under attached accessory dwelling units;</text>
-          </para>
-          <para>
-            <num>b.</num>
-            <text>Be designed to minimize the visibility of the accessory dwelling unit from the street(s), with the exception that corner lots are excluded from this requirement; and</text>
-          </para>
-          <para>
-            <num>c.</num>
-            <text>Offset windows from neighbor's windows to maximize privacy.</text>
-          </para>
-        </para>
+        <text>Utility Service. If an ADU is constructed within existing space, a separate water connection, a sewer service connection, or power connection is not required for an ADU. If an ADU is not constructed within existing space, the City may require new or separate utility connections.</text>
       </para>
       <para>
         <num>(m)</num>
-        <text>Heritage Tree Standards. New accessory dwelling units and conversions of an existing legally permitted structure shall be designed to comply with the standards for the preservation of heritage trees in <cite path="13.52">Chapter 13.52</cite>, "Heritage Trees."</text>
+        <text>Utility Fees. For an ADU located within an existing structure, payment of a connection fee or capacity charge is not required. For an ADU that is separate from an existing structure, the City will require payment of a connection fee or capacity charge that is proportionate to the ADU's burden.</text>
       </para>
       <para>
         <num>(n)</num>
-        <text>Utility Service. A separate water connection, a separate sewer service connection, and power connection as water, sewer, and power service is not required for an accessory dwelling unit.</text>
+        <text>Address Assignment.  An application for a building permit for an ADU must include application for a separate address assignment.</text>
       </para>
       <para>
         <num>(o)</num>
-        <text>Utility Fees. Accessory dwelling units shall not be considered new residential uses for the purposes of calculating City connection fees or capacity charges for utilities, including water and sewer service. For an accessory dwelling unit located within an existing structure, neither the installation of a new or separate utility connection nor the payment of a connection fee or capacity charge is required. For an accessory dwelling unit that is separate from an existing structure, the city will require a new or separate utility connection directly between the accessory dwelling and the utility.</text>
+        <text>Other Requirements. All other zoning requirements shall be complied with unless an authorized variance is approved.</text>
       </para>
       <para>
         <num>(p)</num>
-        <text>Other Requirements. All other zoning requirements shall be complied with unless an authorized variance is approved.</text>
+        <text>For ADUs proposed within an existing multi-family structure or on a lot with an existing multi-family dwelling, the provisions of <cite doc="Cal. Gov't Code" path="§65852.2|(e)|(1)">Government Code Section 65852.2(e)(1)</cite> apply.</text>
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2017-5" path="§4" type="History"/>
         <annotation app="2018-05-16" doc="City of San Mateo, Cal., Ord. No. 2018-3" eff="2018-05-16" path="§3" type="History"/>
         <annotation app="2018-05-16" doc="City of San Mateo, Cal., Ord. No. 2018-3" eff="2018-05-16" path="§4" type="History"/>
+        <annotation app="2022-04-20" doc="City of San Mateo, Cal., Ord. No. 2022-02" eff="2022-04-20" path="§8" type="History"/>
       </annotations>
     </section>
     <section>
       <num>27.19.060</num>
-      <heading>RECORDATION OF DEED RESTRICTION.</heading>
-      <para>
-        <num>(a)</num>
-        <text>A deed restriction shall be recorded to run with the land and submitted to the City prior to building permit issuance which indicates the following:</text>
-        <para>
-          <num>(1)</num>
-          <text>Only one unit may be occupied solely by persons other than the owner or owners of record.</text>
-        </para>
-        <para>
-          <num>(2)</num>
-          <text>If an accessory dwelling unit is rented, the unit shall not be rented for a period of less than 30 consecutive calendar days.</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>Sale of the accessory dwelling unit separately from the sale of the single-family residence is prohibited.</text>
-        </para>
-        <para>
-          <num>(4)</num>
-          <text>The approved size and attributes of the accessory dwelling unit.</text>
-        </para>
-      </para>
-      <para>
-        <num>(b)</num>
-        <text>A copy of this deed restriction must be given to each prospective occupant.</text>
-      </para>
+      <heading>Reserved.</heading>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2017-5" path="§4" type="History"/>
+        <annotation app="2022-04-20" doc="City of San Mateo, Cal., Ord. No. 2022-02" eff="2022-04-20" path="§9" type="History"/>
       </annotations>
     </section>
     <subheading name="article-II-subheading">Article II Junior Accessory Dwelling Unit</subheading>
     <section>
       <num>27.19.070</num>
-      <heading>PURPOSE.</heading>
-      <text>The purpose of this Article is to set forth regulations to permit junior accessory dwelling units on one- and two-family residential zoned properties (R1-A, R1-B, R1-C, and R2). A parcel with an existing legally permitted single-family use may have only one accessory dwelling unit or one junior accessory dwelling unit, but, not both.</text>
+      <heading>Purpose.</heading>
+      <text>The purpose of this Article is to set forth regulations to permit junior accessory dwelling units (JADUs).</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2017-5" path="§4" type="History"/>
+        <annotation app="2022-04-20" doc="City of San Mateo, Cal., Ord. No. 2022-02" eff="2022-04-20" path="§10" type="History"/>
       </annotations>
     </section>
     <section>
       <num>27.19.080</num>
-      <heading>PROHIBITION ON SUBDIVISION.</heading>
-      <text>Properties with approved junior accessory dwelling units may not be subdivided at the time said unit is approved or thereafter.</text>
+      <heading>Reserved.</heading>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2017-5" path="§4" type="History"/>
+        <annotation app="2022-04-20" doc="City of San Mateo, Cal., Ord. No. 2022-02" eff="2022-04-20" path="§11" type="History"/>
       </annotations>
     </section>
     <section>
       <num>27.19.090</num>
-      <heading>PROHIBITION ON SALE AND LIMITATION ON RENTAL.</heading>
+      <heading>Prohibition on Sale and Limitation on Rental.</heading>
       <para>
         <num>(a)</num>
-        <text>A junior accessory dwelling unit shall not be sold separately from the primary residence.</text>
+        <text>A JADU shall not be sold separately from the primary residence.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>If a junior accessory dwelling unit is rented, the unit shall not be rented for a period of less than 30 consecutive calendar days.</text>
+        <text>If a JADU is rented, the unit shall not be rented for a period of less than 30 consecutive calendar days.</text>
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2017-5" path="§4" type="History"/>
+        <annotation app="2022-04-20" doc="City of San Mateo, Cal., Ord. No. 2022-02" eff="2022-04-20" path="§12" type="History"/>
       </annotations>
     </section>
     <section>
       <num>27.19.100</num>
-      <heading>MINISTERIAL PERMIT REQUIRED.</heading>
-      <text>A junior accessory dwelling unit permit application is required in order to demonstrate that the unit is in compliance with the provisions of this Article. If the junior accessory dwelling unit is in full compliance with the provisions of this Article, a ministerial, non-discretionary permit shall be issued.</text>
+      <heading>Ministerial Permit Required.</heading>
+      <text>A JADU permit application is required in order to demonstrate that the unit is in compliance with the provisions of this Article. If the JADU is in full compliance with the provisions of this Article, a ministerial, non-discretionary permit shall be issued.</text>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2017-5" path="§4" type="History"/>
+        <annotation app="2022-04-20" doc="City of San Mateo, Cal., Ord. No. 2022-02" eff="2022-04-20" path="§13" type="History"/>
       </annotations>
     </section>
     <section>
       <num>27.19.110</num>
-      <heading>DEVELOPMENT STANDARDS.</heading>
+      <heading>Development Standards.</heading>
       <text>A "junior accessory dwelling unit," as defined in <cite path="27.04.165">Section 27.04.165</cite>, must comply with the following development standards:</text>
       <para>
         <num>(a)</num>
-        <text>Permitted Zoning Districts. Junior accessory dwelling units shall only be constructed on one- and two-family residential zoned properties, specifically R1-A, R1-B, R1-C, and R2, with an existing legally permitted single-family dwelling. The residential property shall not be part of a condominium, townhouse, or other multi-family development.</text>
+        <text>Permitted Zoning Districts. JADUs shall only be constructed on lots zoned to allow single-family residential use, or for which a single-family residence exists or is proposed to be built. The residential lot shall not be part of a condominium, townhouse, or other multi-family development.</text>
       </para>
       <para>
         <num>(b)</num>
-        <text>Limit to the Number of Junior Accessory Dwelling Units. The number of junior accessory dwelling units is limited to one per residential parcel zoned for one-family dwelling unit or two-family dwelling units with a single-family dwelling already built on the parcel.</text>
+        <text>Limit to the Number of Junior Accessory Dwelling Units. The number of JADUs is limited to one per residential lot with a single-family residence. Lots with multi-family housing or more than one detached single-family dwelling are not eligible for JADUs.</text>
       </para>
       <para>
         <num>(c)</num>
-        <text>Setback and Other Zoning Regulations. For purposes of setbacks and other zoning regulations, the junior accessory dwelling unit shall be considered to be a part of the principal use of subject site and shall be subject to the same requirements of the underlying zoning district.</text>
+        <text>Setback and Other Zoning Regulations. For purposes of setbacks and other zoning regulations, the JADU shall be considered to be a part of the principal use of subject site and shall be subject to the same requirements of the underlying zoning district.</text>
       </para>
       <para>
         <num>(d)</num>
-        <text>Maximum Unit Size. The floor area of a junior accessory dwelling unit shall not exceed 500 square feet, including attic and basement areas as defined in <cite path="27.04.200">Section 27.04.200</cite> for the applicable zoning district, provided that the total floor area for the parcel or lot does not exceed the maximum allowable floor area.</text>
+        <text>Maximum Unit Size. The floor area of a JADU shall not exceed 650 square feet, including attic and basement areas as defined in <cite path="27.04.200">Section 27.04.200</cite> for the applicable zoning district.</text>
       </para>
       <para>
         <num>(e)</num>
-        <text>Construct within Existing Structure. The junior accessory dwelling unit shall be constructed within the existing walls of an existing, legally permitted single-family dwelling unit and must include the conversion of an existing, legally permitted bedroom.</text>
+        <text>Construct within Existing Structure. The JADU shall be constructed within the walls of the proposed or legally existing single-family dwelling unit, including an attached garage. Detached accessory structures, including detached garages or carports, are not permitted to be converted into JADUs.</text>
       </para>
       <para>
         <num>(f)</num>
-        <text>Unit Access.</text>
+        <text>Unit Access. A JADU must include:</text>
         <para>
           <num>(1)</num>
-          <text>A separate exterior entry from the main entrance to the one-family dwelling, which shall be provided to serve the junior accessory dwelling unit only; and</text>
+          <text>A separate exterior entry from the main entrance to the single-family dwelling, which shall be provided to serve the JADU only; and</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>An interior entry access between the junior accessory dwelling unit and the one-family dwelling that is located off of the common living area of the primary residence, such as the living room, family room, dining room, den, office, home gym, kitchen, or an interior hallway leading to these common living areas. This interior entry access may be a door equipped with a double lock. A permitted junior accessory dwelling unit may include a second interior door for sound attenuation.</text>
+          <text>An interior entry access between the JADU and the single-family dwelling. This interior entry access may be a door equipped with a double lock. A permitted JADU may include a second interior door for sound attenuation.</text>
         </para>
       </para>
       <para>
         <num>(g)</num>
-        <text>Efficiency Food Preparation Area. A junior accessory dwelling unit shall include a small efficiency food preparation area that is limited to the following components:</text>
+        <text>Efficiency Food Preparation Area. A JADU shall include an efficiency kitchen that includes the following components:</text>
         <para>
           <num>(1)</num>
-          <text>A sink with a maximum width and length dimensions of 16 inches and with a maximum waste line diameter of one and one-half inches;</text>
+          <text>Cooking facility with appliances; and</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>Food preparation appliances that do not require electrical service greater than 120 volts or natural or propane gas;</text>
-        </para>
-        <para>
-          <num>(3)</num>
-          <text>A food preparation counter and storage cabinets which do not exceed six feet in total length.</text>
+          <text>Food preparation counter and storage with cabinets that are of reasonable size in relation to the size of the JADU.</text>
         </para>
       </para>
       <para>
         <num>(h)</num>
-        <text>Wetbar. One wetbar is permitted in a dwelling unit in a common living area room only. A single half-size or smaller refrigerator is permitted, but a microwave is not.</text>
+        <text>Sanitation Facilities. A JADU may include its own separate sanitation facilities or may share sanitation facilities with the primary dwelling unit.</text>
       </para>
       <para>
         <num>(i)</num>
         <text>Building and Fire Requirements.</text>
         <para>
           <num>(1)</num>
-          <text>No fire wall separation or noise attenuation measures are required between the main dwelling and the junior accessory dwelling unit. No fire sprinklers are required for the junior accessory dwelling unit, unless the associated improvements meet the threshold for a "substantial remodel" as defined by Chapter 23, Building and Construction, of the San Mateo Municipal Code. The junior accessory dwelling unit shall have an adjoining door connected to the main living area for fire separation. A smoke alarm shall be required in the junior accessory dwelling unit and shall be connected to the smoke alarm in the main residence.</text>
+          <text>No fire wall separation or noise attenuation measures are required between the main dwelling and the JADU. No fire sprinklers are required for the JADU, unless the associated improvements meet the threshold for a "substantial remodel" as defined by Chapter 23, Building and Construction, of the San Mateo Municipal Code. The JADU shall have an adjoining door connected to the main living area for fire separation. A smoke alarm shall be required in the JADU and shall be connected to the smoke alarm in the main residence.</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>The junior accessory dwelling unit shall be equipped with a carbon monoxide detector.</text>
+          <text>The JADU shall be equipped with a carbon monoxide detector.</text>
         </para>
       </para>
       <para>
         <num>(j)</num>
-        <text>Utility Service. A separate water connection, a separate sewer service connection, and power connection as water, sewer, and power service is not required for a junior accessory dwelling unit.</text>
+        <text>Utility Service. A separate water connection, a separate sewer service connection, and power connection as water, sewer, and power service is not required for a JADU.</text>
       </para>
       <para>
         <num>(k)</num>
-        <text>Parking. No additional off-street parking is required for a junior accessory dwelling unit.</text>
+        <text>Parking. No additional off-street parking is required for a JADU.</text>
+      </para>
+      <para>
+        <num>(l)</num>
+        <text>Address Assignment. An application for a building permit for a JADU must include application for a separate address assignment.</text>
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2017-5" path="§4" type="History"/>
+        <annotation app="2022-04-20" doc="City of San Mateo, Cal., Ord. No. 2022-02" eff="2022-04-20" path="§14" type="History"/>
       </annotations>
     </section>
     <section>
       <num>27.19.120</num>
-      <heading>RECORDATION OF DEED RESTRICTION.</heading>
+      <heading>Recordation of Deed Restriction.</heading>
       <para>
         <num>(a)</num>
         <text>A deed restriction shall be recorded to run with the land and submitted to the City prior to building permit issuance which indicates the following:</text>
         <para>
           <num>(1)</num>
-          <text>Only one unit may be occupied solely by persons other than the owner or owners of record.</text>
+          <text>The property owner must occupy either the single-family residence or the JADU.</text>
         </para>
         <para>
           <num>(2)</num>
-          <text>If a junior accessory dwelling unit is rented, the unit shall not be rented for a period of less than 30 consecutive calendar days.</text>
+          <text>If the JADU is rented, the unit shall not be rented for a period of less than 30 consecutive calendar days.</text>
         </para>
         <para>
           <num>(3)</num>
-          <text>Sale of the junior accessory dwelling unit separately from the single-family residence is prohibited.</text>
+          <text>Sale of the JADU separately from the single-family residence is prohibited.</text>
         </para>
         <para>
           <num>(4)</num>
-          <text>The approved size and attributes of the junior accessory dwelling unit.</text>
+          <text>The approved size and attributes of the JADU.</text>
         </para>
       </para>
       <para>
@@ -5519,6 +5564,7 @@
       </para>
       <annotations>
         <annotation doc="City of San Mateo, Cal., Ord. No. 2017-5" path="§4" type="History"/>
+        <annotation app="2022-04-20" doc="City of San Mateo, Cal., Ord. No. 2022-02" eff="2022-04-20" path="§15" type="History"/>
       </annotations>
     </section>
   </container>
