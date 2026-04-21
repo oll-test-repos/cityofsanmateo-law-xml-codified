@@ -52,7 +52,7 @@
         <num>1.04.050</num>
         <heading>Enforcement – Citation Authority.</heading>
         <para>
-          <codify:replace path="1.04.050|(a)" codified:doc="City of San Mateo, Cal., Code" codified:path="|1.04.050|(a)" codified:citation="Section 1.04.050" codified:display="Amend"/>
+          <codify:replace path="1.04.050|(a)" codified:doc="City of San Mateo, Cal., Code" codified:path="|1.04.050|(a)"/>
           <num>(a)</num>
           <text>Persons employed in the following positions, or their designees, may enforce the provisions of the San Mateo Municipal Code and regulations adopted pursuant thereto by the issuance of administrative citations under <cite doc="City of San Mateo, Cal., Code" path="1.10">Chapter 1.10</cite> of this code.</text>
           <include>
