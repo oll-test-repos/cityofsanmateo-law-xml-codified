@@ -33,7 +33,7 @@
   <container>
     <prefix>Chapter</prefix>
     <num>2.05</num>
-    <heading>City Council District Elections</heading>
+    <heading>CITY COUNCIL DISTRICT ELECTIONS<annotation app="2021-12-15" doc="City of San Mateo, Cal., Ord. No. 2021-22" eff="2021-12-15" path="" type="History" display="false"/></heading>
     <annotation app="2021-12-15" doc="City of San Mateo, Cal., Ord. No. 2021-22" eff="2021-12-15" path="§1" type="History"/>
     <section>
       <num>2.05.010</num>
@@ -342,7 +342,7 @@
   <container>
     <prefix>Chapter</prefix>
     <num>2.22</num>
-    <heading> Civic Arts Commission</heading>
+    <heading>CIVIC ARTS COMMISSION<annotation app="2025-12-03" doc="City of San Mateo, Cal., Ord. No. 2025-10" eff="2025-12-03" path="" type="History" display="false"/></heading>
     <section>
       <num>2.22.010</num>
       <heading>Organization.</heading>
@@ -533,7 +533,7 @@
   <container>
     <prefix>Chapter</prefix>
     <num>2.29</num>
-    <heading>Senior Advisory Commission<annotation app="2025-01-08" doc="City of San Mateo, Cal., Ord. No. 2024-11" eff="2025-01-08" path="" type="History" display="false"/></heading>
+    <heading>SENIOR ADVISORY COMMISSION<annotation app="2025-01-08" doc="City of San Mateo, Cal., Ord. No. 2024-11" eff="2025-01-08" path="" type="History" display="false"/><annotation app="2025-01-08" doc="Editor Action 2025-06-05" eff="2025-01-08" path="" type="History" display="false"/></heading>
     <section>
       <num>2.29.010</num>
       <heading>Organization.</heading>

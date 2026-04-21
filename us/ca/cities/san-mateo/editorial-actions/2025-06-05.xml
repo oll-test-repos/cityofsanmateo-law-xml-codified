@@ -11,4 +11,8 @@
       <heading>Senior Advisory Commission</heading>
     </codify:replace>
   </codify:insert>
+  <codify:replace applicability="2025-01-08" doc="City of San Mateo, Cal., Code" path="2.29|heading" history="false" codified:doc="City of San Mateo, Cal., Code" codified:path="|2.29">
+    <heading>SENIOR ADVISORY COMMISSION</heading>
+    <annotation app="2026-02-03" doc="Editor Action 2026-02-03" eff="2026-02-03" path="" type="History" display="false"/>
+  </codify:replace>
 </document>
